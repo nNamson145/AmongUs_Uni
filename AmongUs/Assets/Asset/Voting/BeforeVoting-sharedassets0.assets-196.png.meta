@@ -1,0 +1,705 @@
+fileFormatVersion: 2
+guid: dd44c2673d857fb4da6b881b95f3c78a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7578984258759992998
+    second: BeforeVoting-sharedassets0.assets-196_0
+  - first:
+      213: 4808389042845954785
+    second: BeforeVoting-sharedassets0.assets-196_1
+  - first:
+      213: -1009459973547029953
+    second: BeforeVoting-sharedassets0.assets-196_2
+  - first:
+      213: -7843827898176585945
+    second: BeforeVoting-sharedassets0.assets-196_3
+  - first:
+      213: -4119384962479971523
+    second: BeforeVoting-sharedassets0.assets-196_4
+  - first:
+      213: -6337438945428001608
+    second: BeforeVoting-sharedassets0.assets-196_5
+  - first:
+      213: -7984227553969574951
+    second: BeforeVoting-sharedassets0.assets-196_6
+  - first:
+      213: 3874248218147906589
+    second: BeforeVoting-sharedassets0.assets-196_7
+  - first:
+      213: -5892254301118338582
+    second: BeforeVoting-sharedassets0.assets-196_8
+  - first:
+      213: 4395741296028655984
+    second: BeforeVoting-sharedassets0.assets-196_9
+  - first:
+      213: -377734678856472497
+    second: BeforeVoting-sharedassets0.assets-196_10
+  - first:
+      213: -3436936426209969250
+    second: BeforeVoting-sharedassets0.assets-196_11
+  - first:
+      213: -4501395811419234948
+    second: BeforeVoting-sharedassets0.assets-196_12
+  - first:
+      213: 3938088952818309272
+    second: BeforeVoting-sharedassets0.assets-196_13
+  - first:
+      213: 502544403109625255
+    second: BeforeVoting-sharedassets0.assets-196_14
+  - first:
+      213: -6344799210862731209
+    second: BeforeVoting-sharedassets0.assets-196_15
+  - first:
+      213: 1132449747182134554
+    second: BeforeVoting-sharedassets0.assets-196_16
+  - first:
+      213: 4938755724377763790
+    second: BeforeVoting-sharedassets0.assets-196_17
+  - first:
+      213: 2905237979096851969
+    second: BeforeVoting-sharedassets0.assets-196_18
+  - first:
+      213: 7084854816199153400
+    second: BeforeVoting-sharedassets0.assets-196_19
+  - first:
+      213: 3709909405602590371
+    second: BeforeVoting-sharedassets0.assets-196_20
+  - first:
+      213: 2293701078587773598
+    second: BeforeVoting-sharedassets0.assets-196_21
+  - first:
+      213: -7762684970125522418
+    second: BeforeVoting-sharedassets0.assets-196_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BeforeVoting-sharedassets0.assets-196_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 948
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59555ac8f902d690800000000000000
+      internalID: -7578984258759992998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeVoting-sharedassets0.assets-196_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 217
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2b6b8cb54dab240800000000000000
+      internalID: 4808389042845954785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeVoting-sharedassets0.assets-196_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 195
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a01cd908dadf1f0800000000000000
+      internalID: -1009459973547029953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeVoting-sharedassets0.assets-196_3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 195
+        width: 183
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fb2e1c510252390800000000000000
+      internalID: -7843827898176585945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeVoting-sharedassets0.assets-196_4
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 214
+        width: 217
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33ab4ab33105d6c0800000000000000
+      internalID: -4119384962479971523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeVoting-sharedassets0.assets-196_5
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 214
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bca9083bd4ec08a0800000000000000
+      internalID: -6337438945428001608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeVoting-sharedassets0.assets-196_6
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 218
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbe1c78753523190800000000000000
+      internalID: -7984227553969574951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeVoting-sharedassets0.assets-196_7
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 226
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14656e4a3814c530800000000000000
+      internalID: 3874248218147906589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeVoting-sharedassets0.assets-196_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 91
+        width: 106
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9e29f7ee18a3ea0800000000000000
+      internalID: -5892254301118338582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeVoting-sharedassets0.assets-196_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 99
+        width: 86
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071ad4a4b6fc00d30800000000000000
+      internalID: 4395741296028655984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeVoting-sharedassets0.assets-196_10
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 99
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48e9679f4402caf0800000000000000
+      internalID: -377734678856472497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeVoting-sharedassets0.assets-196_11
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 99
+        width: 157
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b7720b78c8d40d0800000000000000
+      internalID: -3436936426209969250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeVoting-sharedassets0.assets-196_12
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 126
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ddce2eb54d781c0800000000000000
+      internalID: -4501395811419234948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeVoting-sharedassets0.assets-196_13
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 123
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89810a6a907e6a630800000000000000
+      internalID: 3938088952818309272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeVoting-sharedassets0.assets-196_14
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 125
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adb537d87569f600800000000000000
+      internalID: 502544403109625255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeVoting-sharedassets0.assets-196_15
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 124
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7302951ebbeb2f7a0800000000000000
+      internalID: -6344799210862731209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeVoting-sharedassets0.assets-196_16
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 123
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15a5ca8b0547bf00800000000000000
+      internalID: 1132449747182134554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeVoting-sharedassets0.assets-196_17
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 121
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfa6f72a2cf98440800000000000000
+      internalID: 4938755724377763790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeVoting-sharedassets0.assets-196_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 285
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106aa04ac8a715820800000000000000
+      internalID: 2905237979096851969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeVoting-sharedassets0.assets-196_19
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 91
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f614cc0be5725260800000000000000
+      internalID: 7084854816199153400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeVoting-sharedassets0.assets-196_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 91
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aea2ddc2fe3c7330800000000000000
+      internalID: 3709909405602590371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeVoting-sharedassets0.assets-196_21
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1
+        width: 340
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92972a7afcd4df10800000000000000
+      internalID: 2293701078587773598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeforeVoting-sharedassets0.assets-196_22
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 22
+        width: 124
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a876ce527654490800000000000000
+      internalID: -7762684970125522418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2455 @@
+fileFormatVersion: 2
+guid: eac70c420ffe1dd4db5fed92775b5f21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 23931941692679802
+    second: SuitW-sharedassets0.assets-211_0
+  - first:
+      213: 1753365732114101094
+    second: SuitW-sharedassets0.assets-211_1
+  - first:
+      213: -2363359519039698840
+    second: SuitW-sharedassets0.assets-211_2
+  - first:
+      213: -4562958291061629647
+    second: SuitW-sharedassets0.assets-211_3
+  - first:
+      213: 7587466898547623937
+    second: SuitW-sharedassets0.assets-211_4
+  - first:
+      213: -4621486525209616894
+    second: SuitW-sharedassets0.assets-211_5
+  - first:
+      213: 3297904074511729861
+    second: SuitW-sharedassets0.assets-211_6
+  - first:
+      213: 8822089863887519736
+    second: SuitW-sharedassets0.assets-211_7
+  - first:
+      213: -7153337530942735970
+    second: SuitW-sharedassets0.assets-211_8
+  - first:
+      213: 7101834514352092832
+    second: SuitW-sharedassets0.assets-211_9
+  - first:
+      213: -4826763885605733474
+    second: SuitW-sharedassets0.assets-211_10
+  - first:
+      213: 2750847880059014863
+    second: SuitW-sharedassets0.assets-211_11
+  - first:
+      213: 8001065632698553877
+    second: SuitW-sharedassets0.assets-211_12
+  - first:
+      213: 252492623837335748
+    second: SuitW-sharedassets0.assets-211_13
+  - first:
+      213: 8621123725898350858
+    second: SuitW-sharedassets0.assets-211_14
+  - first:
+      213: -3390708133082995607
+    second: SuitW-sharedassets0.assets-211_15
+  - first:
+      213: -9155180774465510607
+    second: SuitW-sharedassets0.assets-211_16
+  - first:
+      213: -4397724164887404889
+    second: SuitW-sharedassets0.assets-211_17
+  - first:
+      213: 1261934939122528505
+    second: SuitW-sharedassets0.assets-211_18
+  - first:
+      213: 2371206026699739653
+    second: SuitW-sharedassets0.assets-211_19
+  - first:
+      213: -8137947282405840826
+    second: SuitW-sharedassets0.assets-211_20
+  - first:
+      213: 3428607026199472058
+    second: SuitW-sharedassets0.assets-211_21
+  - first:
+      213: -6808740428684174053
+    second: SuitW-sharedassets0.assets-211_22
+  - first:
+      213: -6726763392122438769
+    second: SuitW-sharedassets0.assets-211_23
+  - first:
+      213: 2180366471325898488
+    second: SuitW-sharedassets0.assets-211_24
+  - first:
+      213: -2616631156294637894
+    second: SuitW-sharedassets0.assets-211_25
+  - first:
+      213: 9186077986717532283
+    second: SuitW-sharedassets0.assets-211_26
+  - first:
+      213: 9030732175148094988
+    second: SuitW-sharedassets0.assets-211_27
+  - first:
+      213: 5527616798234172327
+    second: SuitW-sharedassets0.assets-211_28
+  - first:
+      213: -1189810698163212782
+    second: SuitW-sharedassets0.assets-211_29
+  - first:
+      213: -6372989515037220402
+    second: SuitW-sharedassets0.assets-211_30
+  - first:
+      213: -3520617575381718996
+    second: SuitW-sharedassets0.assets-211_31
+  - first:
+      213: -5343538633777631028
+    second: SuitW-sharedassets0.assets-211_32
+  - first:
+      213: 8140622178977587196
+    second: SuitW-sharedassets0.assets-211_33
+  - first:
+      213: 220150596793565791
+    second: SuitW-sharedassets0.assets-211_34
+  - first:
+      213: -4034741849401201029
+    second: SuitW-sharedassets0.assets-211_35
+  - first:
+      213: -579643775772299536
+    second: SuitW-sharedassets0.assets-211_36
+  - first:
+      213: 352265813294021170
+    second: SuitW-sharedassets0.assets-211_37
+  - first:
+      213: -3559002723538620670
+    second: SuitW-sharedassets0.assets-211_38
+  - first:
+      213: -4127173822139402319
+    second: SuitW-sharedassets0.assets-211_39
+  - first:
+      213: 2197024010095511438
+    second: SuitW-sharedassets0.assets-211_40
+  - first:
+      213: -5410644982485799292
+    second: SuitW-sharedassets0.assets-211_41
+  - first:
+      213: -2441974216535805109
+    second: SuitW-sharedassets0.assets-211_42
+  - first:
+      213: 2615526422548046326
+    second: SuitW-sharedassets0.assets-211_43
+  - first:
+      213: 6055324842702353624
+    second: SuitW-sharedassets0.assets-211_44
+  - first:
+      213: -6255329861878036177
+    second: SuitW-sharedassets0.assets-211_45
+  - first:
+      213: -8602855210791134129
+    second: SuitW-sharedassets0.assets-211_46
+  - first:
+      213: 8567737371600849496
+    second: SuitW-sharedassets0.assets-211_47
+  - first:
+      213: -1309602062810980671
+    second: SuitW-sharedassets0.assets-211_48
+  - first:
+      213: -6126907855028446692
+    second: SuitW-sharedassets0.assets-211_49
+  - first:
+      213: -3290107420186292462
+    second: SuitW-sharedassets0.assets-211_50
+  - first:
+      213: 4665679202798730456
+    second: SuitW-sharedassets0.assets-211_51
+  - first:
+      213: 5948621475264166069
+    second: SuitW-sharedassets0.assets-211_52
+  - first:
+      213: -5739784214276416249
+    second: SuitW-sharedassets0.assets-211_53
+  - first:
+      213: -2365857034392978425
+    second: SuitW-sharedassets0.assets-211_54
+  - first:
+      213: 6304890553155690504
+    second: SuitW-sharedassets0.assets-211_55
+  - first:
+      213: -4585197539089465900
+    second: SuitW-sharedassets0.assets-211_56
+  - first:
+      213: -558746903763666491
+    second: SuitW-sharedassets0.assets-211_57
+  - first:
+      213: 7985926898282683265
+    second: SuitW-sharedassets0.assets-211_58
+  - first:
+      213: 3771387306200963251
+    second: SuitW-sharedassets0.assets-211_59
+  - first:
+      213: 5981904994216881727
+    second: SuitW-sharedassets0.assets-211_60
+  - first:
+      213: 6892595547080295897
+    second: SuitW-sharedassets0.assets-211_61
+  - first:
+      213: 4480019966184376491
+    second: SuitW-sharedassets0.assets-211_62
+  - first:
+      213: 3976675188736980390
+    second: SuitW-sharedassets0.assets-211_63
+  - first:
+      213: 4597510068423630849
+    second: SuitW-sharedassets0.assets-211_64
+  - first:
+      213: 7804393208296505661
+    second: SuitW-sharedassets0.assets-211_65
+  - first:
+      213: -2963325756789161263
+    second: SuitW-sharedassets0.assets-211_66
+  - first:
+      213: -1706181027760835116
+    second: SuitW-sharedassets0.assets-211_67
+  - first:
+      213: -4100590028777482193
+    second: SuitW-sharedassets0.assets-211_68
+  - first:
+      213: -2019383267698115669
+    second: SuitW-sharedassets0.assets-211_69
+  - first:
+      213: -1565697883463270313
+    second: SuitW-sharedassets0.assets-211_70
+  - first:
+      213: 6979675486864558874
+    second: SuitW-sharedassets0.assets-211_71
+  - first:
+      213: -6636572743971382053
+    second: SuitW-sharedassets0.assets-211_72
+  - first:
+      213: -8034046703363463260
+    second: SuitW-sharedassets0.assets-211_73
+  - first:
+      213: 3713520286201349583
+    second: SuitW-sharedassets0.assets-211_74
+  - first:
+      213: 8907148065854620288
+    second: SuitW-sharedassets0.assets-211_75
+  - first:
+      213: 5061008103631431015
+    second: SuitW-sharedassets0.assets-211_76
+  - first:
+      213: 376006138815928677
+    second: SuitW-sharedassets0.assets-211_77
+  - first:
+      213: 4957721242316075799
+    second: SuitW-sharedassets0.assets-211_78
+  - first:
+      213: 3573549252342547874
+    second: SuitW-sharedassets0.assets-211_79
+  - first:
+      213: -5919336878508338299
+    second: SuitW-sharedassets0.assets-211_80
+  - first:
+      213: -6582282046549101677
+    second: SuitW-sharedassets0.assets-211_81
+  - first:
+      213: -8298816756705094255
+    second: SuitW-sharedassets0.assets-211_82
+  - first:
+      213: -1368687926644777352
+    second: SuitW-sharedassets0.assets-211_83
+  - first:
+      213: 2821200328827903807
+    second: SuitW-sharedassets0.assets-211_84
+  - first:
+      213: 2817089247016090698
+    second: SuitW-sharedassets0.assets-211_85
+  - first:
+      213: 7636105962965709122
+    second: SuitW-sharedassets0.assets-211_86
+  - first:
+      213: -837348426221661696
+    second: SuitW-sharedassets0.assets-211_87
+  - first:
+      213: -9212474441951468244
+    second: SuitW-sharedassets0.assets-211_88
+  - first:
+      213: 4376663840010610800
+    second: SuitW-sharedassets0.assets-211_89
+  - first:
+      213: -4865632757954615073
+    second: SuitW-sharedassets0.assets-211_90
+  - first:
+      213: 5205989071329486059
+    second: SuitW-sharedassets0.assets-211_91
+  - first:
+      213: 1855322444071573389
+    second: SuitW-sharedassets0.assets-211_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 152
+        width: 96
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76a06369f5055000800000000000000
+      internalID: 23931941692679802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 157
+        width: 92
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663f008f7d4355810800000000000000
+      internalID: 1753365732114101094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 153
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868c91ff909a33fd0800000000000000
+      internalID: -2363359519039698840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 157
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d19502c9d1da0c0800000000000000
+      internalID: -4562958291061629647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_4
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 157
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10847f0b1f81c4960800000000000000
+      internalID: 7587466898547623937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_5
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 154
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e50a2bd7e2ddfb0800000000000000
+      internalID: -4621486525209616894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_6
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 164
+        width: 84
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4c590684284cd20800000000000000
+      internalID: 3297904074511729861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_7
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 158
+        width: 83
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fff6916dfb5e6a70800000000000000
+      internalID: 8822089863887519736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_8
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 159
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9930b56a6d3abc90800000000000000
+      internalID: -7153337530942735970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_9
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 165
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6b0991dd8ce8260800000000000000
+      internalID: 7101834514352092832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_10
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 161
+        width: 86
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b39cfb1d3e30db0800000000000000
+      internalID: -4826763885605733474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_11
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 165
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcecd028299fc2620800000000000000
+      internalID: 2750847880059014863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_12
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 169
+        width: 79
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516559d2dce790f60800000000000000
+      internalID: 8001065632698553877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_13
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 164
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c01b3024b8018300800000000000000
+      internalID: 252492623837335748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_14
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 161
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a010dde1a5264a770800000000000000
+      internalID: 8621123725898350858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_15
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 119
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9646f8eeae8c1f0d0800000000000000
+      internalID: -3390708133082995607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_16
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 170
+        width: 74
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1336f73879342f080800000000000000
+      internalID: -9155180774465510607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_17
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 172
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae1cb31c2528f2c0800000000000000
+      internalID: -4397724164887404889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_18
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 163
+        width: 83
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f07d00242b438110800000000000000
+      internalID: 1261934939122528505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_19
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 154
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50214be615738e020800000000000000
+      internalID: 2371206026699739653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_20
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 157
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64828573014301f80800000000000000
+      internalID: -8137947282405840826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_21
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 175
+        width: 76
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7270fbcebd49f20800000000000000
+      internalID: 3428607026199472058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_22
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 167
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d507487ae7281a0800000000000000
+      internalID: -6808740428684174053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_23
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 168
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bb074b55cb5a2a0800000000000000
+      internalID: -6726763392122438769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 106
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f65d8be0c7324e10800000000000000
+      internalID: 2180366471325898488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 95
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6a6dca3dbdfabd0800000000000000
+      internalID: -2616631156294637894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_26
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 106
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70855d42418b7f70800000000000000
+      internalID: 9186077986717532283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_27
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 102
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c069461011b935d70800000000000000
+      internalID: 9030732175148094988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_28
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 103
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abda31013a06bc40800000000000000
+      internalID: 5527616798234172327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_29
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 115
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ea5025971fc7fe0800000000000000
+      internalID: -1189810698163212782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_30
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 112
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1eae63dc79e87a0800000000000000
+      internalID: -6372989515037220402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_31
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 101
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28206dd7f0442fc0800000000000000
+      internalID: -3520617575381718996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_32
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 104
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0bb128cefe7d5b0800000000000000
+      internalID: -5343538633777631028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_33
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 106
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff10acadbc49f070800000000000000
+      internalID: 8140622178977587196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_34
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 108
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5288f62dc12e0300800000000000000
+      internalID: 220150596793565791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_35
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 105
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ee90a3aa7b108c0800000000000000
+      internalID: -4034741849401201029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_36
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 120
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe63d89e01b4f7f0800000000000000
+      internalID: -579643775772299536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_37
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 102
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a77eb04ef73e400800000000000000
+      internalID: 352265813294021170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_38
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 109
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f25dc11e1eb9ec0800000000000000
+      internalID: -3559002723538620670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_39
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 138
+        width: 71
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7f615864559b6c0800000000000000
+      internalID: -4127173822139402319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_40
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 97
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e874fb462b56d7e10800000000000000
+      internalID: 2197024010095511438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_41
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 103
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e2f252e0789e4b0800000000000000
+      internalID: -5410644982485799292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_42
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 119
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4378b0636d5c1ed0800000000000000
+      internalID: -2441974216535805109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_43
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 112
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1ef947c673c4420800000000000000
+      internalID: 2615526422548046326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_44
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 118
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d43fd8acd5d80450800000000000000
+      internalID: 6055324842702353624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 64
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29cdddf1aa9039a0800000000000000
+      internalID: -6255329861878036177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_46
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 34
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c1da204c48c9880800000000000000
+      internalID: -8602855210791134129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_47
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 39
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a8b13eeb7b6e670800000000000000
+      internalID: 8567737371600849496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_48
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 47
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce5809ccdb53dde0800000000000000
+      internalID: -1309602062810980671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_49
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 56
+        width: 71
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a9a7184c9d8faa0800000000000000
+      internalID: -6126907855028446692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_50
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 43
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f4beaabb03752d0800000000000000
+      internalID: -3290107420186292462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_51
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 43
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcfebed382dfb040800000000000000
+      internalID: 4665679202798730456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_52
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 75
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b87160f6bfbd8250800000000000000
+      internalID: 5948621475264166069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_53
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 59
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dd8a4faa03850b0800000000000000
+      internalID: -5739784214276416249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_54
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 48
+        width: 71
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cb5a3ef89ca2fd0800000000000000
+      internalID: -2365857034392978425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_55
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 47
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800af88ad887f7750800000000000000
+      internalID: 6304890553155690504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_56
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 57
+        width: 77
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddb391b12b1e50c0800000000000000
+      internalID: -4585197539089465900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_57
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 52
+        width: 71
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c931d1c6aeee38f0800000000000000
+      internalID: -558746903763666491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_58
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 56
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b5066e336b3de60800000000000000
+      internalID: 7985926898282683265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_59
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 64
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b89688f5c8a65430800000000000000
+      internalID: 3771387306200963251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_60
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 75
+        width: 75
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3eae6416eef30350800000000000000
+      internalID: 5981904994216881727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_61
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 50
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5092ca12b67af50800000000000000
+      internalID: 6892595547080295897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_62
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 86
+        width: 82
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8c31f4c6a3c2e30800000000000000
+      internalID: 4480019966184376491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_63
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 85
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5f6cbc30dff2730800000000000000
+      internalID: 3976675188736980390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_64
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 39
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1002caf6c03adcf30800000000000000
+      internalID: 4597510068423630849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_65
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 75
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d310cf30646ce4c60800000000000000
+      internalID: 7804393208296505661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_66
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 42
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d201d0bce620e6d0800000000000000
+      internalID: -2963325756789161263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_67
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 61
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5fdcd156d6258e0800000000000000
+      internalID: -1706181027760835116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_68
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 55
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28953d3817c717c0800000000000000
+      internalID: -4100590028777482193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_69
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 55
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab7c7ffd95b9f3e0800000000000000
+      internalID: -2019383267698115669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75047960216854ae0800000000000000
+      internalID: -1565697883463270313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_71
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 5
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b401a10e9ccd060800000000000000
+      internalID: 6979675486864558874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_72
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcdb8d504826e3a0800000000000000
+      internalID: -6636572743971382053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_73
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 14
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a76f19e615518090800000000000000
+      internalID: -8034046703363463260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_74
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc50d357603198330800000000000000
+      internalID: 3713520286201349583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_75
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 7
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082821b49fb8c9b70800000000000000
+      internalID: 8907148065854620288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_76
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 0
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765235e4e005c3640800000000000000
+      internalID: 5061008103631431015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_77
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 5
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5695d715797d73500800000000000000
+      internalID: 376006138815928677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_78
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 13
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71378a7e33d5dc440800000000000000
+      internalID: 4957721242316075799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_79
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 12
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a58d3d8c1cc79130800000000000000
+      internalID: 3573549252342547874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_80
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 18
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58314a2987a4adda0800000000000000
+      internalID: -5919336878508338299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_81
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 18
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39372046a5907a4a0800000000000000
+      internalID: -6582282046549101677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_82
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 46
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1959888f02ea4dc80800000000000000
+      internalID: -8298816756705094255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_83
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 26
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ed8f31591710de0800000000000000
+      internalID: -1368687926644777352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_84
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 6
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f900070cae62720800000000000000
+      internalID: 2821200328827903807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_85
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 29
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c77fc9ebf481720800000000000000
+      internalID: 2817089247016090698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_86
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 9
+        width: 71
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24130dd5ae5e8f960800000000000000
+      internalID: 7636105962965709122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_87
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 4
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00253d5fa042164f0800000000000000
+      internalID: -837348426221661696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_88
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 3
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c252e190e47b62080800000000000000
+      internalID: -9212474441951468244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_89
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078212de2980dbc30800000000000000
+      internalID: 4376663840010610800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_90
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 7
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd86c9e29ccc97cb0800000000000000
+      internalID: -4865632757954615073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_91
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 10
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4e8255a736f3840800000000000000
+      internalID: 5205989071329486059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SuitW-sharedassets0.assets-211_92
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 2
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8712b6deed6fb910800000000000000
+      internalID: 1855322444071573389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

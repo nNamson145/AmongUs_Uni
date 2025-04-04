@@ -1,0 +1,7305 @@
+fileFormatVersion: 2
+guid: 24cff369d99ee41498f910ed088f2987
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6538339520146798943
+    second: Animations-sharedassets0.assets-165_0
+  - first:
+      213: -2114972173041343469
+    second: Animations-sharedassets0.assets-165_1
+  - first:
+      213: -6552527424720051302
+    second: Animations-sharedassets0.assets-165_2
+  - first:
+      213: 1294570381976340016
+    second: Animations-sharedassets0.assets-165_3
+  - first:
+      213: -8879690985078456524
+    second: Animations-sharedassets0.assets-165_4
+  - first:
+      213: 4884604573253716397
+    second: Animations-sharedassets0.assets-165_5
+  - first:
+      213: -7711187898219682150
+    second: Animations-sharedassets0.assets-165_6
+  - first:
+      213: -8693649515469282385
+    second: Animations-sharedassets0.assets-165_7
+  - first:
+      213: 6339983296700967794
+    second: Animations-sharedassets0.assets-165_8
+  - first:
+      213: -6675879761162619976
+    second: Animations-sharedassets0.assets-165_9
+  - first:
+      213: 3346642098722115095
+    second: Animations-sharedassets0.assets-165_10
+  - first:
+      213: 4264755576041612891
+    second: Animations-sharedassets0.assets-165_11
+  - first:
+      213: -6816491995591305307
+    second: Animations-sharedassets0.assets-165_12
+  - first:
+      213: -9024966647119041303
+    second: Animations-sharedassets0.assets-165_13
+  - first:
+      213: 6773331880846870712
+    second: Animations-sharedassets0.assets-165_14
+  - first:
+      213: -8235885941939722900
+    second: Animations-sharedassets0.assets-165_15
+  - first:
+      213: -5375030363117481532
+    second: Animations-sharedassets0.assets-165_16
+  - first:
+      213: 6112255672805417370
+    second: Animations-sharedassets0.assets-165_17
+  - first:
+      213: -8723542388528666565
+    second: Animations-sharedassets0.assets-165_18
+  - first:
+      213: -6712328894002234425
+    second: Animations-sharedassets0.assets-165_19
+  - first:
+      213: -619060758350919025
+    second: Animations-sharedassets0.assets-165_20
+  - first:
+      213: 7903472523123114013
+    second: Animations-sharedassets0.assets-165_21
+  - first:
+      213: -3721469448818794159
+    second: Animations-sharedassets0.assets-165_22
+  - first:
+      213: -7639940982397875300
+    second: Animations-sharedassets0.assets-165_23
+  - first:
+      213: -5961807968866589993
+    second: Animations-sharedassets0.assets-165_24
+  - first:
+      213: 3816067139669138913
+    second: Animations-sharedassets0.assets-165_25
+  - first:
+      213: -817613243773656730
+    second: Animations-sharedassets0.assets-165_26
+  - first:
+      213: 2883179065721116842
+    second: Animations-sharedassets0.assets-165_27
+  - first:
+      213: -5869949855006146100
+    second: Animations-sharedassets0.assets-165_28
+  - first:
+      213: 1417669123313565347
+    second: Animations-sharedassets0.assets-165_29
+  - first:
+      213: 4031893176024961987
+    second: Animations-sharedassets0.assets-165_30
+  - first:
+      213: -2760069287794589450
+    second: Animations-sharedassets0.assets-165_31
+  - first:
+      213: -508784695898716718
+    second: Animations-sharedassets0.assets-165_32
+  - first:
+      213: -5434762821000195212
+    second: Animations-sharedassets0.assets-165_33
+  - first:
+      213: -2523872306007570436
+    second: Animations-sharedassets0.assets-165_34
+  - first:
+      213: 7882075928258269399
+    second: Animations-sharedassets0.assets-165_35
+  - first:
+      213: 7388920802653807260
+    second: Animations-sharedassets0.assets-165_36
+  - first:
+      213: 6122772746427646365
+    second: Animations-sharedassets0.assets-165_37
+  - first:
+      213: -7680669507741345721
+    second: Animations-sharedassets0.assets-165_38
+  - first:
+      213: -5063646649552011885
+    second: Animations-sharedassets0.assets-165_39
+  - first:
+      213: -2259779687709125243
+    second: Animations-sharedassets0.assets-165_40
+  - first:
+      213: -1185976907966007700
+    second: Animations-sharedassets0.assets-165_41
+  - first:
+      213: 8069041505814418508
+    second: Animations-sharedassets0.assets-165_42
+  - first:
+      213: 7855051202398336036
+    second: Animations-sharedassets0.assets-165_43
+  - first:
+      213: 4401026664245272701
+    second: Animations-sharedassets0.assets-165_44
+  - first:
+      213: -812877602503113382
+    second: Animations-sharedassets0.assets-165_45
+  - first:
+      213: -7759908183446601272
+    second: Animations-sharedassets0.assets-165_46
+  - first:
+      213: 3825107436000393416
+    second: Animations-sharedassets0.assets-165_47
+  - first:
+      213: 7026897986038092096
+    second: Animations-sharedassets0.assets-165_48
+  - first:
+      213: -6516773661489550350
+    second: Animations-sharedassets0.assets-165_49
+  - first:
+      213: 8934772767162851407
+    second: Animations-sharedassets0.assets-165_50
+  - first:
+      213: -5841347801747968339
+    second: Animations-sharedassets0.assets-165_51
+  - first:
+      213: 2542158337807069809
+    second: Animations-sharedassets0.assets-165_52
+  - first:
+      213: -8150505579479078474
+    second: Animations-sharedassets0.assets-165_53
+  - first:
+      213: -1057092316079510219
+    second: Animations-sharedassets0.assets-165_54
+  - first:
+      213: 7710880639926738320
+    second: Animations-sharedassets0.assets-165_55
+  - first:
+      213: 7438016575542677606
+    second: Animations-sharedassets0.assets-165_56
+  - first:
+      213: 2255026442931564530
+    second: Animations-sharedassets0.assets-165_57
+  - first:
+      213: 5932168988766518814
+    second: Animations-sharedassets0.assets-165_58
+  - first:
+      213: -8390424550152179930
+    second: Animations-sharedassets0.assets-165_59
+  - first:
+      213: 4283147469405061007
+    second: Animations-sharedassets0.assets-165_60
+  - first:
+      213: -8836168316813807675
+    second: Animations-sharedassets0.assets-165_61
+  - first:
+      213: 1445211342984546326
+    second: Animations-sharedassets0.assets-165_62
+  - first:
+      213: -2920114177645342553
+    second: Animations-sharedassets0.assets-165_63
+  - first:
+      213: -1256741899931284341
+    second: Animations-sharedassets0.assets-165_64
+  - first:
+      213: -3340454239802029738
+    second: Animations-sharedassets0.assets-165_65
+  - first:
+      213: -5049465820428885157
+    second: Animations-sharedassets0.assets-165_66
+  - first:
+      213: -6863337112114313773
+    second: Animations-sharedassets0.assets-165_67
+  - first:
+      213: -7905253191896777796
+    second: Animations-sharedassets0.assets-165_68
+  - first:
+      213: 50948704478356089
+    second: Animations-sharedassets0.assets-165_69
+  - first:
+      213: -8393619743590722821
+    second: Animations-sharedassets0.assets-165_70
+  - first:
+      213: -4247824086779508888
+    second: Animations-sharedassets0.assets-165_71
+  - first:
+      213: 1302237745076249696
+    second: Animations-sharedassets0.assets-165_72
+  - first:
+      213: 8656446823708493477
+    second: Animations-sharedassets0.assets-165_73
+  - first:
+      213: 5884878798695600242
+    second: Animations-sharedassets0.assets-165_74
+  - first:
+      213: -6023120357878450453
+    second: Animations-sharedassets0.assets-165_75
+  - first:
+      213: -1544739061774620752
+    second: Animations-sharedassets0.assets-165_76
+  - first:
+      213: -4587972162700022639
+    second: Animations-sharedassets0.assets-165_77
+  - first:
+      213: -2847528566548611710
+    second: Animations-sharedassets0.assets-165_78
+  - first:
+      213: -6005927494025000529
+    second: Animations-sharedassets0.assets-165_79
+  - first:
+      213: -4188465492816386742
+    second: Animations-sharedassets0.assets-165_80
+  - first:
+      213: 6507782352373010292
+    second: Animations-sharedassets0.assets-165_81
+  - first:
+      213: -6159584226719000735
+    second: Animations-sharedassets0.assets-165_82
+  - first:
+      213: -3820948948711106737
+    second: Animations-sharedassets0.assets-165_83
+  - first:
+      213: 7681144279445575656
+    second: Animations-sharedassets0.assets-165_84
+  - first:
+      213: 2089168338875441729
+    second: Animations-sharedassets0.assets-165_85
+  - first:
+      213: 1796005907824179314
+    second: Animations-sharedassets0.assets-165_86
+  - first:
+      213: 1838609548830314164
+    second: Animations-sharedassets0.assets-165_87
+  - first:
+      213: 3809172086120086936
+    second: Animations-sharedassets0.assets-165_88
+  - first:
+      213: 7351994973064858015
+    second: Animations-sharedassets0.assets-165_89
+  - first:
+      213: -7031961238390662428
+    second: Animations-sharedassets0.assets-165_90
+  - first:
+      213: 4173360663467310834
+    second: Animations-sharedassets0.assets-165_91
+  - first:
+      213: -3220668275745523577
+    second: Animations-sharedassets0.assets-165_92
+  - first:
+      213: -5291264256851947850
+    second: Animations-sharedassets0.assets-165_93
+  - first:
+      213: -6247731620945227071
+    second: Animations-sharedassets0.assets-165_94
+  - first:
+      213: 7264213242210779130
+    second: Animations-sharedassets0.assets-165_95
+  - first:
+      213: -1187291042299908298
+    second: Animations-sharedassets0.assets-165_96
+  - first:
+      213: -675385950623688492
+    second: Animations-sharedassets0.assets-165_97
+  - first:
+      213: -2173186628540465597
+    second: Animations-sharedassets0.assets-165_98
+  - first:
+      213: 4929393671546556070
+    second: Animations-sharedassets0.assets-165_99
+  - first:
+      213: -4992200382914424520
+    second: Animations-sharedassets0.assets-165_100
+  - first:
+      213: -5791775801960969075
+    second: Animations-sharedassets0.assets-165_101
+  - first:
+      213: 4446171778433730158
+    second: Animations-sharedassets0.assets-165_102
+  - first:
+      213: 4243620260925636502
+    second: Animations-sharedassets0.assets-165_103
+  - first:
+      213: -3654597139681150009
+    second: Animations-sharedassets0.assets-165_104
+  - first:
+      213: 2402568863694152674
+    second: Animations-sharedassets0.assets-165_105
+  - first:
+      213: -9057930986680120814
+    second: Animations-sharedassets0.assets-165_106
+  - first:
+      213: 2068555073345414960
+    second: Animations-sharedassets0.assets-165_107
+  - first:
+      213: 5444081519679802053
+    second: Animations-sharedassets0.assets-165_108
+  - first:
+      213: -7913237433268040246
+    second: Animations-sharedassets0.assets-165_109
+  - first:
+      213: 8402114707398792710
+    second: Animations-sharedassets0.assets-165_110
+  - first:
+      213: 1941763676759899348
+    second: Animations-sharedassets0.assets-165_111
+  - first:
+      213: 8380645133836719392
+    second: Animations-sharedassets0.assets-165_112
+  - first:
+      213: -2077428540082914689
+    second: Animations-sharedassets0.assets-165_113
+  - first:
+      213: -4882079427703030271
+    second: Animations-sharedassets0.assets-165_114
+  - first:
+      213: -3312779441301252678
+    second: Animations-sharedassets0.assets-165_115
+  - first:
+      213: 2296845448886070216
+    second: Animations-sharedassets0.assets-165_116
+  - first:
+      213: 5839795608359606784
+    second: Animations-sharedassets0.assets-165_117
+  - first:
+      213: -5689065133590052010
+    second: Animations-sharedassets0.assets-165_118
+  - first:
+      213: -8493634558338806556
+    second: Animations-sharedassets0.assets-165_119
+  - first:
+      213: -5084672593128827031
+    second: Animations-sharedassets0.assets-165_120
+  - first:
+      213: 9140711258196037221
+    second: Animations-sharedassets0.assets-165_121
+  - first:
+      213: 2755451555490998309
+    second: Animations-sharedassets0.assets-165_122
+  - first:
+      213: -2729703754014022256
+    second: Animations-sharedassets0.assets-165_123
+  - first:
+      213: 7200302102634761190
+    second: Animations-sharedassets0.assets-165_124
+  - first:
+      213: -7451518311893967865
+    second: Animations-sharedassets0.assets-165_125
+  - first:
+      213: 3645780028713412201
+    second: Animations-sharedassets0.assets-165_126
+  - first:
+      213: -7819772118460103119
+    second: Animations-sharedassets0.assets-165_127
+  - first:
+      213: 5664499091931438017
+    second: Animations-sharedassets0.assets-165_128
+  - first:
+      213: 4724259578750099613
+    second: Animations-sharedassets0.assets-165_129
+  - first:
+      213: -4898660052448648584
+    second: Animations-sharedassets0.assets-165_130
+  - first:
+      213: 763870774331042343
+    second: Animations-sharedassets0.assets-165_131
+  - first:
+      213: -8805162747759701829
+    second: Animations-sharedassets0.assets-165_132
+  - first:
+      213: 3880571772972678438
+    second: Animations-sharedassets0.assets-165_133
+  - first:
+      213: -4086435056407963722
+    second: Animations-sharedassets0.assets-165_134
+  - first:
+      213: 8476560951337533377
+    second: Animations-sharedassets0.assets-165_135
+  - first:
+      213: 1447119711605772390
+    second: Animations-sharedassets0.assets-165_136
+  - first:
+      213: -905205241802477630
+    second: Animations-sharedassets0.assets-165_137
+  - first:
+      213: 4031534830806189842
+    second: Animations-sharedassets0.assets-165_138
+  - first:
+      213: -8300066387362208452
+    second: Animations-sharedassets0.assets-165_139
+  - first:
+      213: -4547618402200325813
+    second: Animations-sharedassets0.assets-165_140
+  - first:
+      213: 8155710660053665148
+    second: Animations-sharedassets0.assets-165_141
+  - first:
+      213: 8623171208551934142
+    second: Animations-sharedassets0.assets-165_142
+  - first:
+      213: 1625345741028790059
+    second: Animations-sharedassets0.assets-165_143
+  - first:
+      213: -8950207488024607035
+    second: Animations-sharedassets0.assets-165_144
+  - first:
+      213: 1695442452399572918
+    second: Animations-sharedassets0.assets-165_145
+  - first:
+      213: -636039071531985567
+    second: Animations-sharedassets0.assets-165_146
+  - first:
+      213: -4607693060792857836
+    second: Animations-sharedassets0.assets-165_147
+  - first:
+      213: 4912939772913005017
+    second: Animations-sharedassets0.assets-165_148
+  - first:
+      213: 6947935267632685100
+    second: Animations-sharedassets0.assets-165_149
+  - first:
+      213: -1622472076044741174
+    second: Animations-sharedassets0.assets-165_150
+  - first:
+      213: -8511445460514824774
+    second: Animations-sharedassets0.assets-165_151
+  - first:
+      213: 7760280335961951431
+    second: Animations-sharedassets0.assets-165_152
+  - first:
+      213: 8616304453611403436
+    second: Animations-sharedassets0.assets-165_153
+  - first:
+      213: -8458082139752833512
+    second: Animations-sharedassets0.assets-165_154
+  - first:
+      213: -2940333914807935912
+    second: Animations-sharedassets0.assets-165_155
+  - first:
+      213: -6337079759439679444
+    second: Animations-sharedassets0.assets-165_156
+  - first:
+      213: -8264347171251502495
+    second: Animations-sharedassets0.assets-165_157
+  - first:
+      213: -8948165657484342374
+    second: Animations-sharedassets0.assets-165_158
+  - first:
+      213: -4974804444180290041
+    second: Animations-sharedassets0.assets-165_159
+  - first:
+      213: -1947768050352548352
+    second: Animations-sharedassets0.assets-165_160
+  - first:
+      213: 490698812506173614
+    second: Animations-sharedassets0.assets-165_161
+  - first:
+      213: -8269347968763018189
+    second: Animations-sharedassets0.assets-165_162
+  - first:
+      213: -4444456729978994660
+    second: Animations-sharedassets0.assets-165_163
+  - first:
+      213: 2248974825822756968
+    second: Animations-sharedassets0.assets-165_164
+  - first:
+      213: -520267784062539506
+    second: Animations-sharedassets0.assets-165_165
+  - first:
+      213: 7276111589205903183
+    second: Animations-sharedassets0.assets-165_166
+  - first:
+      213: 8963876629716066740
+    second: Animations-sharedassets0.assets-165_167
+  - first:
+      213: -1309271642544314095
+    second: Animations-sharedassets0.assets-165_168
+  - first:
+      213: 8313983586479661207
+    second: Animations-sharedassets0.assets-165_169
+  - first:
+      213: 2297648540081743653
+    second: Animations-sharedassets0.assets-165_170
+  - first:
+      213: -1003012060471104222
+    second: Animations-sharedassets0.assets-165_171
+  - first:
+      213: -7683730322899092054
+    second: Animations-sharedassets0.assets-165_172
+  - first:
+      213: 2476590553176899698
+    second: Animations-sharedassets0.assets-165_173
+  - first:
+      213: -7485848615451535093
+    second: Animations-sharedassets0.assets-165_174
+  - first:
+      213: -8957518839077531695
+    second: Animations-sharedassets0.assets-165_175
+  - first:
+      213: 8590658813509852610
+    second: Animations-sharedassets0.assets-165_176
+  - first:
+      213: -6679406882720578436
+    second: Animations-sharedassets0.assets-165_177
+  - first:
+      213: -2798180714601586774
+    second: Animations-sharedassets0.assets-165_178
+  - first:
+      213: 1623625447164079424
+    second: Animations-sharedassets0.assets-165_179
+  - first:
+      213: -1088107552036520874
+    second: Animations-sharedassets0.assets-165_180
+  - first:
+      213: 7805386961959969064
+    second: Animations-sharedassets0.assets-165_181
+  - first:
+      213: -8337600800406952411
+    second: Animations-sharedassets0.assets-165_182
+  - first:
+      213: 1276575169119515548
+    second: Animations-sharedassets0.assets-165_183
+  - first:
+      213: 3207985500604432754
+    second: Animations-sharedassets0.assets-165_184
+  - first:
+      213: 19621876478394643
+    second: Animations-sharedassets0.assets-165_185
+  - first:
+      213: -8814272000283998765
+    second: Animations-sharedassets0.assets-165_186
+  - first:
+      213: -1084078906109706166
+    second: Animations-sharedassets0.assets-165_187
+  - first:
+      213: -6821378185389580052
+    second: Animations-sharedassets0.assets-165_188
+  - first:
+      213: -3199343627110594808
+    second: Animations-sharedassets0.assets-165_189
+  - first:
+      213: -1247258671600267644
+    second: Animations-sharedassets0.assets-165_190
+  - first:
+      213: 1316327481044154067
+    second: Animations-sharedassets0.assets-165_191
+  - first:
+      213: -832503956084730917
+    second: Animations-sharedassets0.assets-165_192
+  - first:
+      213: 9105956436522873015
+    second: Animations-sharedassets0.assets-165_193
+  - first:
+      213: 4686423444932487340
+    second: Animations-sharedassets0.assets-165_194
+  - first:
+      213: -2058209530360096992
+    second: Animations-sharedassets0.assets-165_195
+  - first:
+      213: -8643760299669130753
+    second: Animations-sharedassets0.assets-165_196
+  - first:
+      213: 7529960550038835304
+    second: Animations-sharedassets0.assets-165_197
+  - first:
+      213: -2131720174644136991
+    second: Animations-sharedassets0.assets-165_198
+  - first:
+      213: 2515430901080449687
+    second: Animations-sharedassets0.assets-165_199
+  - first:
+      213: 6463679824365302604
+    second: Animations-sharedassets0.assets-165_200
+  - first:
+      213: -3160829246790534556
+    second: Animations-sharedassets0.assets-165_201
+  - first:
+      213: 4568392123246200011
+    second: Animations-sharedassets0.assets-165_202
+  - first:
+      213: -8104964227880993304
+    second: Animations-sharedassets0.assets-165_203
+  - first:
+      213: -738094635475551249
+    second: Animations-sharedassets0.assets-165_204
+  - first:
+      213: 5787409819991265365
+    second: Animations-sharedassets0.assets-165_205
+  - first:
+      213: 4860437110909876640
+    second: Animations-sharedassets0.assets-165_206
+  - first:
+      213: 4202832635226113377
+    second: Animations-sharedassets0.assets-165_207
+  - first:
+      213: -5093886288293583969
+    second: Animations-sharedassets0.assets-165_208
+  - first:
+      213: -4890191255687139760
+    second: Animations-sharedassets0.assets-165_209
+  - first:
+      213: -46179987615388293
+    second: Animations-sharedassets0.assets-165_210
+  - first:
+      213: -8610121535789860228
+    second: Animations-sharedassets0.assets-165_211
+  - first:
+      213: 586078417393234082
+    second: Animations-sharedassets0.assets-165_212
+  - first:
+      213: 8859654396739633427
+    second: Animations-sharedassets0.assets-165_213
+  - first:
+      213: 637795807556131546
+    second: Animations-sharedassets0.assets-165_214
+  - first:
+      213: 3135265185660949918
+    second: Animations-sharedassets0.assets-165_215
+  - first:
+      213: -7560982263674163505
+    second: Animations-sharedassets0.assets-165_216
+  - first:
+      213: 3227264433692092743
+    second: Animations-sharedassets0.assets-165_217
+  - first:
+      213: -1733657614752401418
+    second: Animations-sharedassets0.assets-165_218
+  - first:
+      213: -3696522757099453649
+    second: Animations-sharedassets0.assets-165_219
+  - first:
+      213: 8929189254382447201
+    second: Animations-sharedassets0.assets-165_220
+  - first:
+      213: -714142782038254583
+    second: Animations-sharedassets0.assets-165_221
+  - first:
+      213: -830376821889004566
+    second: Animations-sharedassets0.assets-165_222
+  - first:
+      213: -2999017700985587001
+    second: Animations-sharedassets0.assets-165_223
+  - first:
+      213: -5721417989733975954
+    second: Animations-sharedassets0.assets-165_224
+  - first:
+      213: -1385555625305656392
+    second: Animations-sharedassets0.assets-165_225
+  - first:
+      213: 5617171541579252127
+    second: Animations-sharedassets0.assets-165_226
+  - first:
+      213: -3422177508205174309
+    second: Animations-sharedassets0.assets-165_227
+  - first:
+      213: 6839869256752417894
+    second: Animations-sharedassets0.assets-165_228
+  - first:
+      213: -6746814561681030784
+    second: Animations-sharedassets0.assets-165_229
+  - first:
+      213: 4955743594750642871
+    second: Animations-sharedassets0.assets-165_230
+  - first:
+      213: -8646702014935062094
+    second: Animations-sharedassets0.assets-165_231
+  - first:
+      213: 3761984622939753290
+    second: Animations-sharedassets0.assets-165_232
+  - first:
+      213: -1402690472053122738
+    second: Animations-sharedassets0.assets-165_233
+  - first:
+      213: -5242069128458426477
+    second: Animations-sharedassets0.assets-165_234
+  - first:
+      213: -1572615433777135445
+    second: Animations-sharedassets0.assets-165_235
+  - first:
+      213: -4274114994286502580
+    second: Animations-sharedassets0.assets-165_236
+  - first:
+      213: 3497993604084017215
+    second: Animations-sharedassets0.assets-165_237
+  - first:
+      213: -1259875849347226997
+    second: Animations-sharedassets0.assets-165_238
+  - first:
+      213: 2171524004368067959
+    second: Animations-sharedassets0.assets-165_239
+  - first:
+      213: 2536163194769588089
+    second: Animations-sharedassets0.assets-165_240
+  - first:
+      213: 8121369034531279228
+    second: Animations-sharedassets0.assets-165_241
+  - first:
+      213: -8040206586740415946
+    second: Animations-sharedassets0.assets-165_242
+  - first:
+      213: -4707245048157543879
+    second: Animations-sharedassets0.assets-165_243
+  - first:
+      213: 7963313045712436704
+    second: Animations-sharedassets0.assets-165_244
+  - first:
+      213: -3239385009500266157
+    second: Animations-sharedassets0.assets-165_245
+  - first:
+      213: -3673397315082703699
+    second: Animations-sharedassets0.assets-165_246
+  - first:
+      213: -1418916393370208551
+    second: Animations-sharedassets0.assets-165_247
+  - first:
+      213: -6495256808221523438
+    second: Animations-sharedassets0.assets-165_248
+  - first:
+      213: 1988814119351852553
+    second: Animations-sharedassets0.assets-165_249
+  - first:
+      213: -4647004575715599105
+    second: Animations-sharedassets0.assets-165_250
+  - first:
+      213: -2807645372994451685
+    second: Animations-sharedassets0.assets-165_251
+  - first:
+      213: -8768849967178370713
+    second: Animations-sharedassets0.assets-165_252
+  - first:
+      213: 7969015094329325716
+    second: Animations-sharedassets0.assets-165_253
+  - first:
+      213: -8904794461014871770
+    second: Animations-sharedassets0.assets-165_254
+  - first:
+      213: 6462042973100048266
+    second: Animations-sharedassets0.assets-165_255
+  - first:
+      213: 3788952989173883866
+    second: Animations-sharedassets0.assets-165_256
+  - first:
+      213: -2625237347315145778
+    second: Animations-sharedassets0.assets-165_257
+  - first:
+      213: 8985360736557804021
+    second: Animations-sharedassets0.assets-165_258
+  - first:
+      213: 3617289386629773144
+    second: Animations-sharedassets0.assets-165_259
+  - first:
+      213: 2055882961440743131
+    second: Animations-sharedassets0.assets-165_260
+  - first:
+      213: -2031799410794917738
+    second: Animations-sharedassets0.assets-165_261
+  - first:
+      213: -6721558857648664373
+    second: Animations-sharedassets0.assets-165_262
+  - first:
+      213: 8724413060362891691
+    second: Animations-sharedassets0.assets-165_263
+  - first:
+      213: -2564324437171475348
+    second: Animations-sharedassets0.assets-165_264
+  - first:
+      213: -8619498526068191244
+    second: Animations-sharedassets0.assets-165_265
+  - first:
+      213: -8324854591385006438
+    second: Animations-sharedassets0.assets-165_266
+  - first:
+      213: 3669842395686579674
+    second: Animations-sharedassets0.assets-165_267
+  - first:
+      213: -6583353679928604311
+    second: Animations-sharedassets0.assets-165_268
+  - first:
+      213: -8836616409779713455
+    second: Animations-sharedassets0.assets-165_269
+  - first:
+      213: 1153472459204954096
+    second: Animations-sharedassets0.assets-165_270
+  - first:
+      213: -6716047459225122555
+    second: Animations-sharedassets0.assets-165_271
+  - first:
+      213: 4998843861403593191
+    second: Animations-sharedassets0.assets-165_272
+  - first:
+      213: 5222832794340753563
+    second: Animations-sharedassets0.assets-165_273
+  - first:
+      213: -823493570159339972
+    second: Animations-sharedassets0.assets-165_274
+  - first:
+      213: -3864979237291566951
+    second: Animations-sharedassets0.assets-165_275
+  - first:
+      213: 9031888237863413794
+    second: Animations-sharedassets0.assets-165_276
+  - first:
+      213: -2490661059767158815
+    second: Animations-sharedassets0.assets-165_277
+  - first:
+      213: -6800622481001135609
+    second: Animations-sharedassets0.assets-165_278
+  - first:
+      213: -272501655180221576
+    second: Animations-sharedassets0.assets-165_279
+  - first:
+      213: -8296977269917103942
+    second: Animations-sharedassets0.assets-165_280
+  - first:
+      213: 3428710675738297234
+    second: Animations-sharedassets0.assets-165_281
+  - first:
+      213: -7260083731117278
+    second: Animations-sharedassets0.assets-165_282
+  - first:
+      213: 5530969556538396562
+    second: Animations-sharedassets0.assets-165_283
+  - first:
+      213: -6128169303001637884
+    second: Animations-sharedassets0.assets-165_284
+  - first:
+      213: 4667770622176627158
+    second: Animations-sharedassets0.assets-165_285
+  - first:
+      213: -121150269983754967
+    second: Animations-sharedassets0.assets-165_286
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a680c819d62345a0800000000000000
+      internalID: -6538339520146798943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 702
+        width: 165
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314e804a30c16a2e0800000000000000
+      internalID: -2114972173041343469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1199
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a936e84260fb015a0800000000000000
+      internalID: -6552527424720051302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_3
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1199
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036017a47ec37f110800000000000000
+      internalID: 1294570381976340016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1161
+        width: 334
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ff82f781005c480800000000000000
+      internalID: -8879690985078456524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_5
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 791
+        width: 121
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da94909caf999c340800000000000000
+      internalID: 4884604573253716397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_6
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 791
+        width: 132
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a962352567b5cf490800000000000000
+      internalID: -7711187898219682150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_7
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 791
+        width: 127
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3e4bc93d3f95780800000000000000
+      internalID: -8693649515469282385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_8
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 791
+        width: 120
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b65c9b7352cf750800000000000000
+      internalID: 6339983296700967794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_9
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 794
+        width: 118
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3bea04ab28a53a0800000000000000
+      internalID: -6675879761162619976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_10
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 800
+        width: 116
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e03bce149a17e20800000000000000
+      internalID: 3346642098722115095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_11
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 800
+        width: 116
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56a3dbc9947f2b30800000000000000
+      internalID: 4264755576041612891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_12
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 803
+        width: 115
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a79c7435a4f661a0800000000000000
+      internalID: -6816491995591305307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_13
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 799
+        width: 131
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eca8b896a0e0c280800000000000000
+      internalID: -9024966647119041303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_14
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1219
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8c4bf7575bffd50800000000000000
+      internalID: 6773331880846870712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_15
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1210
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65ac041f5144bd80800000000000000
+      internalID: -8235885941939722900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_16
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1219
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c19175ec5e0865b0800000000000000
+      internalID: -5375030363117481532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_17
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1215
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91eee9762813d450800000000000000
+      internalID: 6112255672805417370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_18
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1214
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38afacba60cfe680800000000000000
+      internalID: -8723542388528666565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_19
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1214
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbf7613f6409d2a0800000000000000
+      internalID: -6712328894002234425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_20
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1216
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a0c1c2587a867f0800000000000000
+      internalID: -619060758350919025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_21
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1204
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1040d8a266cead60800000000000000
+      internalID: 7903472523123114013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_22
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1222
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151efa4e04faa5cc0800000000000000
+      internalID: -3721469448818794159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_23
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1176
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bc937972a79f590800000000000000
+      internalID: -7639940982397875300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1201
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d22d944d37634da0800000000000000
+      internalID: -5961807968866589993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1197
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed150b58d465f430800000000000000
+      internalID: 3816067139669138913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_26
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1197
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6616731361147a4f0800000000000000
+      internalID: -817613243773656730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_27
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1186
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa85624a51c130820800000000000000
+      internalID: 2883179065721116842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_28
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1210
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1c00b05bfb98ea0800000000000000
+      internalID: -5869949855006146100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_29
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1172
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aef4287e829ca310800000000000000
+      internalID: 1417669123313565347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_30
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1201
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c31a415b7924f730800000000000000
+      internalID: 4031893176024961987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_31
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1211
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0c9813b9342b9d0800000000000000
+      internalID: -2760069287794589450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_32
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1199
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d54dc5c30f60f8f0800000000000000
+      internalID: -508784695898716718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_33
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 702
+        width: 153
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47398c74208d394b0800000000000000
+      internalID: -5434762821000195212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_34
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1195
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf709fd728769fcd0800000000000000
+      internalID: -2523872306007570436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_35
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1179
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0dd74bb42c26d60800000000000000
+      internalID: 7882075928258269399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_36
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1199
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92aca36258ba8660800000000000000
+      internalID: 7388920802653807260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_37
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1199
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91434f7f5578f450800000000000000
+      internalID: 6122772746427646365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_38
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1159
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74817e1d6c7c86590800000000000000
+      internalID: -7680669507741345721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_39
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1180
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dfa5953305ab9b0800000000000000
+      internalID: -5063646649552011885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_40
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1202
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585547bc856a3a0e0800000000000000
+      internalID: -2259779687709125243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_41
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1176
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66bed829409a8fe0800000000000000
+      internalID: -1185976907966007700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_42
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1181
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4493f77f7efaff60800000000000000
+      internalID: 8069041505814418508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_43
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1188
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4243573637fb20d60800000000000000
+      internalID: 7855051202398336036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_44
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1186
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70ac59fe66931d30800000000000000
+      internalID: 4401026664245272701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_45
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1174
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a554ee8902418b4f0800000000000000
+      internalID: -812877602503113382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_46
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 1173
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1c404fe944f4490800000000000000
+      internalID: -7759908183446601272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_47
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1172
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8328e52f2851530800000000000000
+      internalID: 3825107436000393416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_48
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1179
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04155bafc7e848160800000000000000
+      internalID: 7026897986038092096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_49
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1177
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb2b49d1e4cf85a0800000000000000
+      internalID: -6516773661489550350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_50
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1169
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4063974e70befb70800000000000000
+      internalID: 8934772767162851407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_51
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1155
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daead438f1d5feea0800000000000000
+      internalID: -5841347801747968339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_52
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1158
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172b9cf0a8f874320800000000000000
+      internalID: 2542158337807069809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_53
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1159
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b96f43db5693ee80800000000000000
+      internalID: -8150505579479078474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_54
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1155
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d2945a3247451f0800000000000000
+      internalID: -1057092316079510219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_55
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1163
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d1548861d820b60800000000000000
+      internalID: 7710880639926738320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_56
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66050bacaa4293760800000000000000
+      internalID: 7438016575542677606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_57
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1167
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff6c0a2a967b4f10800000000000000
+      internalID: 2255026442931564530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_58
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1165
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e340be34c435250800000000000000
+      internalID: 5932168988766518814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_59
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1147
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f667573593f8b80800000000000000
+      internalID: -8390424550152179930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_60
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1164
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f708a2eebc07b30800000000000000
+      internalID: 4283147469405061007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_61
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1167
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf60cc5bbf9f5580800000000000000
+      internalID: -8836168316813807675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_62
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1151
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61885f33f0c6e0410800000000000000
+      internalID: 1445211342984546326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_63
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1075
+        width: 75
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a01ed970aba977d0800000000000000
+      internalID: -2920114177645342553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_64
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1163
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c0f3886e72f8ee0800000000000000
+      internalID: -1256741899931284341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_65
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 1165
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6590720419254a1d0800000000000000
+      internalID: -3340454239802029738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_66
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1155
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b532cdbe691bce9b0800000000000000
+      internalID: -5049465820428885157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_67
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1154
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5cba2924780c0a0800000000000000
+      internalID: -6863337112114313773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_68
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1154
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb38751b16ea4290800000000000000
+      internalID: -7905253191896777796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_69
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1156
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972e238a39105b000800000000000000
+      internalID: 50948704478356089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_70
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1153
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2d193805fd38b80800000000000000
+      internalID: -8393619743590722821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_71
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 681
+        width: 156
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867c82fbf72bc05c0800000000000000
+      internalID: -4247824086779508888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_72
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1145
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0642060645a721210800000000000000
+      internalID: 1302237745076249696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_73
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1158
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a60438b580e12870800000000000000
+      internalID: 8656446823708493477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_74
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 1144
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2709a76861a4ba150800000000000000
+      internalID: 5884878798695600242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_75
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 1126
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be63b3542f3996ca0800000000000000
+      internalID: -6023120357878450453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_76
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1160
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7e048f10cff8ae0800000000000000
+      internalID: -1544739061774620752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1130
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c62ea40af3450c0800000000000000
+      internalID: -4587972162700022639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_78
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1103
+        width: 98
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28db7170bdb8b78d0800000000000000
+      internalID: -2847528566548611710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_79
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1141
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa943e3d3c8a6aca0800000000000000
+      internalID: -6005927494025000529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_80
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1152
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45a2b263d49fd5c0800000000000000
+      internalID: -4188465492816386742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_81
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1145
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fcfbcd199405a50800000000000000
+      internalID: 6507782352373010292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_82
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1136
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167905ad7c2c48aa0800000000000000
+      internalID: -6159584226719000735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_83
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1142
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f471c27ec2349fac0800000000000000
+      internalID: -3820948948711106737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_84
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1117
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e790e49608e89a60800000000000000
+      internalID: 7681144279445575656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_85
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142e9aa09873efc10800000000000000
+      internalID: 2089168338875441729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_86
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 1137
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278fc568bd1bce810800000000000000
+      internalID: 1796005907824179314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_87
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1132
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be0caea4ad048910800000000000000
+      internalID: 1838609548830314164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_88
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1126
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d758994d5ecd430800000000000000
+      internalID: 3809172086120086936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_89
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1133
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f990df7b978870660800000000000000
+      internalID: 7351994973064858015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_90
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 629
+        width: 138
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea9867b284796e90800000000000000
+      internalID: -7031961238390662428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_91
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1130
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2febe897961cae930800000000000000
+      internalID: 4173360663467310834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_92
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1129
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78871dc5443ed43d0800000000000000
+      internalID: -3220668275745523577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_93
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1127
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be4e955137a196b0800000000000000
+      internalID: -5291264256851947850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_94
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1122
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2959151399b49a0800000000000000
+      internalID: -6247731620945227071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_95
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1127
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff79a2d47bafc460800000000000000
+      internalID: 7264213242210779130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_96
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1081
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fe5ba6615e58fe0800000000000000
+      internalID: -1187291042299908298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_97
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1119
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d819c66e0c80a6f0800000000000000
+      internalID: -675385950623688492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_98
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1126
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e773f764a47d1e0800000000000000
+      internalID: -2173186628540465597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_99
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1124
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae479e5d69b86440800000000000000
+      internalID: 4929393671546556070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_100
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1110
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83111d8933428bab0800000000000000
+      internalID: -4992200382914424520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_101
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 642
+        width: 157
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cc961289a7f9fa0800000000000000
+      internalID: -5791775801960969075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_102
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1110
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66c8e7fca9f3bd30800000000000000
+      internalID: 4446171778433730158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_103
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1115
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f7f16c42e54ea30800000000000000
+      internalID: 4243620260925636502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_104
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1108
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb752ca343484dc0800000000000000
+      internalID: -3654597139681150009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_105
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 1112
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e367e4f6a3a75120800000000000000
+      internalID: 2402568863694152674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_106
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1112
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a8de232c3cb4280800000000000000
+      internalID: -9057930986680120814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_107
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1102
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037e51921ebf4bc10800000000000000
+      internalID: 2068555073345414960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_108
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1103
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca88c45c434d8b40800000000000000
+      internalID: 5444081519679802053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_109
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1102
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd0cb60b788e2290800000000000000
+      internalID: -7913237433268040246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_110
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1102
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60617906fce4a9470800000000000000
+      internalID: 8402114707398792710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_111
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 1104
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcb70fa6c782fa10800000000000000
+      internalID: 1941763676759899348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_112
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1106
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02591feb8580e4470800000000000000
+      internalID: 8380645133836719392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_113
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1093
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a791edfbd7b23e0800000000000000
+      internalID: -2077428540082914689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_114
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 1103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10eb48a70ae5f3cb0800000000000000
+      internalID: -4882079427703030271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_115
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1107
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5950666a4a602d0800000000000000
+      internalID: -3312779441301252678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_116
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1106
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cba3dc34c800ef10800000000000000
+      internalID: 2296845448886070216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_117
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1097
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a192d4a2f1b0150800000000000000
+      internalID: 5839795608359606784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_118
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1095
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6530e4827616c01b0800000000000000
+      internalID: -5689065133590052010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_119
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1081
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eccb32de5c802a80800000000000000
+      internalID: -8493634558338806556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_120
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1095
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967546f573d9f69b0800000000000000
+      internalID: -5084672593128827031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_121
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1082
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e4033b5745ade70800000000000000
+      internalID: 9140711258196037221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_122
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1087
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528a6d837945d3620800000000000000
+      internalID: 2755451555490998309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_123
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1088
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095a1f7f5e42e1ad0800000000000000
+      internalID: -2729703754014022256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_124
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1083
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb0b0f0d9c9ce360800000000000000
+      internalID: 7200302102634761190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_125
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 1082
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cdd3e3393e69890800000000000000
+      internalID: -7451518311893967865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_126
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1084
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9662da4be99689230800000000000000
+      internalID: 3645780028713412201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_127
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1076
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1368eae60b69a7390800000000000000
+      internalID: -7819772118460103119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb981d89e75c9e40800000000000000
+      internalID: 5664499091931438017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_129
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1073
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90e2228e01ff8140800000000000000
+      internalID: 4724259578750099613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_130
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1079
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872e662f2a6740cb0800000000000000
+      internalID: -4898660052448648584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_131
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 1076
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72aed4e0c60d99a00800000000000000
+      internalID: 763870774331042343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_132
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1075
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0d746f127cdc580800000000000000
+      internalID: -8805162747759701829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_133
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1064
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62db175a77f8ad530800000000000000
+      internalID: 3880571772972678438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_134
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1075
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7991197f01a47c0800000000000000
+      internalID: -4086435056407963722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_135
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1076
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfbb65464bc2a570800000000000000
+      internalID: 8476560951337533377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_136
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1072
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6605ab5e5b3351410800000000000000
+      internalID: 1447119711605772390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_137
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 1075
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfaa89e0a01073f0800000000000000
+      internalID: -905205241802477630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_138
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1013
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21741d19193e2f730800000000000000
+      internalID: 4031534830806189842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_139
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1068
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35ad19a89d30dc80800000000000000
+      internalID: -8300066387362208452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_140
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1069
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41f1d2582d93e0c0800000000000000
+      internalID: -4547618402200325813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_141
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1055
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c758d5f62a7ee2170800000000000000
+      internalID: 8155710660053665148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_142
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1063
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb82d13d688aba770800000000000000
+      internalID: 8623171208551934142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_143
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1053
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f073b07536e8610800000000000000
+      internalID: 1625345741028790059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_144
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 1055
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6804ab5b97ac380800000000000000
+      internalID: -8950207488024607035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_145
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1056
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7c4687deb678710800000000000000
+      internalID: 1695442452399572918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_146
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1060
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165111695d55c27f0800000000000000
+      internalID: -636039071531985567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_147
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 1061
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bc865e29f2e00c0800000000000000
+      internalID: -4607693060792857836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_148
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1049
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d13e5f81b44e2440800000000000000
+      internalID: 4912939772913005017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_149
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1039
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20a7ad60560c6060800000000000000
+      internalID: 6947935267632685100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_150
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1040
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5dc593e32db79e0800000000000000
+      internalID: -1622472076044741174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_151
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1031
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd17e0037541e980800000000000000
+      internalID: -8511445460514824774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_152
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1054
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc067e89dd02bb60800000000000000
+      internalID: 7760280335961951431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_153
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1039
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8bf1adf33439770800000000000000
+      internalID: 8616304453611403436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_154
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 1041
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ed4f25b1bde9a80800000000000000
+      internalID: -8458082139752833512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_155
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1039
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cd6de02e5d137d0800000000000000
+      internalID: -2940333914807935912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_156
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1013
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20b749b88b2e08a0800000000000000
+      internalID: -6337079759439679444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_157
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1046
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162cc0db8042f4d80800000000000000
+      internalID: -8264347171251502495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_158
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1044
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bcb427ebab1d380800000000000000
+      internalID: -8948165657484342374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_159
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1047
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706699537b1f5fab0800000000000000
+      internalID: -4974804444180290041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_160
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 1041
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00691e5274328f4e0800000000000000
+      internalID: -1947768050352548352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_161
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1047
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0f22b58ff4fc600800000000000000
+      internalID: 490698812506173614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_162
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1037
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33448c5d5df5d3d80800000000000000
+      internalID: -8269347968763018189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_163
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1023
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10020ed62e1252c0800000000000000
+      internalID: -4444456729978994660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_164
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1026
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86026f140b6f53f10800000000000000
+      internalID: 2248974825822756968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_165
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1024
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e096fd6f433a7c8f0800000000000000
+      internalID: -520267784062539506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_166
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 1030
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4788bc90f0f9f460800000000000000
+      internalID: 7276111589205903183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_167
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1025
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1e6a45d46166c70800000000000000
+      internalID: 8963876629716066740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_168
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1023
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11967afb06884dde0800000000000000
+      internalID: -1309271642544314095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_169
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1023
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7906c84c504316370800000000000000
+      internalID: 8313983586479661207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_170
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1024
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527644a7c23e2ef10800000000000000
+      internalID: 2297648540081743653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_171
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 991
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22def2e58d59412f0800000000000000
+      internalID: -1003012060471104222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_172
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1024
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadb3b14bf7ed5590800000000000000
+      internalID: -7683730322899092054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 958
+        width: 103
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27082309cfd9e5220800000000000000
+      internalID: 2476590553176899698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_174
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 999
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0959a1985cec1890800000000000000
+      internalID: -7485848615451535093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_175
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 951
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df0ae7231080b380800000000000000
+      internalID: -8957518839077531695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_176
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1010
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd55d5fca6283770800000000000000
+      internalID: 8590658813509852610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_177
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 896
+        width: 308
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74042544dafd43a0800000000000000
+      internalID: -6679406882720578436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_178
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1009
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafd2d8277dda29d0800000000000000
+      internalID: -2798180714601586774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_179
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1009
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04def7aedb6488610800000000000000
+      internalID: 1623625447164079424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_180
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1011
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c717b42f346e0f0800000000000000
+      internalID: -1088107552036520874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_181
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1016
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821e612561e425c60800000000000000
+      internalID: 7805386961959969064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_182
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1009
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5262bbc1f34ea4c80800000000000000
+      internalID: -8337600800406952411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_183
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1010
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93f37c4a5e47b110800000000000000
+      internalID: 1276575169119515548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_184
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1002
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2718120f0dd058c20800000000000000
+      internalID: 3207985500604432754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_185
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1001
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31142512ef5b54000800000000000000
+      internalID: 19621876478394643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_186
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1007
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d58665d05a6da580800000000000000
+      internalID: -8814272000283998765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_187
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1011
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4046d48af394f0f0800000000000000
+      internalID: -1084078906109706166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_188
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1005
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0614d7ea89551a0800000000000000
+      internalID: -6821378185389580052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_189
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 969
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807c9a70ce5a993d0800000000000000
+      internalID: -3199343627110594808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_190
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 977
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e8d30b8d8d0bee0800000000000000
+      internalID: -1247258671600267644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_191
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 962
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6b8bbaed8844210800000000000000
+      internalID: 1316327481044154067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_192
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 969
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3567f001a5274f0800000000000000
+      internalID: -832503956084730917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_193
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0b023322bde5e70800000000000000
+      internalID: 9105956436522873015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_194
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 889
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8634e1b45890140800000000000000
+      internalID: 4686423444932487340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_195
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 953
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02710954655cf63e0800000000000000
+      internalID: -2058209530360096992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_196
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 947
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1f896ddc13b0880800000000000000
+      internalID: -8643760299669130753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_197
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 955
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86015cd893bcf7860800000000000000
+      internalID: 7529960550038835304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_198
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 939
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e37dc5abcb9a62e0800000000000000
+      internalID: -2131720174644136991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_199
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 944
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792e0f3c31b98e220800000000000000
+      internalID: 2515430901080449687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_200
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 932
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c433721ed8a93b950800000000000000
+      internalID: 6463679824365302604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_201
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 910
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a726dfb8a7224d0800000000000000
+      internalID: -3160829246790534556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_202
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 916
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc448c48e60366f30800000000000000
+      internalID: 4568392123246200011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_203
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 910
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edb7e70af1658f80800000000000000
+      internalID: -8104964227880993304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_204
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 913
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febbbd1f6d2c1c5f0800000000000000
+      internalID: -738094635475551249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_205
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 893
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550df2a7192015050800000000000000
+      internalID: 5787409819991265365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_206
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 897
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9b8e8fccdb37340800000000000000
+      internalID: 4860437110909876640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_207
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 896
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1654211a306735a30800000000000000
+      internalID: 4202832635226113377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_208
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 896
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93270cc861ee49b0800000000000000
+      internalID: -5093886288293583969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_209
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 898
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05eeb0956fc822cb0800000000000000
+      internalID: -4890191255687139760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7de372cb8feb5ff0800000000000000
+      internalID: -46179987615388293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_211
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 880
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7afd42e414b28880800000000000000
+      internalID: -8610121535789860228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_212
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 3
+        width: 779
+        height: 893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a03f37273b222800800000000000000
+      internalID: 586078417393234082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_213
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 873
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311c46ebbb0d3fa70800000000000000
+      internalID: 8859654396739633427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_214
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 863
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adadd9468e7e9d800800000000000000
+      internalID: 637795807556131546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_215
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 857
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9558f33313b28b20800000000000000
+      internalID: 3135265185660949918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_216
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 834
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce2ca4e0bef11790800000000000000
+      internalID: -7560982263674163505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_217
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 835
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749287657eb89cc20800000000000000
+      internalID: 3227264433692092743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_218
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 827
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7388ea59fc0f7e0800000000000000
+      internalID: -1733657614752401418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_219
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 120
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2380fe232053bcc0800000000000000
+      internalID: -3696522757099453649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_220
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 810
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a63b7615adaeb70800000000000000
+      internalID: 8929189254382447201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_221
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 802
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c53b56cead616f0800000000000000
+      internalID: -714142782038254583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_222
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 788
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb86951ea8e974f0800000000000000
+      internalID: -830376821889004566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_223
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 791
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca35a95a495166d0800000000000000
+      internalID: -2999017700985587001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_224
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 676
+        width: 311
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e687066d6a07990b0800000000000000
+      internalID: -5721417989733975954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_225
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 678
+        width: 295
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3bc11ff7485cce0800000000000000
+      internalID: -1385555625305656392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_226
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 606
+        width: 269
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91c34a81c334fd40800000000000000
+      internalID: 5617171541579252127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_227
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 783
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1691110bbf180d0800000000000000
+      internalID: -3422177508205174309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_228
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 758
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cc7de89d81cee50800000000000000
+      internalID: 6839869256752417894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_229
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 764
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081c19df6ef7e52a0800000000000000
+      internalID: -6746814561681030784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_230
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 751
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba8703fa8656c440800000000000000
+      internalID: 4955743594750642871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_231
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 754
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b92421645eb00880800000000000000
+      internalID: -8646702014935062094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_232
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 697
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b4ecc2511453430800000000000000
+      internalID: 3761984622939753290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_233
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 729
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49d27b8274a88ce0800000000000000
+      internalID: -1402690472053122738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_234
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 721
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397a13eb6ed6047b0800000000000000
+      internalID: -5242069128458426477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_235
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 717
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0ca655892fc2ae0800000000000000
+      internalID: -1572615433777135445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_236
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 709
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dd164de0b4fa4c0800000000000000
+      internalID: -4274114994286502580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_237
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 606
+        width: 125
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38240656ae5b8030800000000000000
+      internalID: 3497993604084017215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_238
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 708
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82a0921795048ee0800000000000000
+      internalID: -1259875849347226997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_239
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 693
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77da795a39dc22e10800000000000000
+      internalID: 2171524004368067959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_240
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 699
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f39ac0df2423320800000000000000
+      internalID: 2536163194769588089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_241
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 698
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c711819ab16e4b070800000000000000
+      internalID: 8121369034531279228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_242
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 683
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632e49c45b27b6090800000000000000
+      internalID: -8040206586740415946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_243
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 636
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9326ad991918caeb0800000000000000
+      internalID: -4707245048157543879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_244
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 577
+        width: 295
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed7cec060f538e60800000000000000
+      internalID: 7963313045712436704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_245
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 681
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351e2023f746b03d0800000000000000
+      internalID: -3239385009500266157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_246
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 684
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac2f9bba98750dc0800000000000000
+      internalID: -3673397315082703699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_247
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 585
+        width: 293
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6b037de0ffe4ce0800000000000000
+      internalID: -1418916393370208551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_248
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 662
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212c405a8563cd5a0800000000000000
+      internalID: -6495256808221523438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_249
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 659
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e9f3487efa99b10800000000000000
+      internalID: 1988814119351852553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_250
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 660
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc5bd295f5828fb0800000000000000
+      internalID: -4647004575715599105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_251
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 653
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b178567a86d3909d0800000000000000
+      internalID: -2807645372994451685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_252
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 651
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76133a90a69ce4680800000000000000
+      internalID: -8768849967178370713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_253
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 644
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498b933b101a79e60800000000000000
+      internalID: 7969015094329325716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_254
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 640
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621b7590e90db6480800000000000000
+      internalID: -8904794461014871770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_255
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 618
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fffeeb8d9cda950800000000000000
+      internalID: 6462042973100048266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_256
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 622
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad32d5e3ba0159430800000000000000
+      internalID: 3788952989173883866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_257
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 499
+        width: 305
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3213eaa88419bd0800000000000000
+      internalID: -2625237347315145778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_258
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 621
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f92541cbf962bc70800000000000000
+      internalID: 8985360736557804021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_259
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 621
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857bbdb2881333230800000000000000
+      internalID: 3617289386629773144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_260
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 622
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde147039a6f78c10800000000000000
+      internalID: 2055882961440743131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_261
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 623
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69098b863399dc3e0800000000000000
+      internalID: -2031799410794917738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_262
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 621
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc098f0d4d938b2a0800000000000000
+      internalID: -6721558857648664373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_263
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 616
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba175b85477531970800000000000000
+      internalID: 8724413060362891691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_264
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 454
+        width: 139
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c6a81c280b96cd0800000000000000
+      internalID: -2564324437171475348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_265
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 617
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffc3b332c3616880800000000000000
+      internalID: -8619498526068191244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_266
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 620
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e87b92bdc287c80800000000000000
+      internalID: -8324854591385006438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_267
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 467
+        width: 123
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add21981736ede230800000000000000
+      internalID: 3669842395686579674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_268
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 603
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969481d45ba33a4a0800000000000000
+      internalID: -6583353679928604311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_269
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 0
+        width: 262
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a41b691380e5580800000000000000
+      internalID: -8836616409779713455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_270
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 600
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f78b1d1715f10010800000000000000
+      internalID: 1153472459204954096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_271
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 599
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509c8324b6ecbc2a0800000000000000
+      internalID: -6716047459225122555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_272
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 599
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e96a96c1067f5540800000000000000
+      internalID: 4998843861403593191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_273
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 601
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9001f331ca3b7840800000000000000
+      internalID: 5222832794340753563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_274
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 446
+        width: 123
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3695d306fc5294f0800000000000000
+      internalID: -823493570159339972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_275
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 581
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998d9f87cd5dc5ac0800000000000000
+      internalID: -3864979237291566951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_276
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 476
+        width: 295
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228a0e4df76b75d70800000000000000
+      internalID: 9031888237863413794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_277
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 484
+        width: 294
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e73ea456f46f6dd0800000000000000
+      internalID: -2490661059767158815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_278
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 573
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702446082e55f91a0800000000000000
+      internalID: -6800622481001135609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_279
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 559
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873e64a3031e73cf0800000000000000
+      internalID: -272501655180221576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_280
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 530
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8c91dd1273bdc80800000000000000
+      internalID: -8296977269917103942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_281
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 514
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29388f8813a359f20800000000000000
+      internalID: 3428710675738297234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_282
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 398
+        width: 293
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bca280ef436eff0800000000000000
+      internalID: -7260083731117278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_283
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 499
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f88f0e183f1cc40800000000000000
+      internalID: 5530969556538396562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_284
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 505
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c5223cc7e54faa0800000000000000
+      internalID: -6128169303001637884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_285
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1031
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d987d366a047c040800000000000000
+      internalID: 4667770622176627158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animations-sharedassets0.assets-165_286
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 374
+        width: 293
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925fc29a876915ef0800000000000000
+      internalID: -121150269983754967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

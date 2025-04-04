@@ -1,0 +1,2605 @@
+fileFormatVersion: 2
+guid: a78a40a76dafc794997d53d9f5fe080f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6224672817624930757
+    second: Military-sharedassets0.assets-64_0
+  - first:
+      213: -5568433731373945035
+    second: Military-sharedassets0.assets-64_1
+  - first:
+      213: -3929776183666036511
+    second: Military-sharedassets0.assets-64_2
+  - first:
+      213: 9132651213684912368
+    second: Military-sharedassets0.assets-64_3
+  - first:
+      213: 5853253449544030223
+    second: Military-sharedassets0.assets-64_4
+  - first:
+      213: -476004341535758537
+    second: Military-sharedassets0.assets-64_5
+  - first:
+      213: 2802478028711550095
+    second: Military-sharedassets0.assets-64_6
+  - first:
+      213: -1478803624698375643
+    second: Military-sharedassets0.assets-64_7
+  - first:
+      213: 3542343523841386760
+    second: Military-sharedassets0.assets-64_8
+  - first:
+      213: 8892704036874917278
+    second: Military-sharedassets0.assets-64_9
+  - first:
+      213: 7110863361803200659
+    second: Military-sharedassets0.assets-64_10
+  - first:
+      213: -2291638674077089028
+    second: Military-sharedassets0.assets-64_11
+  - first:
+      213: -95044310243241748
+    second: Military-sharedassets0.assets-64_12
+  - first:
+      213: 8888614707632142163
+    second: Military-sharedassets0.assets-64_13
+  - first:
+      213: 1773751022194828451
+    second: Military-sharedassets0.assets-64_14
+  - first:
+      213: -1705257818309809168
+    second: Military-sharedassets0.assets-64_15
+  - first:
+      213: -651441454438218089
+    second: Military-sharedassets0.assets-64_16
+  - first:
+      213: -5508748684878766199
+    second: Military-sharedassets0.assets-64_17
+  - first:
+      213: -255715763221113532
+    second: Military-sharedassets0.assets-64_18
+  - first:
+      213: -5636715675527559071
+    second: Military-sharedassets0.assets-64_19
+  - first:
+      213: 3694440089297267152
+    second: Military-sharedassets0.assets-64_20
+  - first:
+      213: 4762655068542833122
+    second: Military-sharedassets0.assets-64_21
+  - first:
+      213: 777135067115627415
+    second: Military-sharedassets0.assets-64_22
+  - first:
+      213: 3021750535292342087
+    second: Military-sharedassets0.assets-64_23
+  - first:
+      213: 3270654592075021171
+    second: Military-sharedassets0.assets-64_24
+  - first:
+      213: -8216773272281660756
+    second: Military-sharedassets0.assets-64_25
+  - first:
+      213: -3437048385419484701
+    second: Military-sharedassets0.assets-64_26
+  - first:
+      213: -8641688406146683259
+    second: Military-sharedassets0.assets-64_27
+  - first:
+      213: 5165475263235122069
+    second: Military-sharedassets0.assets-64_28
+  - first:
+      213: -4520334988170936954
+    second: Military-sharedassets0.assets-64_29
+  - first:
+      213: -583166637066756527
+    second: Military-sharedassets0.assets-64_30
+  - first:
+      213: 6258200238669248759
+    second: Military-sharedassets0.assets-64_31
+  - first:
+      213: -6772604424590906702
+    second: Military-sharedassets0.assets-64_32
+  - first:
+      213: 4004106178847749410
+    second: Military-sharedassets0.assets-64_33
+  - first:
+      213: -1041632344215731670
+    second: Military-sharedassets0.assets-64_34
+  - first:
+      213: 6317747526738506057
+    second: Military-sharedassets0.assets-64_35
+  - first:
+      213: -153804688308273128
+    second: Military-sharedassets0.assets-64_36
+  - first:
+      213: -5037103918083618864
+    second: Military-sharedassets0.assets-64_37
+  - first:
+      213: -3628017417339432262
+    second: Military-sharedassets0.assets-64_38
+  - first:
+      213: -6200831595210657521
+    second: Military-sharedassets0.assets-64_39
+  - first:
+      213: 1534073982362171434
+    second: Military-sharedassets0.assets-64_40
+  - first:
+      213: -728777711656063259
+    second: Military-sharedassets0.assets-64_41
+  - first:
+      213: -5464942629213577682
+    second: Military-sharedassets0.assets-64_42
+  - first:
+      213: -601305768725870180
+    second: Military-sharedassets0.assets-64_43
+  - first:
+      213: -2159797252055267139
+    second: Military-sharedassets0.assets-64_44
+  - first:
+      213: -4184921327293442283
+    second: Military-sharedassets0.assets-64_45
+  - first:
+      213: -8531818605521778833
+    second: Military-sharedassets0.assets-64_46
+  - first:
+      213: -588382817909488370
+    second: Military-sharedassets0.assets-64_47
+  - first:
+      213: -3605191075145022362
+    second: Military-sharedassets0.assets-64_48
+  - first:
+      213: 8947928577668519212
+    second: Military-sharedassets0.assets-64_49
+  - first:
+      213: 5731952471609315427
+    second: Military-sharedassets0.assets-64_50
+  - first:
+      213: -7657876019879096065
+    second: Military-sharedassets0.assets-64_51
+  - first:
+      213: -5170079239079313289
+    second: Military-sharedassets0.assets-64_52
+  - first:
+      213: -5387587045495658460
+    second: Military-sharedassets0.assets-64_53
+  - first:
+      213: 7749179735779353738
+    second: Military-sharedassets0.assets-64_54
+  - first:
+      213: 5051568159064906881
+    second: Military-sharedassets0.assets-64_55
+  - first:
+      213: 7771118473578680481
+    second: Military-sharedassets0.assets-64_56
+  - first:
+      213: -7533848300856520650
+    second: Military-sharedassets0.assets-64_57
+  - first:
+      213: -2769763078101368456
+    second: Military-sharedassets0.assets-64_58
+  - first:
+      213: 94592508408250679
+    second: Military-sharedassets0.assets-64_59
+  - first:
+      213: 5819349780863363659
+    second: Military-sharedassets0.assets-64_60
+  - first:
+      213: 3818931445174496157
+    second: Military-sharedassets0.assets-64_61
+  - first:
+      213: 6753987364648066842
+    second: Military-sharedassets0.assets-64_62
+  - first:
+      213: 3501442548114472037
+    second: Military-sharedassets0.assets-64_63
+  - first:
+      213: -5227962302365236584
+    second: Military-sharedassets0.assets-64_64
+  - first:
+      213: -7143762671194659709
+    second: Military-sharedassets0.assets-64_65
+  - first:
+      213: -800429092897602383
+    second: Military-sharedassets0.assets-64_66
+  - first:
+      213: 2251770263665745902
+    second: Military-sharedassets0.assets-64_67
+  - first:
+      213: 882680848267932617
+    second: Military-sharedassets0.assets-64_68
+  - first:
+      213: -5664852697940900342
+    second: Military-sharedassets0.assets-64_69
+  - first:
+      213: 2448609053743992339
+    second: Military-sharedassets0.assets-64_70
+  - first:
+      213: -1482449680709047525
+    second: Military-sharedassets0.assets-64_71
+  - first:
+      213: -6544477528595092120
+    second: Military-sharedassets0.assets-64_72
+  - first:
+      213: 2990943581521460320
+    second: Military-sharedassets0.assets-64_73
+  - first:
+      213: 7642769176001896266
+    second: Military-sharedassets0.assets-64_74
+  - first:
+      213: 3883239684880605497
+    second: Military-sharedassets0.assets-64_75
+  - first:
+      213: 2710534479123821723
+    second: Military-sharedassets0.assets-64_76
+  - first:
+      213: 8095854723321460421
+    second: Military-sharedassets0.assets-64_77
+  - first:
+      213: 5276707083692757438
+    second: Military-sharedassets0.assets-64_78
+  - first:
+      213: -4296484848885237988
+    second: Military-sharedassets0.assets-64_79
+  - first:
+      213: 5938459582450860686
+    second: Military-sharedassets0.assets-64_80
+  - first:
+      213: -3798101711124267676
+    second: Military-sharedassets0.assets-64_81
+  - first:
+      213: 1956036770792232593
+    second: Military-sharedassets0.assets-64_82
+  - first:
+      213: -6642688176450179676
+    second: Military-sharedassets0.assets-64_83
+  - first:
+      213: -5660329773224304936
+    second: Military-sharedassets0.assets-64_84
+  - first:
+      213: 4977195912462539787
+    second: Military-sharedassets0.assets-64_85
+  - first:
+      213: -950937179510584237
+    second: Military-sharedassets0.assets-64_86
+  - first:
+      213: -1013292182782284668
+    second: Military-sharedassets0.assets-64_87
+  - first:
+      213: -4181089163238957569
+    second: Military-sharedassets0.assets-64_88
+  - first:
+      213: -3590001724321908036
+    second: Military-sharedassets0.assets-64_89
+  - first:
+      213: -1576660343588403207
+    second: Military-sharedassets0.assets-64_90
+  - first:
+      213: 1857940588798734191
+    second: Military-sharedassets0.assets-64_91
+  - first:
+      213: -5628363845813891155
+    second: Military-sharedassets0.assets-64_92
+  - first:
+      213: 5741003547880225001
+    second: Military-sharedassets0.assets-64_93
+  - first:
+      213: 6275300928928345063
+    second: Military-sharedassets0.assets-64_94
+  - first:
+      213: 886635488300002640
+    second: Military-sharedassets0.assets-64_95
+  - first:
+      213: 5965523779185001533
+    second: Military-sharedassets0.assets-64_96
+  - first:
+      213: 941386962692492199
+    second: Military-sharedassets0.assets-64_97
+  - first:
+      213: 2264630205606407601
+    second: Military-sharedassets0.assets-64_98
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 173
+        width: 93
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c95099a2fa726650800000000000000
+      internalID: 6224672817624930757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 174
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f272e2603f8b2b0800000000000000
+      internalID: -5568433731373945035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 175
+        width: 91
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0bbcdb161a679c0800000000000000
+      internalID: -3929776183666036511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 177
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0ba3954e1bdbe70800000000000000
+      internalID: 9132651213684912368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 178
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08d660200fea3150800000000000000
+      internalID: 5853253449544030223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_5
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 177
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737a737c294e469f0800000000000000
+      internalID: -476004341535758537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_6
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 174
+        width: 96
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c50304be664e620800000000000000
+      internalID: 2802478028711550095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_7
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 176
+        width: 83
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5221b4930fb3a7be0800000000000000
+      internalID: -1478803624698375643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_8
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 180
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809a8f2baaee82130800000000000000
+      internalID: 3542343523841386760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_9
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 182
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e959c9ab43b396b70800000000000000
+      internalID: 8892704036874917278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_10
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 182
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398ae967d8cdea260800000000000000
+      internalID: 7110863361803200659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_11
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 185
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2861e74c67230e0800000000000000
+      internalID: -2291638674077089028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_12
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 185
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0970214b55eaef0800000000000000
+      internalID: -95044310243241748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_13
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 184
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357f9b19bf3ba5b70800000000000000
+      internalID: 8888614707632142163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_14
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 184
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4a8ed2821ad9810800000000000000
+      internalID: 1773751022194828451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_15
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 184
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbaf219c05b558e0800000000000000
+      internalID: -1705257818309809168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_16
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 174
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7960f3cd27d95f6f0800000000000000
+      internalID: -651441454438218089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_17
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 189
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f96e8f14efc83b0800000000000000
+      internalID: -5508748684878766199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_18
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 191
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445dcb14ed3837cf0800000000000000
+      internalID: -255715763221113532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_19
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 186
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168cd4c25fc56c1b0800000000000000
+      internalID: -5636715675527559071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_20
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 194
+        width: 67
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9a68eefa9454330800000000000000
+      internalID: 3694440089297267152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_21
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 190
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1953c1d89581240800000000000000
+      internalID: 4762655068542833122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_22
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 191
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7932de1e930f8ca00800000000000000
+      internalID: 777135067115627415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_23
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 184
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f42f71a1a6fe920800000000000000
+      internalID: 3021750535292342087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_24
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 110
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bb1a7d503b36d20800000000000000
+      internalID: 3270654592075021171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 130
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca24ab14e3828fd80800000000000000
+      internalID: -8216773272281660756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 114
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1ed3724b62d40d0800000000000000
+      internalID: -3437048385419484701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 117
+        width: 83
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ee3042e2e821880800000000000000
+      internalID: -8641688406146683259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_28
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 107
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593623152647fa740800000000000000
+      internalID: 5165475263235122069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_29
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 168
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d3d4c274b8441c0800000000000000
+      internalID: -4520334988170936954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_30
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 123
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ed6c8880d28e7f0800000000000000
+      internalID: -583166637066756527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_31
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 119
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8352fa5f799d650800000000000000
+      internalID: 6258200238669248759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_32
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 149
+        width: 75
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba250c9820e202a0800000000000000
+      internalID: -6772604424590906702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_33
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 134
+        width: 82
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225ba21ea51719730800000000000000
+      internalID: 4004106178847749410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_34
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 127
+        width: 82
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22c678d6e06b81f0800000000000000
+      internalID: -1041632344215731670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_35
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 142
+        width: 76
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941f9d717e52da750800000000000000
+      internalID: 6317747526738506057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_36
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 123
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810889c63739dddf0800000000000000
+      internalID: -153804688308273128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_37
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 125
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7c5e99cac981ab0800000000000000
+      internalID: -5037103918083618864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_38
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 131
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab29d888161b6adc0800000000000000
+      internalID: -3628017417339432262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_39
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 131
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01337f748832f9a0800000000000000
+      internalID: -6200831595210657521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_40
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 126
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28bdd9b8202a4510800000000000000
+      internalID: 1534073982362171434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_41
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 125
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eea480588cd2e5f0800000000000000
+      internalID: -728777711656063259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_42
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 125
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ed5db12af9824b0800000000000000
+      internalID: -5464942629213577682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_43
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 125
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9983b5d69bb7a7f0800000000000000
+      internalID: -601305768725870180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_44
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 81
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db88164a7dbd602e0800000000000000
+      internalID: -2159797252055267139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_45
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 76
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517d7b9b93c2ce5c0800000000000000
+      internalID: -4184921327293442283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_46
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 95
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f674ec98e24e89980800000000000000
+      internalID: -8531818605521778833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_47
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 115
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05cf8ac1f4a5d7f0800000000000000
+      internalID: -588382817909488370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_48
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 95
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664829a71d9c7fdc0800000000000000
+      internalID: -3605191075145022362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_49
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 96
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c259f7b12ad6d2c70800000000000000
+      internalID: 8947928577668519212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_50
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 80
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36012bb576cfb8f40800000000000000
+      internalID: 5731952471609315427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_51
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 75
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0df154552c9b590800000000000000
+      internalID: -7657876019879096065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_52
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 88
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7704e0603503048b0800000000000000
+      internalID: -5170079239079313289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_53
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 90
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4282cb470227b35b0800000000000000
+      internalID: -5387587045495658460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_54
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 112
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84a8cba9ed9a8b60800000000000000
+      internalID: 7749179735779353738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_55
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 78
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cdcbfe976ca1640800000000000000
+      internalID: 5051568159064906881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_56
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 73
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0122d141f88db60800000000000000
+      internalID: 7771118473578680481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_57
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 124
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63054cbe2e4627790800000000000000
+      internalID: -7533848300856520650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_58
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 57
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87186c1c723df89d0800000000000000
+      internalID: -2769763078101368456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_59
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731461e926f005100800000000000000
+      internalID: 94592508408250679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_60
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 60
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4aab102bcb72c050800000000000000
+      internalID: 5819349780863363659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_61
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 61
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9be1337ae19ff430800000000000000
+      internalID: 3818931445174496157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_62
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 61
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f135759bbfabd50800000000000000
+      internalID: 6753987364648066842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_63
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 71
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c3dc1327f979030800000000000000
+      internalID: 3501442548114472037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_64
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 59
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89203642cfb8277b0800000000000000
+      internalID: -5227962302365236584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_65
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 60
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3842fb723b14cdc90800000000000000
+      internalID: -7143762671194659709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_66
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 69
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b443f91bfd44e4f0800000000000000
+      internalID: -800429092897602383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_67
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 70
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef9599df15ef3f10800000000000000
+      internalID: 2251770263665745902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_68
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 68
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3fc0b0e89ef3c00800000000000000
+      internalID: 882680848267932617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_69
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 83
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06c1522c766261b0800000000000000
+      internalID: -5664852697940900342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_70
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 23
+        width: 82
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e473a06f43bf120800000000000000
+      internalID: 2448609053743992339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_71
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 36
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b22f7aed74d6be0800000000000000
+      internalID: -1482449680709047525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_72
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 49
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d2093ac585d25a0800000000000000
+      internalID: -6544477528595092120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_73
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 13
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c32d73757f18920800000000000000
+      internalID: 2990943581521460320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_74
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 41
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fd5eb8212901a60800000000000000
+      internalID: 7642769176001896266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_75
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 47
+        width: 78
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931220b4be904e530800000000000000
+      internalID: 3883239684880605497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_76
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 17
+        width: 65
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94bf9b6fb0cd9520800000000000000
+      internalID: 2710534479123821723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_77
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 19
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c67eb82af04a5070800000000000000
+      internalID: 8095854723321460421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_78
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 22
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb15b4ba221aa3940800000000000000
+      internalID: 5276707083692757438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_79
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 39
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17f85f2bc1df54c0800000000000000
+      internalID: -4296484848885237988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_80
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 48
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e828ff4e685a96250800000000000000
+      internalID: 5938459582450860686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_81
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 31
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d72afed9e6a4bc0800000000000000
+      internalID: -3798101711124267676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_82
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 13
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1965caa541d352b10800000000000000
+      internalID: 1956036770792232593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_83
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 28
+        width: 77
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adeff84c4e60d3a0800000000000000
+      internalID: -6642688176450179676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_84
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 27
+        width: 71
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ded56b9f087271b0800000000000000
+      internalID: -5660329773224304936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_85
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 38
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c1bd3ef4d821540800000000000000
+      internalID: 4977195912462539787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_86
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 47
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c4f8b6ca79dc2f0800000000000000
+      internalID: -950937179510584237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_87
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 11
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ce49fd02010f1f0800000000000000
+      internalID: -1013292182782284668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_88
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 17
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd18e2fe89c9f5c0800000000000000
+      internalID: -4181089163238957569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_89
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 28
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbab0cec370cd2ec0800000000000000
+      internalID: -3590001724321908036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_90
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 17
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7c7f065c39e1ae0800000000000000
+      internalID: -1576660343588403207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_91
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 13
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fe0292f1bb8c910800000000000000
+      internalID: 1857940588798734191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_92
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 13
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf8c9f07e804e1b0800000000000000
+      internalID: -5628363845813891155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_93
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 26
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e878a54f442caf40800000000000000
+      internalID: 5741003547880225001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_94
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 11
+        width: 71
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebe37762f8561750800000000000000
+      internalID: 6275300928928345063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_95
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 10
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d606d6746fd4c00800000000000000
+      internalID: 886635488300002640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_96
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 6
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34c77d354cc9c250800000000000000
+      internalID: 5965523779185001533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_97
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 5
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab4873747a701d00800000000000000
+      internalID: 941386962692492199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Military-sharedassets0.assets-64_98
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1
+        width: 59
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd2ac86c259d6f10800000000000000
+      internalID: 2264630205606407601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

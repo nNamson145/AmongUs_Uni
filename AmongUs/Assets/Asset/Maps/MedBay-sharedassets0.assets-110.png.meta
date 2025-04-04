@@ -1,0 +1,1930 @@
+fileFormatVersion: 2
+guid: 8e74587772d3ed14483794b0129234a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6365037381775991988
+    second: MedBay-sharedassets0.assets-110_0
+  - first:
+      213: -1077616678825291375
+    second: MedBay-sharedassets0.assets-110_1
+  - first:
+      213: 3667264572347376536
+    second: MedBay-sharedassets0.assets-110_2
+  - first:
+      213: 8533383438750451699
+    second: MedBay-sharedassets0.assets-110_3
+  - first:
+      213: -3854386047118408882
+    second: MedBay-sharedassets0.assets-110_4
+  - first:
+      213: -7148879700577737005
+    second: MedBay-sharedassets0.assets-110_5
+  - first:
+      213: 3261620626784332870
+    second: MedBay-sharedassets0.assets-110_6
+  - first:
+      213: -3697452084392320264
+    second: MedBay-sharedassets0.assets-110_7
+  - first:
+      213: 8058134970656832238
+    second: MedBay-sharedassets0.assets-110_8
+  - first:
+      213: -6283046972063079491
+    second: MedBay-sharedassets0.assets-110_9
+  - first:
+      213: -5378072639750198933
+    second: MedBay-sharedassets0.assets-110_10
+  - first:
+      213: -2950364932023594730
+    second: MedBay-sharedassets0.assets-110_11
+  - first:
+      213: 5747739075907514451
+    second: MedBay-sharedassets0.assets-110_12
+  - first:
+      213: 9157690543004180845
+    second: MedBay-sharedassets0.assets-110_13
+  - first:
+      213: 4218737075891288845
+    second: MedBay-sharedassets0.assets-110_14
+  - first:
+      213: -8696988905044846678
+    second: MedBay-sharedassets0.assets-110_15
+  - first:
+      213: -1897794044722236573
+    second: MedBay-sharedassets0.assets-110_16
+  - first:
+      213: 8387037588652876537
+    second: MedBay-sharedassets0.assets-110_17
+  - first:
+      213: 870999157867839709
+    second: MedBay-sharedassets0.assets-110_18
+  - first:
+      213: 5214980599722812413
+    second: MedBay-sharedassets0.assets-110_19
+  - first:
+      213: -8887327425088906798
+    second: MedBay-sharedassets0.assets-110_20
+  - first:
+      213: 6156542545960133839
+    second: MedBay-sharedassets0.assets-110_21
+  - first:
+      213: 3234305136950146025
+    second: MedBay-sharedassets0.assets-110_22
+  - first:
+      213: 8203974579830973352
+    second: MedBay-sharedassets0.assets-110_23
+  - first:
+      213: -6732582667293693754
+    second: MedBay-sharedassets0.assets-110_24
+  - first:
+      213: -6805190936714872904
+    second: MedBay-sharedassets0.assets-110_25
+  - first:
+      213: -5301608733005930328
+    second: MedBay-sharedassets0.assets-110_26
+  - first:
+      213: 7598798755431013445
+    second: MedBay-sharedassets0.assets-110_27
+  - first:
+      213: 6459133450549150507
+    second: MedBay-sharedassets0.assets-110_28
+  - first:
+      213: 5031806408555324170
+    second: MedBay-sharedassets0.assets-110_29
+  - first:
+      213: 7525551790887227426
+    second: MedBay-sharedassets0.assets-110_30
+  - first:
+      213: 8003416836363791258
+    second: MedBay-sharedassets0.assets-110_31
+  - first:
+      213: 8585595352289148397
+    second: MedBay-sharedassets0.assets-110_32
+  - first:
+      213: -6889553636058793913
+    second: MedBay-sharedassets0.assets-110_33
+  - first:
+      213: 1740277684662941344
+    second: MedBay-sharedassets0.assets-110_34
+  - first:
+      213: 4761514448974637787
+    second: MedBay-sharedassets0.assets-110_35
+  - first:
+      213: 8694278445186692439
+    second: MedBay-sharedassets0.assets-110_36
+  - first:
+      213: -8632627630811926646
+    second: MedBay-sharedassets0.assets-110_37
+  - first:
+      213: 6373304665962901212
+    second: MedBay-sharedassets0.assets-110_38
+  - first:
+      213: 2849581983389897358
+    second: MedBay-sharedassets0.assets-110_39
+  - first:
+      213: 5628702240315618285
+    second: MedBay-sharedassets0.assets-110_40
+  - first:
+      213: 7801923373338206626
+    second: MedBay-sharedassets0.assets-110_41
+  - first:
+      213: -4505201534165357466
+    second: MedBay-sharedassets0.assets-110_42
+  - first:
+      213: -2926399588368427731
+    second: MedBay-sharedassets0.assets-110_43
+  - first:
+      213: -282376390608894726
+    second: MedBay-sharedassets0.assets-110_44
+  - first:
+      213: -537053316449676422
+    second: MedBay-sharedassets0.assets-110_45
+  - first:
+      213: -4363799835971212538
+    second: MedBay-sharedassets0.assets-110_46
+  - first:
+      213: -4161615662304007991
+    second: MedBay-sharedassets0.assets-110_47
+  - first:
+      213: -7792729027869563366
+    second: MedBay-sharedassets0.assets-110_48
+  - first:
+      213: -5131681473029055365
+    second: MedBay-sharedassets0.assets-110_49
+  - first:
+      213: 7758784536881403524
+    second: MedBay-sharedassets0.assets-110_50
+  - first:
+      213: 7115559762801150177
+    second: MedBay-sharedassets0.assets-110_51
+  - first:
+      213: 8933415229968236008
+    second: MedBay-sharedassets0.assets-110_52
+  - first:
+      213: 1257531294691395067
+    second: MedBay-sharedassets0.assets-110_53
+  - first:
+      213: 778540961533660101
+    second: MedBay-sharedassets0.assets-110_54
+  - first:
+      213: -8518939262192618872
+    second: MedBay-sharedassets0.assets-110_55
+  - first:
+      213: -6861293980712018811
+    second: MedBay-sharedassets0.assets-110_56
+  - first:
+      213: -7832193019232023593
+    second: MedBay-sharedassets0.assets-110_57
+  - first:
+      213: -704433710542182565
+    second: MedBay-sharedassets0.assets-110_58
+  - first:
+      213: -559597800478053928
+    second: MedBay-sharedassets0.assets-110_59
+  - first:
+      213: 3108465109946857145
+    second: MedBay-sharedassets0.assets-110_60
+  - first:
+      213: 5141840644813393653
+    second: MedBay-sharedassets0.assets-110_61
+  - first:
+      213: -5977996566635115924
+    second: MedBay-sharedassets0.assets-110_62
+  - first:
+      213: 3666911042502549722
+    second: MedBay-sharedassets0.assets-110_63
+  - first:
+      213: -6527466897993037360
+    second: MedBay-sharedassets0.assets-110_64
+  - first:
+      213: 8140228126748997404
+    second: MedBay-sharedassets0.assets-110_65
+  - first:
+      213: -9048495042899704986
+    second: MedBay-sharedassets0.assets-110_66
+  - first:
+      213: -3945426389260709815
+    second: MedBay-sharedassets0.assets-110_67
+  - first:
+      213: -3426682705968984509
+    second: MedBay-sharedassets0.assets-110_68
+  - first:
+      213: 2262567833505166737
+    second: MedBay-sharedassets0.assets-110_69
+  - first:
+      213: -5768308657229644847
+    second: MedBay-sharedassets0.assets-110_70
+  - first:
+      213: 7022361369428346101
+    second: MedBay-sharedassets0.assets-110_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 522
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b427da76c7255850800000000000000
+      internalID: 6365037381775991988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_1
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 423
+        width: 149
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191159e07598b01f0800000000000000
+      internalID: -1077616678825291375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_2
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 478
+        width: 91
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893e324d2bdb4e230800000000000000
+      internalID: 3667264572347376536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_3
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 484
+        width: 87
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f70ce6960bac6670800000000000000
+      internalID: 8533383438750451699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 469
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e430942cf48728ac0800000000000000
+      internalID: -3854386047118408882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_5
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 469
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d62019e9c31acc90800000000000000
+      internalID: -7148879700577737005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_6
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 460
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c2193edaa934d20800000000000000
+      internalID: 3261620626784332870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_7
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 460
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2a4cf4be200bcc0800000000000000
+      internalID: -3697452084392320264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_8
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 460
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea372edf0f34df60800000000000000
+      internalID: 8058134970656832238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_9
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 422
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3261361122ec8a0800000000000000
+      internalID: -6283046972063079491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_10
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 432
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69217bad6f3d55b0800000000000000
+      internalID: -5378072639750198933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_11
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 417
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611d6fcd9b23e07d0800000000000000
+      internalID: -2950364932023594730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_12
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 417
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35079199c3214cf40800000000000000
+      internalID: 5747739075907514451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_13
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 399
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61e7b28707a61f70800000000000000
+      internalID: 9157690543004180845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_14
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 399
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b3549c407fb8a30800000000000000
+      internalID: 4218737075891288845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_15
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 370
+        width: 81
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7d9436ba61e4780800000000000000
+      internalID: -8696988905044846678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_16
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 370
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363ba7b0f5ea9a5e0800000000000000
+      internalID: -1897794044722236573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_17
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 380
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2e08d104eb46470800000000000000
+      internalID: 8387037588652876537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_18
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 365
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0806c8e19661c00800000000000000
+      internalID: 870999157867839709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_19
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 365
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3280da9355f5840800000000000000
+      internalID: 5214980599722812413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_20
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 338
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d91df04bced9a480800000000000000
+      internalID: -8887327425088906798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_21
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 338
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc46888a3de607550800000000000000
+      internalID: 6156542545960133839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_22
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 338
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3722fc26f82ec20800000000000000
+      internalID: 3234305136950146025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_23
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 318
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3e821f96f5ad170800000000000000
+      internalID: 8203974579830973352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_24
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 318
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8e10f1cbf0192a0800000000000000
+      internalID: -6732582667293693754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_25
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 318
+        width: 91
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7f66406ea1f81a0800000000000000
+      internalID: -6805190936714872904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_26
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 324
+        width: 90
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0a21b42f6ec66b0800000000000000
+      internalID: -5301608733005930328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_27
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 315
+        width: 82
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c5529353b547960800000000000000
+      internalID: 7598798755431013445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_28
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 277
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2343dcb6a373a950800000000000000
+      internalID: 6459133450549150507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_29
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 277
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a036978d44194d540800000000000000
+      internalID: 5031806408555324170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_30
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 277
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22053a25b71207860800000000000000
+      internalID: 7525551790887227426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_31
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 266
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b28d07539d11f60800000000000000
+      internalID: 8003416836363791258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_32
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 266
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded70760c79262770800000000000000
+      internalID: 8585595352289148397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_33
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 265
+        width: 85
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748f6bd68736360a0800000000000000
+      internalID: -6889553636058793913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_34
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 283
+        width: 90
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6bfd47555b62810800000000000000
+      internalID: 1740277684662941344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_35
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 275
+        width: 91
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdae50ce92c441240800000000000000
+      internalID: 4761514448974637787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_36
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 214
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75530bf7e2848a870800000000000000
+      internalID: 8694278445186692439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_37
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 214
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fab3b48eeb23880800000000000000
+      internalID: -8632627630811926646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_38
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 214
+        width: 85
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdeee0493d6827850800000000000000
+      internalID: 6373304665962901212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_39
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 242
+        width: 91
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82de4657bfbb8720800000000000000
+      internalID: 2849581983389897358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_40
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 235
+        width: 91
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3357c8dda2d1e40800000000000000
+      internalID: 5628702240315618285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_41
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 216
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a124a0c8fff54c60800000000000000
+      internalID: 7801923373338206626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_42
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 216
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c6782031f4a71c0800000000000000
+      internalID: -4505201534165357466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_43
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 216
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25537044175367d0800000000000000
+      internalID: -2926399588368427731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_44
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 162
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4ccc83b2cc41cf0800000000000000
+      internalID: -282376390608894726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_45
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 162
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a735297aad00c88f0800000000000000
+      internalID: -537053316449676422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_46
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 162
+        width: 85
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b270a6b2ba073c0800000000000000
+      internalID: -4363799835971212538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_47
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 201
+        width: 91
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8eaa4ba98fe36c0800000000000000
+      internalID: -4161615662304007991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_48
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 188
+        width: 81
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16a5fe9c3aaad390800000000000000
+      internalID: -7792729027869563366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_49
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 110
+        width: 85
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c56ab93ea98c8b0800000000000000
+      internalID: -5131681473029055365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_50
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 110
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4861c91bd6dbcab60800000000000000
+      internalID: 7758784536881403524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_51
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 112
+        width: 84
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e843d787eb8fb260800000000000000
+      internalID: 7115559762801150177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_52
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 142
+        width: 80
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed325502ddd9fb70800000000000000
+      internalID: 8933415229968236008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_53
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 152
+        width: 87
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf58402cc06a37110800000000000000
+      internalID: 1257531294691395067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_54
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 109
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb0e4f21eeedca00800000000000000
+      internalID: 778540961533660101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_55
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 109
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88271e550e5a6c980800000000000000
+      internalID: -8518939262192618872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_56
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 109
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c522c2a79c7c0a0800000000000000
+      internalID: -6861293980712018811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_57
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 62
+        width: 84
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db816c12f57e4390800000000000000
+      internalID: -7832193019232023593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_58
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 105
+        width: 87
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57a253c5495936f0800000000000000
+      internalID: -704433710542182565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_59
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 109
+        width: 77
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d96a6de3c8eb38f0800000000000000
+      internalID: -559597800478053928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_60
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 58
+        width: 85
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6f3135c8c732b20800000000000000
+      internalID: 3108465109946857145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_61
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 58
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe84c5e2dc7b5740800000000000000
+      internalID: 5141840644813393653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_62
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 60
+        width: 79
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a8531abc3e90da0800000000000000
+      internalID: -5977996566635115924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_63
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 62
+        width: 77
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0625f3a2c73e230800000000000000
+      internalID: 3666911042502549722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_64
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 48
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d90106b077c965a0800000000000000
+      internalID: -6527466897993037360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_65
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 48
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17748d3a56e7f070800000000000000
+      internalID: 8140228126748997404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_66
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 48
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663841013b94d6280800000000000000
+      internalID: -9048495042899704986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_67
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 6
+        width: 85
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940d9ac4a970f39c0800000000000000
+      internalID: -3945426389260709815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_68
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 6
+        width: 85
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e8eb8fb3af170d0800000000000000
+      internalID: -3426682705968984509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_69
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 13
+        width: 83
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195fc4cf471466f10800000000000000
+      internalID: 2262567833505166737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_70
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 24
+        width: 87
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db340b86d9d2ffa0800000000000000
+      internalID: -5768308657229644847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedBay-sharedassets0.assets-110_71
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 23
+        width: 74
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4c33d9570747160800000000000000
+      internalID: 7022361369428346101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
