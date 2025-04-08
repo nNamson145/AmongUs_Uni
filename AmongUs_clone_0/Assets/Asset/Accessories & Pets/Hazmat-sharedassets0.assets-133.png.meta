@@ -1,0 +1,2480 @@
+fileFormatVersion: 2
+guid: fa601d5d582874246aa93686faa6a733
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9003193637884589612
+    second: Hazmat-sharedassets0.assets-133_0
+  - first:
+      213: -801285477495843597
+    second: Hazmat-sharedassets0.assets-133_1
+  - first:
+      213: 7318273678376956707
+    second: Hazmat-sharedassets0.assets-133_2
+  - first:
+      213: 7472012780255547601
+    second: Hazmat-sharedassets0.assets-133_3
+  - first:
+      213: 5266141634568329376
+    second: Hazmat-sharedassets0.assets-133_4
+  - first:
+      213: -77197429375699310
+    second: Hazmat-sharedassets0.assets-133_5
+  - first:
+      213: 3749100900906124636
+    second: Hazmat-sharedassets0.assets-133_6
+  - first:
+      213: 2370248034482527449
+    second: Hazmat-sharedassets0.assets-133_7
+  - first:
+      213: 4055225591515340441
+    second: Hazmat-sharedassets0.assets-133_8
+  - first:
+      213: -4032131111187497993
+    second: Hazmat-sharedassets0.assets-133_9
+  - first:
+      213: 5852248738301579750
+    second: Hazmat-sharedassets0.assets-133_10
+  - first:
+      213: -7393764697165281705
+    second: Hazmat-sharedassets0.assets-133_11
+  - first:
+      213: 767315793489668454
+    second: Hazmat-sharedassets0.assets-133_12
+  - first:
+      213: 5815739207882222885
+    second: Hazmat-sharedassets0.assets-133_13
+  - first:
+      213: 7097494090658012668
+    second: Hazmat-sharedassets0.assets-133_14
+  - first:
+      213: -8381807140517285097
+    second: Hazmat-sharedassets0.assets-133_15
+  - first:
+      213: -6319071223085176842
+    second: Hazmat-sharedassets0.assets-133_16
+  - first:
+      213: -10169836448750521
+    second: Hazmat-sharedassets0.assets-133_17
+  - first:
+      213: 130382261660495918
+    second: Hazmat-sharedassets0.assets-133_18
+  - first:
+      213: -9078197116920509439
+    second: Hazmat-sharedassets0.assets-133_19
+  - first:
+      213: -6095839809246963400
+    second: Hazmat-sharedassets0.assets-133_20
+  - first:
+      213: -6076385685687443984
+    second: Hazmat-sharedassets0.assets-133_21
+  - first:
+      213: 5852459862171750078
+    second: Hazmat-sharedassets0.assets-133_22
+  - first:
+      213: -1177409173492450016
+    second: Hazmat-sharedassets0.assets-133_23
+  - first:
+      213: 6047490428976077438
+    second: Hazmat-sharedassets0.assets-133_24
+  - first:
+      213: -6404285388734598742
+    second: Hazmat-sharedassets0.assets-133_25
+  - first:
+      213: -8892965330766309462
+    second: Hazmat-sharedassets0.assets-133_26
+  - first:
+      213: -5128532005029940729
+    second: Hazmat-sharedassets0.assets-133_27
+  - first:
+      213: 2116169290519916335
+    second: Hazmat-sharedassets0.assets-133_28
+  - first:
+      213: 2967163382751063226
+    second: Hazmat-sharedassets0.assets-133_29
+  - first:
+      213: 8954425273153899683
+    second: Hazmat-sharedassets0.assets-133_30
+  - first:
+      213: -8492180284837532540
+    second: Hazmat-sharedassets0.assets-133_31
+  - first:
+      213: -4266645789222715474
+    second: Hazmat-sharedassets0.assets-133_32
+  - first:
+      213: 2024437696178472170
+    second: Hazmat-sharedassets0.assets-133_33
+  - first:
+      213: 4575724545738430196
+    second: Hazmat-sharedassets0.assets-133_34
+  - first:
+      213: 7871340419686547155
+    second: Hazmat-sharedassets0.assets-133_35
+  - first:
+      213: -1728707007587497545
+    second: Hazmat-sharedassets0.assets-133_36
+  - first:
+      213: -5431288073515590665
+    second: Hazmat-sharedassets0.assets-133_37
+  - first:
+      213: -2202057601563027775
+    second: Hazmat-sharedassets0.assets-133_38
+  - first:
+      213: -3870558364940997616
+    second: Hazmat-sharedassets0.assets-133_39
+  - first:
+      213: -7662668937260661495
+    second: Hazmat-sharedassets0.assets-133_40
+  - first:
+      213: -2275524223833919195
+    second: Hazmat-sharedassets0.assets-133_41
+  - first:
+      213: -4272856607912489702
+    second: Hazmat-sharedassets0.assets-133_42
+  - first:
+      213: -1446795948143161848
+    second: Hazmat-sharedassets0.assets-133_43
+  - first:
+      213: -1637551313501152636
+    second: Hazmat-sharedassets0.assets-133_44
+  - first:
+      213: 7464044092683334568
+    second: Hazmat-sharedassets0.assets-133_45
+  - first:
+      213: 398480786987211840
+    second: Hazmat-sharedassets0.assets-133_46
+  - first:
+      213: -3889041403226629732
+    second: Hazmat-sharedassets0.assets-133_47
+  - first:
+      213: -1553918047853198512
+    second: Hazmat-sharedassets0.assets-133_48
+  - first:
+      213: 2832992797255238890
+    second: Hazmat-sharedassets0.assets-133_49
+  - first:
+      213: 2983042278073743095
+    second: Hazmat-sharedassets0.assets-133_50
+  - first:
+      213: -6016584960998318098
+    second: Hazmat-sharedassets0.assets-133_51
+  - first:
+      213: 6491616821028477730
+    second: Hazmat-sharedassets0.assets-133_52
+  - first:
+      213: 4973619828189839943
+    second: Hazmat-sharedassets0.assets-133_53
+  - first:
+      213: 699942114402597909
+    second: Hazmat-sharedassets0.assets-133_54
+  - first:
+      213: -1372542628925767135
+    second: Hazmat-sharedassets0.assets-133_55
+  - first:
+      213: -4556149496981596366
+    second: Hazmat-sharedassets0.assets-133_56
+  - first:
+      213: -678146330590060045
+    second: Hazmat-sharedassets0.assets-133_57
+  - first:
+      213: -8080017069151008676
+    second: Hazmat-sharedassets0.assets-133_58
+  - first:
+      213: -7414781928273277792
+    second: Hazmat-sharedassets0.assets-133_59
+  - first:
+      213: -8006922681856500098
+    second: Hazmat-sharedassets0.assets-133_60
+  - first:
+      213: -7404326224115562805
+    second: Hazmat-sharedassets0.assets-133_61
+  - first:
+      213: -3325712425088918909
+    second: Hazmat-sharedassets0.assets-133_62
+  - first:
+      213: 1474887613420551935
+    second: Hazmat-sharedassets0.assets-133_63
+  - first:
+      213: -4221345834106111702
+    second: Hazmat-sharedassets0.assets-133_64
+  - first:
+      213: 2840629002709143491
+    second: Hazmat-sharedassets0.assets-133_65
+  - first:
+      213: -8646927122439069152
+    second: Hazmat-sharedassets0.assets-133_66
+  - first:
+      213: -1646486459673213833
+    second: Hazmat-sharedassets0.assets-133_67
+  - first:
+      213: 6667242088770322517
+    second: Hazmat-sharedassets0.assets-133_68
+  - first:
+      213: 6355993336162404776
+    second: Hazmat-sharedassets0.assets-133_69
+  - first:
+      213: 960243196162571530
+    second: Hazmat-sharedassets0.assets-133_70
+  - first:
+      213: -2688260708076773468
+    second: Hazmat-sharedassets0.assets-133_71
+  - first:
+      213: -8366596879914673656
+    second: Hazmat-sharedassets0.assets-133_72
+  - first:
+      213: -1163319724449210695
+    second: Hazmat-sharedassets0.assets-133_73
+  - first:
+      213: 1716211562740618164
+    second: Hazmat-sharedassets0.assets-133_74
+  - first:
+      213: -3423794443272229261
+    second: Hazmat-sharedassets0.assets-133_75
+  - first:
+      213: 4686199075509939295
+    second: Hazmat-sharedassets0.assets-133_76
+  - first:
+      213: -3818321879674037797
+    second: Hazmat-sharedassets0.assets-133_77
+  - first:
+      213: -4303711582816824333
+    second: Hazmat-sharedassets0.assets-133_78
+  - first:
+      213: -5536861052187996030
+    second: Hazmat-sharedassets0.assets-133_79
+  - first:
+      213: 3453296528942343490
+    second: Hazmat-sharedassets0.assets-133_80
+  - first:
+      213: -5497970845744347696
+    second: Hazmat-sharedassets0.assets-133_81
+  - first:
+      213: 6027250648147934339
+    second: Hazmat-sharedassets0.assets-133_82
+  - first:
+      213: -1115854924223940095
+    second: Hazmat-sharedassets0.assets-133_83
+  - first:
+      213: 6044457995087295220
+    second: Hazmat-sharedassets0.assets-133_84
+  - first:
+      213: -4798278970491212839
+    second: Hazmat-sharedassets0.assets-133_85
+  - first:
+      213: -5066231057652303478
+    second: Hazmat-sharedassets0.assets-133_86
+  - first:
+      213: 6262922852498623239
+    second: Hazmat-sharedassets0.assets-133_87
+  - first:
+      213: 4904868622863165948
+    second: Hazmat-sharedassets0.assets-133_88
+  - first:
+      213: -2599569927617470144
+    second: Hazmat-sharedassets0.assets-133_89
+  - first:
+      213: -4677669451911260117
+    second: Hazmat-sharedassets0.assets-133_90
+  - first:
+      213: 3899815702230982303
+    second: Hazmat-sharedassets0.assets-133_91
+  - first:
+      213: -878652000150300156
+    second: Hazmat-sharedassets0.assets-133_92
+  - first:
+      213: -1803668264557329828
+    second: Hazmat-sharedassets0.assets-133_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 160
+        width: 95
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26fa26a9e4c1fc70800000000000000
+      internalID: 9003193637884589612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 165
+        width: 92
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f45e268a1341e4f0800000000000000
+      internalID: -801285477495843597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 128
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323ffb8f22bbf8560800000000000000
+      internalID: 7318273678376956707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 167
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d09f44090ce1b760800000000000000
+      internalID: 7472012780255547601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_4
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 162
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a817595ae7151940800000000000000
+      internalID: 5266141634568329376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 168
+        width: 88
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296fc74d85dbdeef0800000000000000
+      internalID: -77197429375699310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_6
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 168
+        width: 87
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c554b91e76b770430800000000000000
+      internalID: 3749100900906124636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_7
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc16ec7700d4e020800000000000000
+      internalID: 2370248034482527449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_8
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 169
+        width: 85
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e5852a03e074830800000000000000
+      internalID: 4055225591515340441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_9
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 166
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb3ed51e1efa08c0800000000000000
+      internalID: -4032131111187497993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_10
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 173
+        width: 83
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e191bf883d573150800000000000000
+      internalID: 5852248738301579750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_11
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 171
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756c3a88e22146990800000000000000
+      internalID: -7393764697165281705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_12
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 165
+        width: 92
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669af7516ad06aa00800000000000000
+      internalID: 767315793489668454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_13
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 177
+        width: 81
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52da1281ff7a5b050800000000000000
+      internalID: 5815739207882222885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_14
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 173
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdda15754d5f7260800000000000000
+      internalID: 7097494090658012668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_15
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 172
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71372ad70d6ddab80800000000000000
+      internalID: -8381807140517285097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_16
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 168
+        width: 83
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f76d95d3362e48a0800000000000000
+      internalID: -6319071223085176842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_17
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 181
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7446c0f669edbdff0800000000000000
+      internalID: -10169836448750521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_18
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 172
+        width: 84
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e203947e9f53fc100800000000000000
+      internalID: 130382261660495918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_19
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 180
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c4afc02d3c30280800000000000000
+      internalID: -9078197116920509439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_20
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 180
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839562a9df9376ba0800000000000000
+      internalID: -6095839809246963400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_21
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 182
+        width: 71
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdd456b9675caba0800000000000000
+      internalID: -6076385685687443984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_22
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 166
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe8afaac3d183150800000000000000
+      internalID: 5852459862171750078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_23
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 177
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d32ba489009afe0800000000000000
+      internalID: -1177409173492450016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 114
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a91b111800de350800000000000000
+      internalID: 6047490428976077438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_25
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 95
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1ff3cce586f17a0800000000000000
+      internalID: -6404285388734598742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_26
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 156
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa75fcb0627d59480800000000000000
+      internalID: -8892965330766309462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_27
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 95
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702f7f4405bc3d8b0800000000000000
+      internalID: -5128532005029940729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_28
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 112
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fa70ef1c42e5d10800000000000000
+      internalID: 2116169290519916335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_29
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 97
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc6c6b306b7d2920800000000000000
+      internalID: 2967163382751063226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_30
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 105
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac4e16e752844c70800000000000000
+      internalID: 8954425273153899683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_31
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 122
+        width: 83
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ceea14607b52a80800000000000000
+      internalID: -8492180284837532540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_32
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 101
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafb6f6a244d9c4c0800000000000000
+      internalID: -4266645789222715474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_33
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 118
+        width: 82
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4c0a6db5f381c10800000000000000
+      internalID: 2024437696178472170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_34
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 106
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f656ca2b3d308f30800000000000000
+      internalID: 4575724545738430196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_35
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 102
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de3795586e9c3d60800000000000000
+      internalID: 7871340419686547155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_36
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 121
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9c40cb2266208e0800000000000000
+      internalID: -1728707007587497545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_37
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 110
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb9949f54030a4b0800000000000000
+      internalID: -5431288073515590665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_38
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 107
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c613e34748b071e0800000000000000
+      internalID: -2202057601563027775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_39
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 114
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c66479ca3094ac0800000000000000
+      internalID: -3870558364940997616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_40
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 117
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905882b333bb8a590800000000000000
+      internalID: -7662668937260661495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_41
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 121
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521359056c6bb60e0800000000000000
+      internalID: -2275524223833919195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_42
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 122
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d023dbd83c3b4c0800000000000000
+      internalID: -4272856607912489702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_43
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 122
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ec37820c2fbebe0800000000000000
+      internalID: -1446795948143161848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_44
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 122
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a1a49a1cf3649e0800000000000000
+      internalID: -1637551313501152636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_45
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 112
+        width: 71
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a33e3c5e8c959760800000000000000
+      internalID: 7464044092683334568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_46
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 111
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cd03e1a20b78500800000000000000
+      internalID: 398480786987211840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_47
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 76
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99d3e3e279570ac0800000000000000
+      internalID: -3889041403226629732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_48
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 48
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05344abb4cf5f6ae0800000000000000
+      internalID: -1553918047853198512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_49
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 88
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae483a370ffc05720800000000000000
+      internalID: 2832992797255238890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_50
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 80
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6be86a525e56920800000000000000
+      internalID: 2983042278073743095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_51
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 44
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefdcbeeadbc08ca0800000000000000
+      internalID: -6016584960998318098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_52
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 64
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b5a5bca1bd61a50800000000000000
+      internalID: 6491616821028477730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_53
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 36
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7424813e1e8d50540800000000000000
+      internalID: 4973619828189839943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_54
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 39
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c7d4405a1b6b900800000000000000
+      internalID: 699942114402597909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_55
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 65
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1228cc340cfb3fce0800000000000000
+      internalID: -1372542628925767135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_56
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 43
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23756d80c2e45c0c0800000000000000
+      internalID: -4556149496981596366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_57
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 68
+        width: 77
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1e17b518db696f0800000000000000
+      internalID: -678146330590060045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_58
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 46
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58492e09430edf80800000000000000
+      internalID: -8080017069151008676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_59
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 70
+        width: 71
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac09461f17691990800000000000000
+      internalID: -7414781928273277792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_60
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 62
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7edceb4e32b1e090800000000000000
+      internalID: -8006922681856500098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_61
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 51
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc68b7a678c8e3990800000000000000
+      internalID: -7404326224115562805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_62
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 83
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ad8757b22b8d1d0800000000000000
+      internalID: -3325712425088918909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_63
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 57
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe3e89587ad77410800000000000000
+      internalID: 1474887613420551935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_64
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 60
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29b70c5454ca65c0800000000000000
+      internalID: -4221345834106111702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_65
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 63
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf86251701fb6720800000000000000
+      internalID: 2840629002709143491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_66
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 72
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02224547891fff780800000000000000
+      internalID: -8646927122439069152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_67
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 64
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77400b3d9418629e0800000000000000
+      internalID: -1646486459673213833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_68
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 64
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55040bcea5dc68c50800000000000000
+      internalID: 6667242088770322517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_69
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 49
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9c5b48346053850800000000000000
+      internalID: 6355993336162404776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_70
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 50
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d714d6918735d00800000000000000
+      internalID: 960243196162571530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_71
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 30
+        width: 76
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af9177012161bad0800000000000000
+      internalID: -2688260708076773468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_72
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a5bc14770e3eb80800000000000000
+      internalID: -8366596879914673656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_73
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 35
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bedff7cfde0bdfe0800000000000000
+      internalID: -1163319724449210695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_74
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 3
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3929cc25531d710800000000000000
+      internalID: 1716211562740618164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_75
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 36
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e6dc8081d3c70d0800000000000000
+      internalID: -3423794443272229261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_76
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 18
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ca88a0b39b80140800000000000000
+      internalID: 4686199075509939295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_77
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd95de31b78920bc0800000000000000
+      internalID: -3818321879674037797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_78
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 22
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f318721e152644c0800000000000000
+      internalID: -4303711582816824333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_79
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 5
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28093a5653e1923b0800000000000000
+      internalID: -5536861052187996030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_80
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 15
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245a2bf85e29cef20800000000000000
+      internalID: 3453296528942343490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_81
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 18
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d544f135a843b3b0800000000000000
+      internalID: -5497970845744347696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_82
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 8
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cb91fd78815a350800000000000000
+      internalID: 6027250648147934339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_83
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 13
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10af2c4cbdfa380f0800000000000000
+      internalID: -1115854924223940095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_84
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 13
+        width: 71
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2b2f8858a32e350800000000000000
+      internalID: 6044457995087295220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_85
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 24
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbe4aed2b6196db0800000000000000
+      internalID: -4798278970491212839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_86
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 28
+        width: 75
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a893592f1b121b9b0800000000000000
+      internalID: -5066231057652303478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_87
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 19
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b4bd6e62f5ae650800000000000000
+      internalID: 6262922852498623239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_88
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 16
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9e7bf7608911440800000000000000
+      internalID: 4904868622863165948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_89
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 13
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041a2978ce87cebd0800000000000000
+      internalID: -2599569927617470144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_90
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 19
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b281226ba64951fb0800000000000000
+      internalID: -4677669451911260117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_91
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 26
+        width: 71
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ed7f418bdee1630800000000000000
+      internalID: 3899815702230982303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_92
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 7
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40adad149a66ec3f0800000000000000
+      internalID: -878652000150300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hazmat-sharedassets0.assets-133_93
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 6
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c524a66054518f6e0800000000000000
+      internalID: -1803668264557329828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

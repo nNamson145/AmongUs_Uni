@@ -1,0 +1,2455 @@
+fileFormatVersion: 2
+guid: f7745432da488d343a81e5d4be1ce634
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6477971399870642243
+    second: Tarmac-sharedassets0.assets-155_0
+  - first:
+      213: -7730650632825898090
+    second: Tarmac-sharedassets0.assets-155_1
+  - first:
+      213: 240244091074654339
+    second: Tarmac-sharedassets0.assets-155_2
+  - first:
+      213: 402327187506463627
+    second: Tarmac-sharedassets0.assets-155_3
+  - first:
+      213: 4849041173438562311
+    second: Tarmac-sharedassets0.assets-155_4
+  - first:
+      213: 3932254204547502660
+    second: Tarmac-sharedassets0.assets-155_5
+  - first:
+      213: -8891388584770119156
+    second: Tarmac-sharedassets0.assets-155_6
+  - first:
+      213: -6392899109319509544
+    second: Tarmac-sharedassets0.assets-155_7
+  - first:
+      213: 1362784797123198827
+    second: Tarmac-sharedassets0.assets-155_8
+  - first:
+      213: 7666701789944513847
+    second: Tarmac-sharedassets0.assets-155_9
+  - first:
+      213: 8842463534777850189
+    second: Tarmac-sharedassets0.assets-155_10
+  - first:
+      213: -172260326302209417
+    second: Tarmac-sharedassets0.assets-155_11
+  - first:
+      213: -329484054093904295
+    second: Tarmac-sharedassets0.assets-155_12
+  - first:
+      213: -2282333676312639298
+    second: Tarmac-sharedassets0.assets-155_13
+  - first:
+      213: 5178902275416144349
+    second: Tarmac-sharedassets0.assets-155_14
+  - first:
+      213: 7787415879159674188
+    second: Tarmac-sharedassets0.assets-155_15
+  - first:
+      213: -8929682722125620351
+    second: Tarmac-sharedassets0.assets-155_16
+  - first:
+      213: -5856137666106855550
+    second: Tarmac-sharedassets0.assets-155_17
+  - first:
+      213: -4712547053692817415
+    second: Tarmac-sharedassets0.assets-155_18
+  - first:
+      213: -8655953775779055574
+    second: Tarmac-sharedassets0.assets-155_19
+  - first:
+      213: -7641150559420833267
+    second: Tarmac-sharedassets0.assets-155_20
+  - first:
+      213: 7466251600382212701
+    second: Tarmac-sharedassets0.assets-155_21
+  - first:
+      213: 4529719029006814945
+    second: Tarmac-sharedassets0.assets-155_22
+  - first:
+      213: -7793012025598442413
+    second: Tarmac-sharedassets0.assets-155_23
+  - first:
+      213: -229205936328696581
+    second: Tarmac-sharedassets0.assets-155_24
+  - first:
+      213: 3446213730518613559
+    second: Tarmac-sharedassets0.assets-155_25
+  - first:
+      213: -7559278692391798416
+    second: Tarmac-sharedassets0.assets-155_26
+  - first:
+      213: -3383304155502121839
+    second: Tarmac-sharedassets0.assets-155_27
+  - first:
+      213: 8855151674106068787
+    second: Tarmac-sharedassets0.assets-155_28
+  - first:
+      213: -1342367337718991656
+    second: Tarmac-sharedassets0.assets-155_29
+  - first:
+      213: -5064870780537056291
+    second: Tarmac-sharedassets0.assets-155_30
+  - first:
+      213: 8823388665903163176
+    second: Tarmac-sharedassets0.assets-155_31
+  - first:
+      213: -3301691653909834791
+    second: Tarmac-sharedassets0.assets-155_32
+  - first:
+      213: -615388239724446832
+    second: Tarmac-sharedassets0.assets-155_33
+  - first:
+      213: -4805145621105905696
+    second: Tarmac-sharedassets0.assets-155_34
+  - first:
+      213: -985830524711170934
+    second: Tarmac-sharedassets0.assets-155_35
+  - first:
+      213: 6655241555424657156
+    second: Tarmac-sharedassets0.assets-155_36
+  - first:
+      213: -3433530085131656169
+    second: Tarmac-sharedassets0.assets-155_37
+  - first:
+      213: 952468093915489569
+    second: Tarmac-sharedassets0.assets-155_38
+  - first:
+      213: 1018514497798398593
+    second: Tarmac-sharedassets0.assets-155_39
+  - first:
+      213: 3697593866293400194
+    second: Tarmac-sharedassets0.assets-155_40
+  - first:
+      213: 3249798049100450720
+    second: Tarmac-sharedassets0.assets-155_41
+  - first:
+      213: 1492484073999628257
+    second: Tarmac-sharedassets0.assets-155_42
+  - first:
+      213: -6946217740539000559
+    second: Tarmac-sharedassets0.assets-155_43
+  - first:
+      213: 451351116186291630
+    second: Tarmac-sharedassets0.assets-155_44
+  - first:
+      213: 6207850548674888000
+    second: Tarmac-sharedassets0.assets-155_45
+  - first:
+      213: 6920292781528223896
+    second: Tarmac-sharedassets0.assets-155_46
+  - first:
+      213: -4144200523912787416
+    second: Tarmac-sharedassets0.assets-155_47
+  - first:
+      213: -572684236810511698
+    second: Tarmac-sharedassets0.assets-155_48
+  - first:
+      213: -3826690225354076842
+    second: Tarmac-sharedassets0.assets-155_49
+  - first:
+      213: 3442578290759789157
+    second: Tarmac-sharedassets0.assets-155_50
+  - first:
+      213: -6157701292457152131
+    second: Tarmac-sharedassets0.assets-155_51
+  - first:
+      213: 2110144665879790425
+    second: Tarmac-sharedassets0.assets-155_52
+  - first:
+      213: 5112815266448241770
+    second: Tarmac-sharedassets0.assets-155_53
+  - first:
+      213: 156511880579976596
+    second: Tarmac-sharedassets0.assets-155_54
+  - first:
+      213: 2782452132506366801
+    second: Tarmac-sharedassets0.assets-155_55
+  - first:
+      213: 5649725502857125436
+    second: Tarmac-sharedassets0.assets-155_56
+  - first:
+      213: 8288510422185865601
+    second: Tarmac-sharedassets0.assets-155_57
+  - first:
+      213: 1202678911188509220
+    second: Tarmac-sharedassets0.assets-155_58
+  - first:
+      213: -1664148752110592597
+    second: Tarmac-sharedassets0.assets-155_59
+  - first:
+      213: -9053716011464609252
+    second: Tarmac-sharedassets0.assets-155_60
+  - first:
+      213: 610440949804774191
+    second: Tarmac-sharedassets0.assets-155_61
+  - first:
+      213: -3673809455323889593
+    second: Tarmac-sharedassets0.assets-155_62
+  - first:
+      213: 4538573850053807800
+    second: Tarmac-sharedassets0.assets-155_63
+  - first:
+      213: -3140304999725294156
+    second: Tarmac-sharedassets0.assets-155_64
+  - first:
+      213: 5052763533629771564
+    second: Tarmac-sharedassets0.assets-155_65
+  - first:
+      213: 7707516332455779072
+    second: Tarmac-sharedassets0.assets-155_66
+  - first:
+      213: -3574972059834603731
+    second: Tarmac-sharedassets0.assets-155_67
+  - first:
+      213: -4126205479291864918
+    second: Tarmac-sharedassets0.assets-155_68
+  - first:
+      213: -1602767476461003621
+    second: Tarmac-sharedassets0.assets-155_69
+  - first:
+      213: 3370587118953921870
+    second: Tarmac-sharedassets0.assets-155_70
+  - first:
+      213: 1276212978345757276
+    second: Tarmac-sharedassets0.assets-155_71
+  - first:
+      213: 1717873015661803079
+    second: Tarmac-sharedassets0.assets-155_72
+  - first:
+      213: 3129020308879183041
+    second: Tarmac-sharedassets0.assets-155_73
+  - first:
+      213: -6607250968167829565
+    second: Tarmac-sharedassets0.assets-155_74
+  - first:
+      213: -2932338120781811440
+    second: Tarmac-sharedassets0.assets-155_75
+  - first:
+      213: -4230035808835133612
+    second: Tarmac-sharedassets0.assets-155_76
+  - first:
+      213: -4150354929740193722
+    second: Tarmac-sharedassets0.assets-155_77
+  - first:
+      213: -583237980581984575
+    second: Tarmac-sharedassets0.assets-155_78
+  - first:
+      213: -8542177467087113355
+    second: Tarmac-sharedassets0.assets-155_79
+  - first:
+      213: -5246352629022908330
+    second: Tarmac-sharedassets0.assets-155_80
+  - first:
+      213: -890263807328816236
+    second: Tarmac-sharedassets0.assets-155_81
+  - first:
+      213: 4774243691122097935
+    second: Tarmac-sharedassets0.assets-155_82
+  - first:
+      213: -2226436659084756530
+    second: Tarmac-sharedassets0.assets-155_83
+  - first:
+      213: -2474328284363220912
+    second: Tarmac-sharedassets0.assets-155_84
+  - first:
+      213: 4763110152499181917
+    second: Tarmac-sharedassets0.assets-155_85
+  - first:
+      213: 7508761369049155712
+    second: Tarmac-sharedassets0.assets-155_86
+  - first:
+      213: -5668075466997418565
+    second: Tarmac-sharedassets0.assets-155_87
+  - first:
+      213: 2005708603451659185
+    second: Tarmac-sharedassets0.assets-155_88
+  - first:
+      213: 4446396014013775577
+    second: Tarmac-sharedassets0.assets-155_89
+  - first:
+      213: 4391373116061617267
+    second: Tarmac-sharedassets0.assets-155_90
+  - first:
+      213: 8207871177905965133
+    second: Tarmac-sharedassets0.assets-155_91
+  - first:
+      213: -7439125100734407913
+    second: Tarmac-sharedassets0.assets-155_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 181
+        width: 91
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db70295655f9916a0800000000000000
+      internalID: -6477971399870642243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 178
+        width: 94
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b73cb453637b490800000000000000
+      internalID: -7730650632825898090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 177
+        width: 96
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38034eb5ab4855300800000000000000
+      internalID: 240244091074654339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 177
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b830ec6027a559500800000000000000
+      internalID: 402327187506463627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_4
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 182
+        width: 90
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7008c0481414b4340800000000000000
+      internalID: 4849041173438562311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_5
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 176
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44217947d5c229630800000000000000
+      internalID: 3932254204547502660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_6
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 189
+        width: 83
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a50d4d0317b9480800000000000000
+      internalID: -8891388584770119156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_7
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 185
+        width: 86
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d97910912cd747a0800000000000000
+      internalID: -6392899109319509544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_8
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 182
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fb4d97d8599e210800000000000000
+      internalID: 1362784797123198827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_9
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 182
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7358e7478a8956a60800000000000000
+      internalID: 7666701789944513847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_10
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 186
+        width: 84
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4957c94cbdb6ba70800000000000000
+      internalID: 8842463534777850189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_11
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 185
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a2dd955220c9df0800000000000000
+      internalID: -172260326302209417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_12
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 189
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956c39c9fff6d6bf0800000000000000
+      internalID: -329484054093904295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_13
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 197
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8497c1d958350e0800000000000000
+      internalID: -2282333676312639298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_14
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 193
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd934a43e282fd740800000000000000
+      internalID: 5178902275416144349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_15
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 188
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c457c8b8b75721c60800000000000000
+      internalID: 7787415879159674188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_16
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 197
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b52ce20e4631480800000000000000
+      internalID: -8929682722125620351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_17
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 187
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f6aefd1d1dabea0800000000000000
+      internalID: -5856137666106855550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_18
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 188
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff635d3c6ba99eb0800000000000000
+      internalID: -4712547053692817415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_19
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 184
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28fc72f6efdfd780800000000000000
+      internalID: -8655953775779055574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_20
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 206
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02a17efc0e25f590800000000000000
+      internalID: -7641150559420833267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 100
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a397cc5447d9760800000000000000
+      internalID: 7466251600382212701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 138
+        width: 76
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee4748157bccde30800000000000000
+      internalID: 4529719029006814945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_23
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 115
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3548bd31ad8a9d390800000000000000
+      internalID: -7793012025598442413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_24
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 121
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc97b05a62b1dcf0800000000000000
+      internalID: -229205936328696581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_25
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 119
+        width: 83
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73eb2ab012963df20800000000000000
+      internalID: 3446213730518613559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_26
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 132
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079becd741c081790800000000000000
+      internalID: -7559278692391798416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_27
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 98
+        width: 83
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c613ccbc61c01d0800000000000000
+      internalID: -3383304155502121839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_28
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 138
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f3c4fe781d3ea70800000000000000
+      internalID: 8855151674106068787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_29
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 129
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d43c2db404fe5de0800000000000000
+      internalID: -1342367337718991656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_30
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 139
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd355d42cd6f5b9b0800000000000000
+      internalID: -5064870780537056291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_31
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 123
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827ad5a4e39f27a70800000000000000
+      internalID: 8823388665903163176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_32
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 129
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d315d21fe80e22d0800000000000000
+      internalID: -3301691653909834791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_33
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 125
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b754c08a3b577f0800000000000000
+      internalID: -615388239724446832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_34
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 129
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef65ff2481b05db0800000000000000
+      internalID: -4805145621105905696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_35
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 134
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c8ad56c50a152f0800000000000000
+      internalID: -985830524711170934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_36
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 144
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f31850fea2c5c50800000000000000
+      internalID: 6655241555424657156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_37
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 132
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7146c164496a950d0800000000000000
+      internalID: -3433530085131656169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_38
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 131
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125e9bd5fa8d73d00800000000000000
+      internalID: 952468093915489569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_39
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 117
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182ebd71a8d722e00800000000000000
+      internalID: 1018514497798398593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_40
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 117
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282d41cd70e705330800000000000000
+      internalID: 3697593866293400194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_41
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 117
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abc3648b1a991d20800000000000000
+      internalID: 3249798049100450720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_42
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 115
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7fca79b5e56b410800000000000000
+      internalID: 1492484073999628257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_43
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 144
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11908a284c31a9f90800000000000000
+      internalID: -6946217740539000559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_44
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 54
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead8245e275834600800000000000000
+      internalID: 451351116186291630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 79
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0410b74fe27b62650800000000000000
+      internalID: 6207850548674888000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_46
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 62
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89090b89e91d90060800000000000000
+      internalID: 6920292781528223896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_47
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 65
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ac0369497dc76c0800000000000000
+      internalID: -4144200523912787416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_48
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 76
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa917888ba6d08f0800000000000000
+      internalID: -572684236810511698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_49
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 78
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d8f44c38dd4eac0800000000000000
+      internalID: -3826690225354076842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_50
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 82
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a653447be76cf20800000000000000
+      internalID: 3442578290759789157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_51
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 67
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71b026ac437b8aa0800000000000000
+      internalID: -6157701292457152131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_52
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 70
+        width: 79
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9534372c46db84d10800000000000000
+      internalID: 2110144665879790425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_53
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 75
+        width: 82
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6477de556e54f640800000000000000
+      internalID: 5112815266448241770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_54
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 68
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d0915e9ba0c2200800000000000000
+      internalID: 156511880579976596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_55
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 65
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153f192f8714d9620800000000000000
+      internalID: 2782452132506366801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_56
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 87
+        width: 71
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e934c496bd76e40800000000000000
+      internalID: 5649725502857125436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_57
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 79
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181f2878054b60370800000000000000
+      internalID: 8288510422185865601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_58
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 75
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422ae300916c0b010800000000000000
+      internalID: 1202678911188509220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_59
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 74
+        width: 71
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badd909e681c7e8e0800000000000000
+      internalID: -1664148752110592597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_60
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 49
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12b267914dba5280800000000000000
+      internalID: -9053716011464609252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_61
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 55
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2337714fc8b87800800000000000000
+      internalID: 610440949804774191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_62
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 56
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740c2fad3c1040dc0800000000000000
+      internalID: -3673809455323889593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_63
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 58
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be8557ced04cfe30800000000000000
+      internalID: 4538573850053807800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_64
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 103
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd9df4ad356b64d0800000000000000
+      internalID: -3140304999725294156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 37
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fcc04c9a50f1640800000000000000
+      internalID: 5052763533629771564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_66
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 22
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b5c88a44996fa60800000000000000
+      internalID: 7707516332455779072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_67
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 23
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27ac934ad5236ec0800000000000000
+      internalID: -3574972059834603731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_68
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 10
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8b9886af5ccb6c0800000000000000
+      internalID: -4126205479291864918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_69
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 32
+        width: 71
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c1ef3d873d1c9e0800000000000000
+      internalID: -1602767476461003621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_70
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 42
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d71c5602bb6ce20800000000000000
+      internalID: 3370587118953921870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_71
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 16
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5aca0031f406b110800000000000000
+      internalID: 1276212978345757276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_72
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 33
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74630c3f76c17d710800000000000000
+      internalID: 1717873015661803079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_73
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 25
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc0ab584638c6b20800000000000000
+      internalID: 3129020308879183041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_74
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 38
+        width: 75
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf208c40445e44a0800000000000000
+      internalID: -6607250968167829565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_75
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 27
+        width: 77
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011b67de30e3e47d0800000000000000
+      internalID: -2932338120781811440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_76
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 8
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f1333f7d4eb45c0800000000000000
+      internalID: -4230035808835133612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_77
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 13
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6406b015e2af666c0800000000000000
+      internalID: -4150354929740193722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_78
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c605e3952ce7e7f0800000000000000
+      internalID: -583237980581984575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_79
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 27
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5733de12ad6147980800000000000000
+      internalID: -8542177467087113355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_80
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 20
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65027ac84163137b0800000000000000
+      internalID: -5246352629022908330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_81
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 4
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49377c7b8c525a3f0800000000000000
+      internalID: -890263807328816236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_82
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 18
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f7b709755814240800000000000000
+      internalID: 4774243691122097935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_83
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 60
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9785c97ab1a11e0800000000000000
+      internalID: -2226436659084756530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_84
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 8
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05814d0f88b69add0800000000000000
+      internalID: -2474328284363220912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_85
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 20
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5935c99277f91240800000000000000
+      internalID: 4763110152499181917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_86
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1
+        width: 71
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088c9599eaa743860800000000000000
+      internalID: 7508761369049155712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_87
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 4
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5338db463f651b0800000000000000
+      internalID: -5668075466997418565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_88
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b35eaf1955b5db10800000000000000
+      internalID: 2005708603451659185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_89
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 4
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9def002ed95c4bd30800000000000000
+      internalID: 4446396014013775577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_90
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 14
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c8d03259a41fc30800000000000000
+      internalID: 4391373116061617267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_91
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d488041695738e170800000000000000
+      internalID: 8207871177905965133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tarmac-sharedassets0.assets-155_92
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 19
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b9803922be2c890800000000000000
+      internalID: -7439125100734407913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

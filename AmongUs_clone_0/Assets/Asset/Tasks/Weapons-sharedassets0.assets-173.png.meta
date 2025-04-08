@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: 99fe2d5bb9e3bec46bb6ae329e96f66d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2118382254543829673
+    second: Weapons-sharedassets0.assets-173_0
+  - first:
+      213: -1453905092164500859
+    second: Weapons-sharedassets0.assets-173_1
+  - first:
+      213: -377793001984454296
+    second: Weapons-sharedassets0.assets-173_2
+  - first:
+      213: -8065257150260089883
+    second: Weapons-sharedassets0.assets-173_3
+  - first:
+      213: -5878524762961163819
+    second: Weapons-sharedassets0.assets-173_4
+  - first:
+      213: -8494893832975291046
+    second: Weapons-sharedassets0.assets-173_5
+  - first:
+      213: 5301482537600670498
+    second: Weapons-sharedassets0.assets-173_6
+  - first:
+      213: 6362543754177201394
+    second: Weapons-sharedassets0.assets-173_7
+  - first:
+      213: -8767706398856120968
+    second: Weapons-sharedassets0.assets-173_8
+  - first:
+      213: -5378146234417662621
+    second: Weapons-sharedassets0.assets-173_9
+  - first:
+      213: -6645067815476869908
+    second: Weapons-sharedassets0.assets-173_10
+  - first:
+      213: 5415971881963243220
+    second: Weapons-sharedassets0.assets-173_11
+  - first:
+      213: 2428371277440377541
+    second: Weapons-sharedassets0.assets-173_12
+  - first:
+      213: 8522535832414696186
+    second: Weapons-sharedassets0.assets-173_13
+  - first:
+      213: -2835009932513109490
+    second: Weapons-sharedassets0.assets-173_14
+  - first:
+      213: -5492111643567511481
+    second: Weapons-sharedassets0.assets-173_15
+  - first:
+      213: 6970647992931291903
+    second: Weapons-sharedassets0.assets-173_16
+  - first:
+      213: 7112028221577339365
+    second: Weapons-sharedassets0.assets-173_17
+  - first:
+      213: 2157350912051764498
+    second: Weapons-sharedassets0.assets-173_18
+  - first:
+      213: 7197873652825387692
+    second: Weapons-sharedassets0.assets-173_19
+  - first:
+      213: 518568678116156605
+    second: Weapons-sharedassets0.assets-173_20
+  - first:
+      213: -4370548684034393205
+    second: Weapons-sharedassets0.assets-173_21
+  - first:
+      213: 5543303386705437627
+    second: Weapons-sharedassets0.assets-173_22
+  - first:
+      213: -471648164987383759
+    second: Weapons-sharedassets0.assets-173_23
+  - first:
+      213: -3869813133587228393
+    second: Weapons-sharedassets0.assets-173_24
+  - first:
+      213: -5334256941366762919
+    second: Weapons-sharedassets0.assets-173_25
+  - first:
+      213: -197613438833759545
+    second: Weapons-sharedassets0.assets-173_26
+  - first:
+      213: -4747825447835678090
+    second: Weapons-sharedassets0.assets-173_27
+  - first:
+      213: 4492720545149944400
+    second: Weapons-sharedassets0.assets-173_28
+  - first:
+      213: -471743113690775130
+    second: Weapons-sharedassets0.assets-173_29
+  - first:
+      213: -4411265723251011409
+    second: Weapons-sharedassets0.assets-173_30
+  - first:
+      213: 4646565281660416562
+    second: Weapons-sharedassets0.assets-173_31
+  - first:
+      213: 8388777274780870158
+    second: Weapons-sharedassets0.assets-173_32
+  - first:
+      213: -1656912724506044489
+    second: Weapons-sharedassets0.assets-173_33
+  - first:
+      213: -8625034153664212726
+    second: Weapons-sharedassets0.assets-173_34
+  - first:
+      213: 1520235592667678039
+    second: Weapons-sharedassets0.assets-173_35
+  - first:
+      213: 7197742980279452969
+    second: Weapons-sharedassets0.assets-173_36
+  - first:
+      213: -3015081925449482132
+    second: Weapons-sharedassets0.assets-173_37
+  - first:
+      213: -8938537423657400681
+    second: Weapons-sharedassets0.assets-173_38
+  - first:
+      213: 4801428362401096731
+    second: Weapons-sharedassets0.assets-173_39
+  - first:
+      213: -1807523142027432604
+    second: Weapons-sharedassets0.assets-173_40
+  - first:
+      213: 4649971851964917116
+    second: Weapons-sharedassets0.assets-173_41
+  - first:
+      213: -3628900264588913500
+    second: Weapons-sharedassets0.assets-173_42
+  - first:
+      213: 122328427166579021
+    second: Weapons-sharedassets0.assets-173_43
+  - first:
+      213: -2728319894300160702
+    second: Weapons-sharedassets0.assets-173_44
+  - first:
+      213: -8032431841728270894
+    second: Weapons-sharedassets0.assets-173_45
+  - first:
+      213: -8822849874603809713
+    second: Weapons-sharedassets0.assets-173_46
+  - first:
+      213: 132512696484018755
+    second: Weapons-sharedassets0.assets-173_47
+  - first:
+      213: -4173405998632920168
+    second: Weapons-sharedassets0.assets-173_48
+  - first:
+      213: 2442282037767615322
+    second: Weapons-sharedassets0.assets-173_49
+  - first:
+      213: 104365678658854009
+    second: Weapons-sharedassets0.assets-173_50
+  - first:
+      213: 1935878161442446718
+    second: Weapons-sharedassets0.assets-173_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 950
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa7394df61066d10800000000000000
+      internalID: 2118382254543829673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 497
+        width: 466
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58247649501b2dbe0800000000000000
+      internalID: -1453905092164500859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_2
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 950
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861961e244fc1caf0800000000000000
+      internalID: -377793001984454296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 475
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb61987a53721090800000000000000
+      internalID: -8065257150260089883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 440
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9cc54bfd84b6ea0800000000000000
+      internalID: -5878524762961163819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 448
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5de9d811131c1a80800000000000000
+      internalID: -8494893832975291046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 443
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bdf9c8746a29940800000000000000
+      internalID: 5301482537600670498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 450
+        width: 125
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4cc9f85db4c4850800000000000000
+      internalID: 6362543754177201394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_8
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 475
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875f249cb79d25680800000000000000
+      internalID: -8767706398856120968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 399
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3653e639e7cfc55b0800000000000000
+      internalID: -5378146234417662621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 387
+        width: 125
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4ce16670af7c3a0800000000000000
+      internalID: -6645067815476869908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 393
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d64ce94bb5692b40800000000000000
+      internalID: 5415971881963243220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 415
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2689e8fce43b120800000000000000
+      internalID: 2428371277440377541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 387
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2bd9c6f21264670800000000000000
+      internalID: 8522535832414696186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 386
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a1ad5ac7508a8d0800000000000000
+      internalID: -2835009932513109490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_15
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 408
+        width: 110
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7482f520f8918c3b0800000000000000
+      internalID: -5492111643567511481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_16
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 324
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff295f0ea67bcb060800000000000000
+      internalID: 6970647992931291903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 338
+        width: 106
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1aba38cfff2b260800000000000000
+      internalID: 7112028221577339365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_18
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 369
+        width: 106
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dd5b0793370fd10800000000000000
+      internalID: 2157350912051764498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 373
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2fcc683fbf3e360800000000000000
+      internalID: 7197873652825387692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_20
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 308
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4e1ca1773523700800000000000000
+      internalID: 518568678116156605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_21
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 347
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b3496c021b853c0800000000000000
+      internalID: -4370548684034393205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 300
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb32cce7f05cdec40800000000000000
+      internalID: 5543303386705437627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_23
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 319
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13056fa2e7e5479f0800000000000000
+      internalID: -471648164987383759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_24
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 330
+        width: 63
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71954694579ab4ac0800000000000000
+      internalID: -3869813133587228393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_25
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 267
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9522c2de299e8f5b0800000000000000
+      internalID: -5334256941366762919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_26
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 329
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca6877df9fe14df0800000000000000
+      internalID: -197613438833759545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_27
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 311
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ac13609e55c1eb0800000000000000
+      internalID: -4747825447835678090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_28
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 286
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05203c84889595e30800000000000000
+      internalID: 4492720545149944400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_29
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 273
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1893333280479f0800000000000000
+      internalID: -471743113690775130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 251
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa054c3523908c2c0800000000000000
+      internalID: -4411265723251011409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_31
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 266
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232380f418aeb7040800000000000000
+      internalID: 4646565281660416562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_32
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 250
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06ee2b5c7cea6470800000000000000
+      internalID: 8388777274780870158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_33
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 249
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b71effd7a67109e0800000000000000
+      internalID: -1656912724506044489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_34
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 243
+        width: 74
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a019b377229bd4880800000000000000
+      internalID: -8625034153664212726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_35
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 286
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755ccdb8736f81510800000000000000
+      internalID: 1520235592667678039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_36
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 265
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9254e14fa1583e360800000000000000
+      internalID: 7197742980279452969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 219
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6002e0a6f64826d0800000000000000
+      internalID: -3015081925449482132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_38
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 210
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7968d53529fe3f380800000000000000
+      internalID: -8938537423657400681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_39
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 228
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14276318a912a240800000000000000
+      internalID: 4801428362401096731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_40
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 226
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d282c67436ae6e0800000000000000
+      internalID: -1807523142027432604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_41
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 226
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c752fe343c4088040800000000000000
+      internalID: 4649971851964917116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_42
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 123
+        width: 151
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a45bd3af6e83adc0800000000000000
+      internalID: -3628900264588913500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_43
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 197
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49323f6e0992b100800000000000000
+      internalID: 122328427166579021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d8b9ae28f032ad0800000000000000
+      internalID: -2728319894300160702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 191
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddef3f2cc1178090800000000000000
+      internalID: -8032431841728270894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_46
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 169
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44e3a5d8c0fe8580800000000000000
+      internalID: -8822849874603809713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_47
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 89
+        width: 169
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ab82a6897c6d100800000000000000
+      internalID: 132512696484018755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_48
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 94
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b100c1b551516c0800000000000000
+      internalID: -4173405998632920168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_49
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 70
+        width: 123
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53b476d29ab4e120800000000000000
+      internalID: 2442282037767615322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_50
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1
+        width: 105
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c14332808c27100800000000000000
+      internalID: 104365678658854009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons-sharedassets0.assets-173_51
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 43
+        width: 160
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d963d5eee9dda10800000000000000
+      internalID: 1935878161442446718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

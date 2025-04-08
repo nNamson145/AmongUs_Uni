@@ -1,0 +1,5480 @@
+fileFormatVersion: 2
+guid: accae48018520b84aa9b47c4e65ab334
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7783272458805211192
+    second: Hats-sharedassets0.assets-126_0
+  - first:
+      213: -416031759854662464
+    second: Hats-sharedassets0.assets-126_1
+  - first:
+      213: -2329864099772437875
+    second: Hats-sharedassets0.assets-126_2
+  - first:
+      213: 7046269050675329351
+    second: Hats-sharedassets0.assets-126_3
+  - first:
+      213: 6220886089592557148
+    second: Hats-sharedassets0.assets-126_4
+  - first:
+      213: 5566750422285612637
+    second: Hats-sharedassets0.assets-126_5
+  - first:
+      213: 8437749654833941366
+    second: Hats-sharedassets0.assets-126_6
+  - first:
+      213: 1768479783940189374
+    second: Hats-sharedassets0.assets-126_7
+  - first:
+      213: 5041075567831247556
+    second: Hats-sharedassets0.assets-126_8
+  - first:
+      213: -5383148773640005393
+    second: Hats-sharedassets0.assets-126_9
+  - first:
+      213: -2137546676856538054
+    second: Hats-sharedassets0.assets-126_10
+  - first:
+      213: -5821959079706742878
+    second: Hats-sharedassets0.assets-126_11
+  - first:
+      213: 2497515834963811596
+    second: Hats-sharedassets0.assets-126_12
+  - first:
+      213: -6162247764146679701
+    second: Hats-sharedassets0.assets-126_13
+  - first:
+      213: -6162462395283508350
+    second: Hats-sharedassets0.assets-126_14
+  - first:
+      213: -3402357665151799655
+    second: Hats-sharedassets0.assets-126_15
+  - first:
+      213: -2193142813609380534
+    second: Hats-sharedassets0.assets-126_16
+  - first:
+      213: -7746514848611965551
+    second: Hats-sharedassets0.assets-126_17
+  - first:
+      213: 3154871320905657018
+    second: Hats-sharedassets0.assets-126_18
+  - first:
+      213: -2413256447055668594
+    second: Hats-sharedassets0.assets-126_19
+  - first:
+      213: 5375906623280558144
+    second: Hats-sharedassets0.assets-126_20
+  - first:
+      213: -734736022439887079
+    second: Hats-sharedassets0.assets-126_21
+  - first:
+      213: -1016630918033751149
+    second: Hats-sharedassets0.assets-126_22
+  - first:
+      213: 7652710963829160967
+    second: Hats-sharedassets0.assets-126_23
+  - first:
+      213: -1571814123113460387
+    second: Hats-sharedassets0.assets-126_24
+  - first:
+      213: 4031020817568690052
+    second: Hats-sharedassets0.assets-126_25
+  - first:
+      213: 5269092925848252813
+    second: Hats-sharedassets0.assets-126_26
+  - first:
+      213: -1728316278727474653
+    second: Hats-sharedassets0.assets-126_27
+  - first:
+      213: -8688177091739974388
+    second: Hats-sharedassets0.assets-126_28
+  - first:
+      213: -3367366428785721471
+    second: Hats-sharedassets0.assets-126_29
+  - first:
+      213: -8862530410006531930
+    second: Hats-sharedassets0.assets-126_30
+  - first:
+      213: 3699111852891242633
+    second: Hats-sharedassets0.assets-126_31
+  - first:
+      213: -478666164968424999
+    second: Hats-sharedassets0.assets-126_32
+  - first:
+      213: 5762315697824598591
+    second: Hats-sharedassets0.assets-126_33
+  - first:
+      213: 2627681016930206694
+    second: Hats-sharedassets0.assets-126_34
+  - first:
+      213: 2896671058550616240
+    second: Hats-sharedassets0.assets-126_35
+  - first:
+      213: 5038473085839095514
+    second: Hats-sharedassets0.assets-126_36
+  - first:
+      213: -663139407048044726
+    second: Hats-sharedassets0.assets-126_37
+  - first:
+      213: 9049501924996830509
+    second: Hats-sharedassets0.assets-126_38
+  - first:
+      213: -4811032437379892631
+    second: Hats-sharedassets0.assets-126_39
+  - first:
+      213: -9196144769594823900
+    second: Hats-sharedassets0.assets-126_40
+  - first:
+      213: 2176944741244425246
+    second: Hats-sharedassets0.assets-126_41
+  - first:
+      213: -7144370032836078696
+    second: Hats-sharedassets0.assets-126_42
+  - first:
+      213: 2996302992045200126
+    second: Hats-sharedassets0.assets-126_43
+  - first:
+      213: -6155187502886180791
+    second: Hats-sharedassets0.assets-126_44
+  - first:
+      213: -7013596048203866501
+    second: Hats-sharedassets0.assets-126_45
+  - first:
+      213: -49279892897020097
+    second: Hats-sharedassets0.assets-126_46
+  - first:
+      213: -3590836010763232359
+    second: Hats-sharedassets0.assets-126_47
+  - first:
+      213: 4411184071851589404
+    second: Hats-sharedassets0.assets-126_48
+  - first:
+      213: -260599960616327312
+    second: Hats-sharedassets0.assets-126_49
+  - first:
+      213: 4036862114222425069
+    second: Hats-sharedassets0.assets-126_50
+  - first:
+      213: -7563706479908410598
+    second: Hats-sharedassets0.assets-126_51
+  - first:
+      213: -3375518289189725926
+    second: Hats-sharedassets0.assets-126_52
+  - first:
+      213: -7607139458689649508
+    second: Hats-sharedassets0.assets-126_53
+  - first:
+      213: 7581779982507834709
+    second: Hats-sharedassets0.assets-126_54
+  - first:
+      213: -6327960828112943589
+    second: Hats-sharedassets0.assets-126_55
+  - first:
+      213: -2965274141118590423
+    second: Hats-sharedassets0.assets-126_56
+  - first:
+      213: 2578235272720327346
+    second: Hats-sharedassets0.assets-126_57
+  - first:
+      213: 5387423399370238995
+    second: Hats-sharedassets0.assets-126_58
+  - first:
+      213: 347416312995894959
+    second: Hats-sharedassets0.assets-126_59
+  - first:
+      213: -7888503655153702286
+    second: Hats-sharedassets0.assets-126_60
+  - first:
+      213: -4099491185080337092
+    second: Hats-sharedassets0.assets-126_61
+  - first:
+      213: 1036036898949681830
+    second: Hats-sharedassets0.assets-126_62
+  - first:
+      213: -168218535580330935
+    second: Hats-sharedassets0.assets-126_63
+  - first:
+      213: 3888472023647400625
+    second: Hats-sharedassets0.assets-126_64
+  - first:
+      213: 2605019149975144544
+    second: Hats-sharedassets0.assets-126_65
+  - first:
+      213: 5784257994154767892
+    second: Hats-sharedassets0.assets-126_66
+  - first:
+      213: -347332830529320937
+    second: Hats-sharedassets0.assets-126_67
+  - first:
+      213: 1317918296649329433
+    second: Hats-sharedassets0.assets-126_68
+  - first:
+      213: 1185354902958485264
+    second: Hats-sharedassets0.assets-126_69
+  - first:
+      213: 8831784714405683205
+    second: Hats-sharedassets0.assets-126_70
+  - first:
+      213: 3986931633329248338
+    second: Hats-sharedassets0.assets-126_71
+  - first:
+      213: 6426765160402827841
+    second: Hats-sharedassets0.assets-126_72
+  - first:
+      213: 468786172199577663
+    second: Hats-sharedassets0.assets-126_73
+  - first:
+      213: 8343210439109070878
+    second: Hats-sharedassets0.assets-126_74
+  - first:
+      213: 6826657407074360201
+    second: Hats-sharedassets0.assets-126_75
+  - first:
+      213: -5531119012314317984
+    second: Hats-sharedassets0.assets-126_76
+  - first:
+      213: 3835310943370099987
+    second: Hats-sharedassets0.assets-126_77
+  - first:
+      213: -7831848072429148133
+    second: Hats-sharedassets0.assets-126_78
+  - first:
+      213: 7610018243543585388
+    second: Hats-sharedassets0.assets-126_79
+  - first:
+      213: 8134496047433080614
+    second: Hats-sharedassets0.assets-126_80
+  - first:
+      213: 1869622002783481398
+    second: Hats-sharedassets0.assets-126_81
+  - first:
+      213: 3768748685226459841
+    second: Hats-sharedassets0.assets-126_82
+  - first:
+      213: -4628773646985403437
+    second: Hats-sharedassets0.assets-126_83
+  - first:
+      213: 4750996671040166372
+    second: Hats-sharedassets0.assets-126_84
+  - first:
+      213: 5117966925037598741
+    second: Hats-sharedassets0.assets-126_85
+  - first:
+      213: -3444731725331804032
+    second: Hats-sharedassets0.assets-126_86
+  - first:
+      213: -3136070065899173398
+    second: Hats-sharedassets0.assets-126_87
+  - first:
+      213: -3146428242249162765
+    second: Hats-sharedassets0.assets-126_88
+  - first:
+      213: 5452628462824531531
+    second: Hats-sharedassets0.assets-126_89
+  - first:
+      213: -5374868877168145576
+    second: Hats-sharedassets0.assets-126_90
+  - first:
+      213: 4273826690117285531
+    second: Hats-sharedassets0.assets-126_91
+  - first:
+      213: -7861454898652942955
+    second: Hats-sharedassets0.assets-126_92
+  - first:
+      213: -5574935953906756908
+    second: Hats-sharedassets0.assets-126_93
+  - first:
+      213: -8634082849860760595
+    second: Hats-sharedassets0.assets-126_94
+  - first:
+      213: 278518668454970297
+    second: Hats-sharedassets0.assets-126_95
+  - first:
+      213: 6127565648948561216
+    second: Hats-sharedassets0.assets-126_96
+  - first:
+      213: -4171864073301424998
+    second: Hats-sharedassets0.assets-126_97
+  - first:
+      213: -8857000510989108907
+    second: Hats-sharedassets0.assets-126_98
+  - first:
+      213: -626508754621766330
+    second: Hats-sharedassets0.assets-126_99
+  - first:
+      213: 3798220648776793197
+    second: Hats-sharedassets0.assets-126_100
+  - first:
+      213: 5807605507335795691
+    second: Hats-sharedassets0.assets-126_101
+  - first:
+      213: -2502963531162426054
+    second: Hats-sharedassets0.assets-126_102
+  - first:
+      213: -8345542016870605703
+    second: Hats-sharedassets0.assets-126_103
+  - first:
+      213: -2800197416724155717
+    second: Hats-sharedassets0.assets-126_104
+  - first:
+      213: 6991477171116118751
+    second: Hats-sharedassets0.assets-126_105
+  - first:
+      213: 4958130130115292352
+    second: Hats-sharedassets0.assets-126_106
+  - first:
+      213: 3950373739241479095
+    second: Hats-sharedassets0.assets-126_107
+  - first:
+      213: 1447405000361212889
+    second: Hats-sharedassets0.assets-126_108
+  - first:
+      213: -940941750038888194
+    second: Hats-sharedassets0.assets-126_109
+  - first:
+      213: -263180835053423092
+    second: Hats-sharedassets0.assets-126_110
+  - first:
+      213: 5870909464362018259
+    second: Hats-sharedassets0.assets-126_111
+  - first:
+      213: 8212670144673268917
+    second: Hats-sharedassets0.assets-126_112
+  - first:
+      213: 6655954215212845134
+    second: Hats-sharedassets0.assets-126_113
+  - first:
+      213: -5819584290979686483
+    second: Hats-sharedassets0.assets-126_114
+  - first:
+      213: -6171670300721828552
+    second: Hats-sharedassets0.assets-126_115
+  - first:
+      213: -6018829945960400889
+    second: Hats-sharedassets0.assets-126_116
+  - first:
+      213: -7287084713050542579
+    second: Hats-sharedassets0.assets-126_117
+  - first:
+      213: 2058101883919447907
+    second: Hats-sharedassets0.assets-126_118
+  - first:
+      213: 2182307590842215192
+    second: Hats-sharedassets0.assets-126_119
+  - first:
+      213: 7841041383454171699
+    second: Hats-sharedassets0.assets-126_120
+  - first:
+      213: 211634503741197334
+    second: Hats-sharedassets0.assets-126_121
+  - first:
+      213: 3693500663789663873
+    second: Hats-sharedassets0.assets-126_122
+  - first:
+      213: -4765308949621555909
+    second: Hats-sharedassets0.assets-126_123
+  - first:
+      213: -7582462012569677735
+    second: Hats-sharedassets0.assets-126_124
+  - first:
+      213: -569644745468610086
+    second: Hats-sharedassets0.assets-126_125
+  - first:
+      213: 1213392806490407736
+    second: Hats-sharedassets0.assets-126_126
+  - first:
+      213: 7473898037126925869
+    second: Hats-sharedassets0.assets-126_127
+  - first:
+      213: 7010337485550261314
+    second: Hats-sharedassets0.assets-126_128
+  - first:
+      213: -7312100226950697663
+    second: Hats-sharedassets0.assets-126_129
+  - first:
+      213: -4139212428077218226
+    second: Hats-sharedassets0.assets-126_130
+  - first:
+      213: -5657096486359798693
+    second: Hats-sharedassets0.assets-126_131
+  - first:
+      213: 5088718123732000747
+    second: Hats-sharedassets0.assets-126_132
+  - first:
+      213: -4527558198565629547
+    second: Hats-sharedassets0.assets-126_133
+  - first:
+      213: 7842544786660638252
+    second: Hats-sharedassets0.assets-126_134
+  - first:
+      213: -7806588983856016104
+    second: Hats-sharedassets0.assets-126_135
+  - first:
+      213: 1765475464151471238
+    second: Hats-sharedassets0.assets-126_136
+  - first:
+      213: -8459985360259709157
+    second: Hats-sharedassets0.assets-126_137
+  - first:
+      213: -1169420902517090993
+    second: Hats-sharedassets0.assets-126_138
+  - first:
+      213: -3169920258754472314
+    second: Hats-sharedassets0.assets-126_139
+  - first:
+      213: -5781882370548598715
+    second: Hats-sharedassets0.assets-126_140
+  - first:
+      213: -9073789168995289394
+    second: Hats-sharedassets0.assets-126_141
+  - first:
+      213: -5931578042805518466
+    second: Hats-sharedassets0.assets-126_142
+  - first:
+      213: -6203073401404123982
+    second: Hats-sharedassets0.assets-126_143
+  - first:
+      213: -8943338530803270118
+    second: Hats-sharedassets0.assets-126_144
+  - first:
+      213: -4527670101713628355
+    second: Hats-sharedassets0.assets-126_145
+  - first:
+      213: -1325364041590514911
+    second: Hats-sharedassets0.assets-126_146
+  - first:
+      213: -3035810609216132939
+    second: Hats-sharedassets0.assets-126_147
+  - first:
+      213: 8883129512056014553
+    second: Hats-sharedassets0.assets-126_148
+  - first:
+      213: -2034602597726270691
+    second: Hats-sharedassets0.assets-126_149
+  - first:
+      213: 7410596129044134322
+    second: Hats-sharedassets0.assets-126_150
+  - first:
+      213: -2613231145189571995
+    second: Hats-sharedassets0.assets-126_151
+  - first:
+      213: 4482456273246224696
+    second: Hats-sharedassets0.assets-126_152
+  - first:
+      213: 6028586129963316269
+    second: Hats-sharedassets0.assets-126_153
+  - first:
+      213: -2175733184776545836
+    second: Hats-sharedassets0.assets-126_154
+  - first:
+      213: -332879883095167622
+    second: Hats-sharedassets0.assets-126_155
+  - first:
+      213: -6914440633361584585
+    second: Hats-sharedassets0.assets-126_156
+  - first:
+      213: -5478082925532963130
+    second: Hats-sharedassets0.assets-126_157
+  - first:
+      213: -5016303424513301471
+    second: Hats-sharedassets0.assets-126_158
+  - first:
+      213: -3282978245722117885
+    second: Hats-sharedassets0.assets-126_159
+  - first:
+      213: 6869937053243226492
+    second: Hats-sharedassets0.assets-126_160
+  - first:
+      213: -8795454155390944749
+    second: Hats-sharedassets0.assets-126_161
+  - first:
+      213: 1612375512117977414
+    second: Hats-sharedassets0.assets-126_162
+  - first:
+      213: 5133249943495014326
+    second: Hats-sharedassets0.assets-126_163
+  - first:
+      213: 676889813984462266
+    second: Hats-sharedassets0.assets-126_164
+  - first:
+      213: 6765796798490388489
+    second: Hats-sharedassets0.assets-126_165
+  - first:
+      213: -3230793485456297708
+    second: Hats-sharedassets0.assets-126_166
+  - first:
+      213: 5498856543340255932
+    second: Hats-sharedassets0.assets-126_167
+  - first:
+      213: 8738930676757766865
+    second: Hats-sharedassets0.assets-126_168
+  - first:
+      213: 5728828866569844252
+    second: Hats-sharedassets0.assets-126_169
+  - first:
+      213: -6023297560614043583
+    second: Hats-sharedassets0.assets-126_170
+  - first:
+      213: 2595192120066898840
+    second: Hats-sharedassets0.assets-126_171
+  - first:
+      213: 7051437390860061088
+    second: Hats-sharedassets0.assets-126_172
+  - first:
+      213: -1924864555767620104
+    second: Hats-sharedassets0.assets-126_173
+  - first:
+      213: -5348005769923985194
+    second: Hats-sharedassets0.assets-126_174
+  - first:
+      213: -205967493923333007
+    second: Hats-sharedassets0.assets-126_175
+  - first:
+      213: -6534139858079019148
+    second: Hats-sharedassets0.assets-126_176
+  - first:
+      213: 6336858951881107510
+    second: Hats-sharedassets0.assets-126_177
+  - first:
+      213: 751801381009050284
+    second: Hats-sharedassets0.assets-126_178
+  - first:
+      213: 3063251069316205181
+    second: Hats-sharedassets0.assets-126_179
+  - first:
+      213: 7097011252730225451
+    second: Hats-sharedassets0.assets-126_180
+  - first:
+      213: -609901953242629876
+    second: Hats-sharedassets0.assets-126_181
+  - first:
+      213: -7347101546474243697
+    second: Hats-sharedassets0.assets-126_182
+  - first:
+      213: -2177785106628051201
+    second: Hats-sharedassets0.assets-126_183
+  - first:
+      213: 4412510828358806453
+    second: Hats-sharedassets0.assets-126_184
+  - first:
+      213: -4290176111842108970
+    second: Hats-sharedassets0.assets-126_185
+  - first:
+      213: -5934653204750792127
+    second: Hats-sharedassets0.assets-126_186
+  - first:
+      213: 4584818029534730327
+    second: Hats-sharedassets0.assets-126_187
+  - first:
+      213: 1392493813777246328
+    second: Hats-sharedassets0.assets-126_188
+  - first:
+      213: 7198302976948337082
+    second: Hats-sharedassets0.assets-126_189
+  - first:
+      213: -7005360596059689379
+    second: Hats-sharedassets0.assets-126_190
+  - first:
+      213: 4008277877460741497
+    second: Hats-sharedassets0.assets-126_191
+  - first:
+      213: -5113663563680636975
+    second: Hats-sharedassets0.assets-126_192
+  - first:
+      213: -5507126174525787613
+    second: Hats-sharedassets0.assets-126_193
+  - first:
+      213: 6417157277969650526
+    second: Hats-sharedassets0.assets-126_194
+  - first:
+      213: -5030705916338631488
+    second: Hats-sharedassets0.assets-126_195
+  - first:
+      213: 718866475323471965
+    second: Hats-sharedassets0.assets-126_196
+  - first:
+      213: -8967354639947827834
+    second: Hats-sharedassets0.assets-126_197
+  - first:
+      213: 224370032770139594
+    second: Hats-sharedassets0.assets-126_198
+  - first:
+      213: 4605195343828972051
+    second: Hats-sharedassets0.assets-126_199
+  - first:
+      213: -5505907467531964509
+    second: Hats-sharedassets0.assets-126_200
+  - first:
+      213: 1445393761259755438
+    second: Hats-sharedassets0.assets-126_201
+  - first:
+      213: -3828007996366368694
+    second: Hats-sharedassets0.assets-126_202
+  - first:
+      213: 9113642242498021131
+    second: Hats-sharedassets0.assets-126_203
+  - first:
+      213: -8217781111975780817
+    second: Hats-sharedassets0.assets-126_204
+  - first:
+      213: -7891117711988270831
+    second: Hats-sharedassets0.assets-126_205
+  - first:
+      213: 3116392876147582422
+    second: Hats-sharedassets0.assets-126_206
+  - first:
+      213: -6911969452445720093
+    second: Hats-sharedassets0.assets-126_207
+  - first:
+      213: -5876542701847782324
+    second: Hats-sharedassets0.assets-126_208
+  - first:
+      213: -8813211882085340912
+    second: Hats-sharedassets0.assets-126_209
+  - first:
+      213: -2014495058958315977
+    second: Hats-sharedassets0.assets-126_210
+  - first:
+      213: -5542405014603884026
+    second: Hats-sharedassets0.assets-126_211
+  - first:
+      213: -1425242450035863472
+    second: Hats-sharedassets0.assets-126_212
+  - first:
+      213: 6921526386870324863
+    second: Hats-sharedassets0.assets-126_213
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 631
+        width: 245
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8307a21501db30c60800000000000000
+      internalID: 7783272458805211192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 787
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc05929155f93af0800000000000000
+      internalID: -416031759854662464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 746
+        width: 92
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ae02602f8aaafd0800000000000000
+      internalID: -2329864099772437875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_3
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 738
+        width: 96
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749f45d6e5069c160800000000000000
+      internalID: 7046269050675329351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_4
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 786
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e455650f6055650800000000000000
+      internalID: 6220886089592557148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_5
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 744
+        width: 89
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56f691e302114d40800000000000000
+      internalID: 5566750422285612637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_6
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 749
+        width: 81
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b4d002b98e81570800000000000000
+      internalID: 8437749654833941366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_7
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 753
+        width: 103
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebce6326ef6ea8810800000000000000
+      internalID: 1768479783940189374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_8
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 755
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca6b7a258f75f540800000000000000
+      internalID: 5041075567831247556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_9
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 748
+        width: 86
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe89b1626b63b45b0800000000000000
+      internalID: -5383148773640005393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_10
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 746
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c36236f98e552e0800000000000000
+      internalID: -2137546676856538054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_11
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 770
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af2835201f343fa0800000000000000
+      internalID: -5821959079706742878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_12
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 775
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d5ee36b65f8a220800000000000000
+      internalID: 2497515834963811596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_13
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 744
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b609718be4c4b7aa0800000000000000
+      internalID: -6162247764146679701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_14
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 745
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2837c630a198a7aa0800000000000000
+      internalID: -6162462395283508350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_15
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 694
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99eacc1eab568c0d0800000000000000
+      internalID: -3402357665151799655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_16
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 755
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45bc151b346091e0800000000000000
+      internalID: -2193142813609380534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_17
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 729
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195e139b9c9de7490800000000000000
+      internalID: -7746514848611965551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 676
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba26aa40ca58cb20800000000000000
+      internalID: 3154871320905657018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 693
+        width: 98
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a53512c04628ed0800000000000000
+      internalID: -2413256447055668594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_20
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 682
+        width: 82
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040be42579e0b9a40800000000000000
+      internalID: 5375906623280558144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_21
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 681
+        width: 82
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f79cafa71bdc5f0800000000000000
+      internalID: -734736022439887079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_22
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 709
+        width: 86
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3934beef09334e1f0800000000000000
+      internalID: -1016630918033751149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_23
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 649
+        width: 77
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c36c76314e33a60800000000000000
+      internalID: 7652710963829160967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_24
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 703
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d41e2026bcf2ae0800000000000000
+      internalID: -1571814123113460387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_25
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 697
+        width: 93
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fe269831011f730800000000000000
+      internalID: 4031020817568690052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_26
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 691
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8175b569149f1940800000000000000
+      internalID: 5269092925848252813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 606
+        width: 99
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3228ce26089c308e0800000000000000
+      internalID: -1728316278727474653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_28
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 639
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05072d87f46d6780800000000000000
+      internalID: -8688177091739974388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_29
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 610
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fb6a7f216b441d0800000000000000
+      internalID: -3367366428785721471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_30
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 645
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0b67c3c87f10580800000000000000
+      internalID: -8862530410006531930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_31
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 644
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9800508a1a2e55330800000000000000
+      internalID: 3699111852891242633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_32
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 640
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9fe07b8af6b59f0800000000000000
+      internalID: -478666164968424999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_33
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 612
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a0e7cd89bd7ff40800000000000000
+      internalID: 5762315697824598591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_34
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 643
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3892d76f5677420800000000000000
+      internalID: 2627681016930206694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_35
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 635
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b070140bfa033820800000000000000
+      internalID: 2896671058550616240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_36
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 651
+        width: 76
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad63ecb93904ce540800000000000000
+      internalID: 5038473085839095514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_37
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 640
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f8656093e0cc6f0800000000000000
+      internalID: -663139407048044726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_38
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 652
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2556a1fd0a469d70800000000000000
+      internalID: 9049501924996830509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_39
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 643
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96af617fc77cb3db0800000000000000
+      internalID: -4811032437379892631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_40
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 593
+        width: 85
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42beb392e0bb06080800000000000000
+      internalID: -9196144769594823900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_41
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 599
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14578d45bf063e10800000000000000
+      internalID: 2176944741244425246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_42
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 609
+        width: 68
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8931cd0ce491adc90800000000000000
+      internalID: -7144370032836078696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 587
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef25b4832b1059920800000000000000
+      internalID: 2996302992045200126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 552
+        width: 117
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948ab84e391649aa0800000000000000
+      internalID: -6155187502886180791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_45
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 588
+        width: 111
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e99b4cd83baae90800000000000000
+      internalID: -7013596048203866501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_46
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 557
+        width: 97
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37cd41d23ce05ff0800000000000000
+      internalID: -49279892897020097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_47
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 542
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bd6cb5ca9ca2ec0800000000000000
+      internalID: -3590836010763232359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_48
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 558
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f3399ba8ca73d30800000000000000
+      internalID: 4411184071851589404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_49
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 586
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077abfe67b9226cf0800000000000000
+      internalID: -260599960616327312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_50
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 558
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3c57564b0d50830800000000000000
+      internalID: 4036862114222425069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_51
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 539
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b2dbfd701580790800000000000000
+      internalID: -7563706479908410598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_52
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 530
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1913001000c721d0800000000000000
+      internalID: -3375518289189725926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_53
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 544
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9432f777f20e6690800000000000000
+      internalID: -7607139458689649508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_54
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 550
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dfb8e59b4e73960800000000000000
+      internalID: 7581779982507834709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_55
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 574
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16cdbf57219e28a0800000000000000
+      internalID: -6327960828112943589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_56
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 584
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92299fc11ea39d6d0800000000000000
+      internalID: -2965274141118590423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_57
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 517
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2a0e9025bb7c320800000000000000
+      internalID: 2578235272720327346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_58
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 531
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c2716b909f3ca40800000000000000
+      internalID: 5387423399370238995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_59
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 560
+        width: 57
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6db45cb4542d400800000000000000
+      internalID: 347416312995894959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 472
+        width: 113
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a613188b7668290800000000000000
+      internalID: -7888503655153702286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_61
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 471
+        width: 104
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3df079bc7eab17c0800000000000000
+      internalID: -4099491185080337092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_62
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 500
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2d718021eb06e00800000000000000
+      internalID: 1036036898949681830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_63
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 485
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9441916122e5aadf0800000000000000
+      internalID: -168218535580330935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_64
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 518
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b23c8814b0a6f530800000000000000
+      internalID: 3888472023647400625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_65
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 476
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068cb5b6d13e62420800000000000000
+      internalID: 2605019149975144544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_66
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 503
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416fec6dfffc54050800000000000000
+      internalID: 5784257994154767892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_67
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 521
+        width: 82
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718087181a60e2bf0800000000000000
+      internalID: -347332830529320937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_68
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 503
+        width: 71
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b65ca45bf2a4210800000000000000
+      internalID: 1317918296649329433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_69
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 495
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fab93010a337010800000000000000
+      internalID: 1185354902958485264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_70
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 480
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50020eaa76dc09a70800000000000000
+      internalID: 8831784714405683205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_71
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 500
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2589b54623d645730800000000000000
+      internalID: 3986931633329248338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_72
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 509
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14abaa8ecd4703950800000000000000
+      internalID: 6426765160402827841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_73
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 441
+        width: 67
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3822953a86718600800000000000000
+      internalID: 468786172199577663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_74
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 444
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e105d6da0b909c370800000000000000
+      internalID: 8343210439109070878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_75
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 439
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bd4f71eb82dbe50800000000000000
+      internalID: 6826657407074360201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_76
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 477
+        width: 93
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b789c30948d33b0800000000000000
+      internalID: -5531119012314317984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_77
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 457
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d3ebe8bf2c93530800000000000000
+      internalID: 3835310943370099987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_78
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 455
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18680c4cafaf4390800000000000000
+      internalID: -7831848072429148133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_79
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 436
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6258acd5473c9960800000000000000
+      internalID: 7610018243543585388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_80
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 465
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f51168e0983e070800000000000000
+      internalID: 8134496047433080614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_81
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 405
+        width: 108
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ee92c4e4b32f910800000000000000
+      internalID: 1869622002783481398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_82
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 443
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2c4a626f84d4430800000000000000
+      internalID: 3768748685226459841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_83
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 398
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3eeb174ea43cfb0800000000000000
+      internalID: -4628773646985403437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_84
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 416
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9996aec4eeee140800000000000000
+      internalID: 4750996671040166372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_85
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 414
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518701b5dcba60740800000000000000
+      internalID: 5117966925037598741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_86
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 422
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080541d2fbad130d0800000000000000
+      internalID: -3444731725331804032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_87
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 429
+        width: 73
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9085304e07a74d0800000000000000
+      internalID: -3136070065899173398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_88
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 422
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff5b752f24a554d0800000000000000
+      internalID: -3146428242249162765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_89
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 331
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4627da92b0abab40800000000000000
+      internalID: 5452628462824531531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_90
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 376
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b0716cb31a865b0800000000000000
+      internalID: -5374868877168145576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_91
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 375
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9636002bbeaf4b30800000000000000
+      internalID: 4273826690117285531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_92
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 360
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d6904eb6086e290800000000000000
+      internalID: -7861454898652942955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_93
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 369
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d295d58949d1a2b0800000000000000
+      internalID: -5574935953906756908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_94
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 394
+        width: 72
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debc1c4b4639d2880800000000000000
+      internalID: -8634082849860760595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_95
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 379
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3c298d04f7dd300800000000000000
+      internalID: 278518668454970297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_96
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 387
+        width: 83
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04507731e7c790550800000000000000
+      internalID: 6127565648948561216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_97
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 385
+        width: 75
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9487a39abf8a16c0800000000000000
+      internalID: -4171864073301424998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_98
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 387
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5597a0f26fc951580800000000000000
+      internalID: -8857000510989108907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_99
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 392
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645e8186b913e47f0800000000000000
+      internalID: -626508754621766330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_100
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 312
+        width: 95
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cf4e46e8df5b430800000000000000
+      internalID: 3798220648776793197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_101
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 340
+        width: 79
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be33a5c5072c89050800000000000000
+      internalID: 5807605507335795691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_102
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 339
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a356e4ffdefa34dd0800000000000000
+      internalID: -2502963531162426054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_103
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 312
+        width: 89
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c945290cdae2c80800000000000000
+      internalID: -8345542016870605703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_104
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 301
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2b03b1943b329d0800000000000000
+      internalID: -2800197416724155717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_105
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 344
+        width: 75
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd211a7d177b60160800000000000000
+      internalID: 6991477171116118751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_106
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 300
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cceea38511dec440800000000000000
+      internalID: 4958130130115292352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_107
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 332
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb15816cfb82d630800000000000000
+      internalID: 3950373739241479095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_108
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 343
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db77acdd27361410800000000000000
+      internalID: 1447405000361212889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_109
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 331
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef00992b67a11f2f0800000000000000
+      internalID: -940941750038888194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_110
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 332
+        width: 74
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0633f6cc6ef85cf0800000000000000
+      internalID: -263180835053423092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_111
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 335
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5e6cb6d09a97150800000000000000
+      internalID: 5870909464362018259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_112
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 340
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4c4b6ebf349f170800000000000000
+      internalID: 8212670144673268917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_113
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 332
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48860f0813be5c50800000000000000
+      internalID: 6655954215212845134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_114
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 298
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da756bbbbeeac3fa0800000000000000
+      internalID: -5819584290979686483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_115
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 292
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83da5a67f82d95aa0800000000000000
+      internalID: -6171670300721828552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_116
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 290
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708fb83ad02d87ca0800000000000000
+      internalID: -6018829945960400889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_117
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 285
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e6176ef031fda90800000000000000
+      internalID: -7287084713050542579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_118
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 297
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367b49652c8df8c10800000000000000
+      internalID: 2058101883919447907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_119
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 327
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81be9c6013d194e10800000000000000
+      internalID: 2182307590842215192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_120
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 268
+        width: 73
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3326ce93899f0dc60800000000000000
+      internalID: 7841041383454171699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_121
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 242
+        width: 89
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cc5b9b570efe200800000000000000
+      internalID: 211634503741197334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_122
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 299
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1863ad2e843f14330800000000000000
+      internalID: 3693500663789663873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_123
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 301
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d31dc02c83eddb0800000000000000
+      internalID: -4765308949621555909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_124
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 248
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95014e129fea5c690800000000000000
+      internalID: -7582462012569677735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_125
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 285
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9fc224f173818f0800000000000000
+      internalID: -569644745468610086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_126
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 272
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83300e32456d6d010800000000000000
+      internalID: 1213392806490407736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_127
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 273
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e80769aae98b760800000000000000
+      internalID: 7473898037126925869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_128
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 233
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24414ddfcc8b94160800000000000000
+      internalID: 7010337485550261314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_129
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 259
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dec82b593368a90800000000000000
+      internalID: -7312100226950697663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_130
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 231
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4643962a309e86c0800000000000000
+      internalID: -4139212428077218226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_131
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 236
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ce96ed7b4fd71b0800000000000000
+      internalID: -5657096486359798693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_132
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 252
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef532f1c22ce9640800000000000000
+      internalID: 5088718123732000747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_133
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 212
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59196927ec1ea21c0800000000000000
+      internalID: -4527558198565629547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_134
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 220
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ebfff8ee056dc60800000000000000
+      internalID: 7842544786660638252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_135
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 222
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815d8c52eac69a390800000000000000
+      internalID: -7806588983856016104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_136
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 239
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6849a6ca49a308810800000000000000
+      internalID: 1765475464151471238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_137
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 242
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1707b44328189a80800000000000000
+      internalID: -8459985360259709157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_138
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 218
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f455d8092e165cfe0800000000000000
+      internalID: -1169420902517090993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_139
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 238
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68610a2d15e2204d0800000000000000
+      internalID: -3169920258754472314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_140
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 180
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5487b522e90a2cfa0800000000000000
+      internalID: -5781882370548598715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_141
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 204
+        width: 102
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6bf3763dc631280800000000000000
+      internalID: -9073789168995289394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_142
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 205
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ff119623dceada0800000000000000
+      internalID: -5931578042805518466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_143
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 167
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b412a15b914ae9a0800000000000000
+      internalID: -6203073401404123982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_144
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 201
+        width: 73
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e38657df0e2e380800000000000000
+      internalID: -8943338530803270118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_145
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 165
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33d337f70c7a21c0800000000000000
+      internalID: -4527670101713628355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_146
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 194
+        width: 71
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bdbee1d6c5b9de0800000000000000
+      internalID: -1325364041590514911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_147
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 176
+        width: 71
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b86f48d552aed5d0800000000000000
+      internalID: -3035810609216132939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_148
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 184
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d643e3f937374b70800000000000000
+      internalID: 8883129512056014553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_149
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 192
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b407797b3a3c3e0800000000000000
+      internalID: -2034602597726270691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_150
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 192
+        width: 73
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b97f859ae9b7d660800000000000000
+      internalID: 7410596129044134322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_151
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 186
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5620df27e10fbbbd0800000000000000
+      internalID: -2613231145189571995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_152
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 191
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83100104b32e43e30800000000000000
+      internalID: 4482456273246224696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_153
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 132
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d247f46f427d9a350800000000000000
+      internalID: 6028586129963316269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_154
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 161
+        width: 88
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d95d5b223e3ec1e0800000000000000
+      internalID: -2175733184776545836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_155
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 156
+        width: 78
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d2d3f828f516bf0800000000000000
+      internalID: -332879883095167622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_156
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 118
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ea4f3d0e8fa00a0800000000000000
+      internalID: -6914440633361584585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_157
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 162
+        width: 76
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce99757a90f9f3b0800000000000000
+      internalID: -5478082925532963130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_158
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 142
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1242f48ec92826ab0800000000000000
+      internalID: -5016303424513301471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_159
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 130
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309e562fda48072d0800000000000000
+      internalID: -3282978245722117885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_160
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 135
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c793bd7f95be65f50800000000000000
+      internalID: 6869937053243226492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_161
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 150
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a70b5cb0540f580800000000000000
+      internalID: -8795454155390944749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_162
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 147
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641a45c4cfe406610800000000000000
+      internalID: 1612375512117977414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_163
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 155
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7705160a7fc3740800000000000000
+      internalID: 5133249943495014326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_164
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 151
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5cf9213bbc46900800000000000000
+      internalID: 676889813984462266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_165
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 90
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908ae7c6750f4ed50800000000000000
+      internalID: 6765796798490388489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_166
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 83
+        width: 87
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4113bb4417ae923d0800000000000000
+      internalID: -3230793485456297708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_167
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 118
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbad0a854ecdf4c40800000000000000
+      internalID: 5498856543340255932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_168
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 102
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d229e0562be64970800000000000000
+      internalID: 8738930676757766865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_169
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 119
+        width: 68
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1636e26083e08f40800000000000000
+      internalID: 5728828866569844252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_170
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 89
+        width: 71
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1408f1b08c2f86ca0800000000000000
+      internalID: -6023297560614043583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_171
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 115
+        width: 68
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bfa78bb79f30420800000000000000
+      internalID: 2595192120066898840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_172
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 87
+        width: 67
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a90f1662fcbbd160800000000000000
+      internalID: 7051437390860061088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_173
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 96
+        width: 71
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd1bb882e18945e0800000000000000
+      internalID: -1924864555767620104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_174
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 122
+        width: 82
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d001f2561118c5b0800000000000000
+      internalID: -5348005769923985194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_175
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 108
+        width: 75
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c1c61d7a1442df0800000000000000
+      internalID: -205967493923333007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_176
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 104
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f8a7e1b621255a0800000000000000
+      internalID: -6534139858079019148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_177
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 108
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638a0a284ab01f750800000000000000
+      internalID: 6336858951881107510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_178
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 89
+        width: 71
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa41b07f5fee6a00800000000000000
+      internalID: 751801381009050284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_179
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 63
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a8d642e9ad28a20800000000000000
+      internalID: 3063251069316205181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_180
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 69
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b236fedf126ad7260800000000000000
+      internalID: 7097011252730225451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_181
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 83
+        width: 79
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09f729a7613987f0800000000000000
+      internalID: -609901953242629876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_182
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 111
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89fda1f11ad90a90800000000000000
+      internalID: -7347101546474243697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_183
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 50
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe7c42ebf3f6c1e0800000000000000
+      internalID: -2177785106628051201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_184
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 47
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb24eb48336c3d30800000000000000
+      internalID: 4412510828358806453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_185
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 58
+        width: 83
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9d8cd7e8b3674c0800000000000000
+      internalID: -4290176111842108970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_186
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 40
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a02b97a50e3ada0800000000000000
+      internalID: -5934653204750792127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_187
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 68
+        width: 72
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758593ad4bb80af30800000000000000
+      internalID: 4584818029534730327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_188
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 68
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8782f12feb1235310800000000000000
+      internalID: 1392493813777246328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_189
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 70
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab974a65b6285e360800000000000000
+      internalID: 7198302976948337082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_190
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 58
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ee75467a5f7ce90800000000000000
+      internalID: -7005360596059689379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_191
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 40
+        width: 65
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97daa172e7340a730800000000000000
+      internalID: 4008277877460741497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_192
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 58
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df15f9051e9809b0800000000000000
+      internalID: -5113663563680636975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_193
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 31
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322722a1ce1c293b0800000000000000
+      internalID: -5507126174525787613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_194
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 61
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5391357b825e0950800000000000000
+      internalID: 6417157277969650526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_195
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 61
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc0e277f975f2ab0800000000000000
+      internalID: -5030705916338631488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_196
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 50
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58b796204de9f900800000000000000
+      internalID: 718866475323471965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_197
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 27
+        width: 67
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68575fe477e8d8380800000000000000
+      internalID: -8967354639947827834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_198
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 16
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5c1852b5f1d1300800000000000000
+      internalID: 224370032770139594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_199
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 36
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312753e04c0f8ef30800000000000000
+      internalID: 4605195343828972051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_200
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 39
+        width: 81
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af269f64561793b0800000000000000
+      internalID: -5505907467531964509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_201
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 26
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea71474c7f11f0410800000000000000
+      internalID: 1445393761259755438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_202
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 20
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a405a3b420f20eac0800000000000000
+      internalID: -3828007996366368694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_203
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 22
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07c61a55592a7e70800000000000000
+      internalID: 9113642242498021131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_204
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 26
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ed4ca4e9394fd80800000000000000
+      internalID: -8217781111975780817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_205
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1195528ff3e1d7290800000000000000
+      internalID: -7891117711988270831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_206
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 19
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5a55b3fc6af3b20800000000000000
+      internalID: 3116392876147582422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_207
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 10
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e12f987760c310a0800000000000000
+      internalID: -6911969452445720093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_208
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 6
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cd2f44c83527ea0800000000000000
+      internalID: -5876542701847782324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_209
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 15
+        width: 57
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0192d06dc7e21b580800000000000000
+      internalID: -8813211882085340912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_210
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 6
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e8209ca631b04e0800000000000000
+      internalID: -2014495058958315977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_211
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 26
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a113f010c6513b0800000000000000
+      internalID: -5542405014603884026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_212
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 9
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0501ecefa85883ce0800000000000000
+      internalID: -1425242450035863472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hats-sharedassets0.assets-126_213
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e06e8b3933e0060800000000000000
+      internalID: 6921526386870324863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
