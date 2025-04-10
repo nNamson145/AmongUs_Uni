@@ -1,34 +1,54 @@
+using Unity.Netcode;
 using UnityEngine;
 
-public class AnimationPlayer : MonoBehaviour
+public class AnimationPlayer : NetworkBehaviour
 {
-    private float horizontalInput;
-    private bool facingRight = true;
 
     const string STR_IS_MOVING = "isMoving";
 
+    const string STR_IS_DEAD = "isDead";
+
+    private SpriteRenderer playerSprite;
+
     public Animator animatorController;
 
-    void Update()
-    {
-        horizontalInput = Input.GetAxis("Horizontal");
+    public NetworkVariable<bool> isfacingRight = new NetworkVariable<bool>(true, NetworkVariableReadPermission.Everyone, NetworkVariableWritePermission.Owner);
 
-        SetupDirectionByScale();
+    private void Start()
+    {
+        playerSprite = GetComponent<SpriteRenderer>();
     }
 
+    private void Update()
+    {
+        playerSprite.flipX = isfacingRight.Value;
+    }
     public void SetPlayerMoving(bool moving)
     {
-        animatorController.SetBool(STR_IS_MOVING, moving);
+        if(animatorController != null)
+        {
+            animatorController.SetBool(STR_IS_MOVING, moving);
+        }
     }
 
-    private void SetupDirectionByScale()
+    public void SetPlayerDead(bool dead)
     {
-        if (horizontalInput < 0 && facingRight || horizontalInput > 0 && !facingRight)
+        if (animatorController != null)
         {
-            facingRight = !facingRight;
-            Vector3 playerScale = transform.localScale;
-            playerScale.x *= -1;
-            transform.localScale = playerScale;
+            animatorController.SetBool(STR_IS_DEAD, dead);
         }
+    }
+    public void SetFlipByScale(float horizontalInput)
+    {
+        if (horizontalInput < 0)
+        {
+            isfacingRight.Value = true;
+        }
+        else if (horizontalInput > 0)
+        { 
+            isfacingRight.Value = false; 
+        }
+
+        
     }
 }
