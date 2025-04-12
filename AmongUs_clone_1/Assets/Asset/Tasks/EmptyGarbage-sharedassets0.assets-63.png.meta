@@ -1,0 +1,1080 @@
+fileFormatVersion: 2
+guid: ced21c4a74aafd14ea5dea9de902774c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5685939294906800424
+    second: EmptyGarbage-sharedassets0.assets-63_0
+  - first:
+      213: 3449748778053986508
+    second: EmptyGarbage-sharedassets0.assets-63_1
+  - first:
+      213: -6987925302846861040
+    second: EmptyGarbage-sharedassets0.assets-63_2
+  - first:
+      213: -6864037035081075405
+    second: EmptyGarbage-sharedassets0.assets-63_3
+  - first:
+      213: 3934834354014855177
+    second: EmptyGarbage-sharedassets0.assets-63_4
+  - first:
+      213: 4581909325111405409
+    second: EmptyGarbage-sharedassets0.assets-63_5
+  - first:
+      213: 8145300408731747965
+    second: EmptyGarbage-sharedassets0.assets-63_6
+  - first:
+      213: -7210936383383687262
+    second: EmptyGarbage-sharedassets0.assets-63_7
+  - first:
+      213: 218543789343011733
+    second: EmptyGarbage-sharedassets0.assets-63_8
+  - first:
+      213: -8876905847632044416
+    second: EmptyGarbage-sharedassets0.assets-63_9
+  - first:
+      213: 1502196528118639861
+    second: EmptyGarbage-sharedassets0.assets-63_10
+  - first:
+      213: 7416500388424535013
+    second: EmptyGarbage-sharedassets0.assets-63_11
+  - first:
+      213: -8177444372469304605
+    second: EmptyGarbage-sharedassets0.assets-63_12
+  - first:
+      213: -2784575348758218481
+    second: EmptyGarbage-sharedassets0.assets-63_13
+  - first:
+      213: 5787764872904048163
+    second: EmptyGarbage-sharedassets0.assets-63_14
+  - first:
+      213: -6232898116833123072
+    second: EmptyGarbage-sharedassets0.assets-63_15
+  - first:
+      213: 6788318371569448592
+    second: EmptyGarbage-sharedassets0.assets-63_16
+  - first:
+      213: -9125717709285397736
+    second: EmptyGarbage-sharedassets0.assets-63_17
+  - first:
+      213: 4923111937925955143
+    second: EmptyGarbage-sharedassets0.assets-63_18
+  - first:
+      213: -3680023011910288808
+    second: EmptyGarbage-sharedassets0.assets-63_19
+  - first:
+      213: -1425534779341856209
+    second: EmptyGarbage-sharedassets0.assets-63_20
+  - first:
+      213: -2610370408553172725
+    second: EmptyGarbage-sharedassets0.assets-63_21
+  - first:
+      213: -6963974943922137673
+    second: EmptyGarbage-sharedassets0.assets-63_22
+  - first:
+      213: -7088028699262651187
+    second: EmptyGarbage-sharedassets0.assets-63_23
+  - first:
+      213: 7039692096874572745
+    second: EmptyGarbage-sharedassets0.assets-63_24
+  - first:
+      213: 910386117186942687
+    second: EmptyGarbage-sharedassets0.assets-63_25
+  - first:
+      213: 7761972009194614922
+    second: EmptyGarbage-sharedassets0.assets-63_26
+  - first:
+      213: 2528133013370831964
+    second: EmptyGarbage-sharedassets0.assets-63_27
+  - first:
+      213: -2489578520973359982
+    second: EmptyGarbage-sharedassets0.assets-63_28
+  - first:
+      213: 7359263242169165006
+    second: EmptyGarbage-sharedassets0.assets-63_29
+  - first:
+      213: 8088401859195139639
+    second: EmptyGarbage-sharedassets0.assets-63_30
+  - first:
+      213: -1230024766357306559
+    second: EmptyGarbage-sharedassets0.assets-63_31
+  - first:
+      213: 4620435971798990866
+    second: EmptyGarbage-sharedassets0.assets-63_32
+  - first:
+      213: -2975723802097323430
+    second: EmptyGarbage-sharedassets0.assets-63_33
+  - first:
+      213: 6602959173899343472
+    second: EmptyGarbage-sharedassets0.assets-63_34
+  - first:
+      213: -1502450966235020385
+    second: EmptyGarbage-sharedassets0.assets-63_35
+  - first:
+      213: 6752475223231352075
+    second: EmptyGarbage-sharedassets0.assets-63_36
+  - first:
+      213: -8077353094503986260
+    second: EmptyGarbage-sharedassets0.assets-63_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1539
+        width: 509
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d625a0365c7711b0800000000000000
+      internalID: -5685939294906800424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1035
+        width: 504
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8ee307c38ffdf20800000000000000
+      internalID: 3449748778053986508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 576
+        width: 136
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01159dee5f6e50f90800000000000000
+      internalID: -6987925302846861040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 535
+        width: 242
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335fdde0faa0eb0a0800000000000000
+      internalID: -6864037035081075405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 566
+        width: 129
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9002f015ff65b9630800000000000000
+      internalID: 3934834354014855177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 531
+        width: 107
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ba0545146369f30800000000000000
+      internalID: 4581909325111405409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_6
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 871
+        width: 52
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76cc4be09be90170800000000000000
+      internalID: 8145300408731747965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_7
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 852
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afa972809b9deb90800000000000000
+      internalID: -7210936383383687262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_8
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 719
+        width: 48
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59378a32b6c680300800000000000000
+      internalID: 218543789343011733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_9
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 697
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08edd47d925eec480800000000000000
+      internalID: -8876905847632044416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_10
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 572
+        width: 49
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc265988cfd8d410800000000000000
+      internalID: 1502196528118639861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 522
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb47981fc3bce660800000000000000
+      internalID: 7416500388424535013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 535
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e233705ba1e38e80800000000000000
+      internalID: -8177444372469304605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 537
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09f4fe39733b59d0800000000000000
+      internalID: -2784575348758218481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 409
+        width: 104
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32efdecac75425050800000000000000
+      internalID: 5787764872904048163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 343
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005e5f0af2c4089a0800000000000000
+      internalID: -6232898116833123072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 433
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096b7a7c793f43e50800000000000000
+      internalID: 6788318371569448592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 406
+        width: 68
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b6d81f710fa5180800000000000000
+      internalID: -9125717709285397736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_18
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 437
+        width: 109
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ebf894938625440800000000000000
+      internalID: 4923111937925955143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_19
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 403
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85af2d9719eedecc0800000000000000
+      internalID: -3680023011910288808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 416
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f222d56cbab773ce0800000000000000
+      internalID: -1425534779341856209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_21
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 437
+        width: 104
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b013ff991f916cbd0800000000000000
+      internalID: -2610370408553172725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 273
+        width: 78
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5dcca6fadfa5f90800000000000000
+      internalID: -6963974943922137673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 142
+        width: 64
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4fca6b37342ad90800000000000000
+      internalID: -7088028699262651187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_24
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 273
+        width: 115
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb655a0aa202b160800000000000000
+      internalID: 7039692096874572745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 273
+        width: 64
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6ff53a95752ac00800000000000000
+      internalID: 910386117186942687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_26
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 264
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80f19cea6018bb60800000000000000
+      internalID: 7761972009194614922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_27
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 277
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5408eeb49bb51320800000000000000
+      internalID: 2528133013370831964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 199
+        width: 119
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294c0f8868d337dd0800000000000000
+      internalID: -2489578520973359982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_29
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 192
+        width: 88
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4251e7dea512660800000000000000
+      internalID: 7359263242169165006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_30
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 192
+        width: 15
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7367fe103a6cf3070800000000000000
+      internalID: 8088401859195139639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_31
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 192
+        width: 15
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1430750fdf21eeee0800000000000000
+      internalID: -1230024766357306559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_32
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 193
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210048649061f1040800000000000000
+      internalID: 4620435971798990866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_33
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 206
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a527052d7fa14b6d0800000000000000
+      internalID: -2975723802097323430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 72
+        width: 51
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0765daa726c62ab50800000000000000
+      internalID: 6602959173899343472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_35
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 112
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f938e197ec8362be0800000000000000
+      internalID: -1502450966235020385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_36
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 153
+        width: 113
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dc45b707c95bd50800000000000000
+      internalID: 6752475223231352075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmptyGarbage-sharedassets0.assets-63_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 15
+        width: 49
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab00bcf72a77ef80800000000000000
+      internalID: -8077353094503986260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

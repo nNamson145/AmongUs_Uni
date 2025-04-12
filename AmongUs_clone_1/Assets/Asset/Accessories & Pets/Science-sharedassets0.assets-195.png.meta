@@ -1,0 +1,2480 @@
+fileFormatVersion: 2
+guid: 58be4a9be1bd51844b251753a5d310c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5359463451625861904
+    second: Science-sharedassets0.assets-195_0
+  - first:
+      213: 8593129811071546650
+    second: Science-sharedassets0.assets-195_1
+  - first:
+      213: 7350233804052407821
+    second: Science-sharedassets0.assets-195_2
+  - first:
+      213: -412811277104989690
+    second: Science-sharedassets0.assets-195_3
+  - first:
+      213: -5272678568589529992
+    second: Science-sharedassets0.assets-195_4
+  - first:
+      213: 6372881030785109746
+    second: Science-sharedassets0.assets-195_5
+  - first:
+      213: 4616235844275787397
+    second: Science-sharedassets0.assets-195_6
+  - first:
+      213: 2846642307375757349
+    second: Science-sharedassets0.assets-195_7
+  - first:
+      213: -8359698013275054969
+    second: Science-sharedassets0.assets-195_8
+  - first:
+      213: -7568165447336348360
+    second: Science-sharedassets0.assets-195_9
+  - first:
+      213: -6596712715233584273
+    second: Science-sharedassets0.assets-195_10
+  - first:
+      213: -2950324916051847266
+    second: Science-sharedassets0.assets-195_11
+  - first:
+      213: 6902914047982849502
+    second: Science-sharedassets0.assets-195_12
+  - first:
+      213: -8701221445776509003
+    second: Science-sharedassets0.assets-195_13
+  - first:
+      213: 5550279954841107923
+    second: Science-sharedassets0.assets-195_14
+  - first:
+      213: 442249766973093990
+    second: Science-sharedassets0.assets-195_15
+  - first:
+      213: 8135410131953824501
+    second: Science-sharedassets0.assets-195_16
+  - first:
+      213: 8372647751712575073
+    second: Science-sharedassets0.assets-195_17
+  - first:
+      213: 8243600823841980954
+    second: Science-sharedassets0.assets-195_18
+  - first:
+      213: -3522119851786752468
+    second: Science-sharedassets0.assets-195_19
+  - first:
+      213: -4770125072427695674
+    second: Science-sharedassets0.assets-195_20
+  - first:
+      213: 7213803355563235159
+    second: Science-sharedassets0.assets-195_21
+  - first:
+      213: 5810516597103969274
+    second: Science-sharedassets0.assets-195_22
+  - first:
+      213: 5026228295752989129
+    second: Science-sharedassets0.assets-195_23
+  - first:
+      213: 5265922012443738737
+    second: Science-sharedassets0.assets-195_24
+  - first:
+      213: 8093937303583093983
+    second: Science-sharedassets0.assets-195_25
+  - first:
+      213: -2737725576084737110
+    second: Science-sharedassets0.assets-195_26
+  - first:
+      213: -2714425164718938705
+    second: Science-sharedassets0.assets-195_27
+  - first:
+      213: 7624516689141502276
+    second: Science-sharedassets0.assets-195_28
+  - first:
+      213: 6166354229641905830
+    second: Science-sharedassets0.assets-195_29
+  - first:
+      213: -7381068017315161908
+    second: Science-sharedassets0.assets-195_30
+  - first:
+      213: -2751578922804189518
+    second: Science-sharedassets0.assets-195_31
+  - first:
+      213: -617540116975143431
+    second: Science-sharedassets0.assets-195_32
+  - first:
+      213: -4112637088714226257
+    second: Science-sharedassets0.assets-195_33
+  - first:
+      213: -9216304993395401016
+    second: Science-sharedassets0.assets-195_34
+  - first:
+      213: -1212787822885477202
+    second: Science-sharedassets0.assets-195_35
+  - first:
+      213: 430994118898804730
+    second: Science-sharedassets0.assets-195_36
+  - first:
+      213: -465346433142138674
+    second: Science-sharedassets0.assets-195_37
+  - first:
+      213: 4522775445094415332
+    second: Science-sharedassets0.assets-195_38
+  - first:
+      213: 5414516814477160280
+    second: Science-sharedassets0.assets-195_39
+  - first:
+      213: -3660739686512894933
+    second: Science-sharedassets0.assets-195_40
+  - first:
+      213: -4888297450280206198
+    second: Science-sharedassets0.assets-195_41
+  - first:
+      213: 6876441158148439395
+    second: Science-sharedassets0.assets-195_42
+  - first:
+      213: -3408298952646204783
+    second: Science-sharedassets0.assets-195_43
+  - first:
+      213: 9090870696086499032
+    second: Science-sharedassets0.assets-195_44
+  - first:
+      213: -137673805215270690
+    second: Science-sharedassets0.assets-195_45
+  - first:
+      213: 2554006752177672792
+    second: Science-sharedassets0.assets-195_46
+  - first:
+      213: 2998254160185660853
+    second: Science-sharedassets0.assets-195_47
+  - first:
+      213: 3169698762916264780
+    second: Science-sharedassets0.assets-195_48
+  - first:
+      213: 610603112613508319
+    second: Science-sharedassets0.assets-195_49
+  - first:
+      213: -2125582538793532570
+    second: Science-sharedassets0.assets-195_50
+  - first:
+      213: -2461089454717028142
+    second: Science-sharedassets0.assets-195_51
+  - first:
+      213: 7896707909151536070
+    second: Science-sharedassets0.assets-195_52
+  - first:
+      213: -1111645058615480919
+    second: Science-sharedassets0.assets-195_53
+  - first:
+      213: 6162889836111279523
+    second: Science-sharedassets0.assets-195_54
+  - first:
+      213: -3199719718344147171
+    second: Science-sharedassets0.assets-195_55
+  - first:
+      213: -3309138413166730341
+    second: Science-sharedassets0.assets-195_56
+  - first:
+      213: -474562459625065097
+    second: Science-sharedassets0.assets-195_57
+  - first:
+      213: 4249905715257580461
+    second: Science-sharedassets0.assets-195_58
+  - first:
+      213: -5123502977833489913
+    second: Science-sharedassets0.assets-195_59
+  - first:
+      213: 2439734830799150032
+    second: Science-sharedassets0.assets-195_60
+  - first:
+      213: -5815251313470780869
+    second: Science-sharedassets0.assets-195_61
+  - first:
+      213: -7267918024558802428
+    second: Science-sharedassets0.assets-195_62
+  - first:
+      213: 9116213687248542655
+    second: Science-sharedassets0.assets-195_63
+  - first:
+      213: -254134426710028170
+    second: Science-sharedassets0.assets-195_64
+  - first:
+      213: 469122713967098607
+    second: Science-sharedassets0.assets-195_65
+  - first:
+      213: -1015439742483085575
+    second: Science-sharedassets0.assets-195_66
+  - first:
+      213: -4929254643018440428
+    second: Science-sharedassets0.assets-195_67
+  - first:
+      213: 5970798370881189157
+    second: Science-sharedassets0.assets-195_68
+  - first:
+      213: 8637398603930743665
+    second: Science-sharedassets0.assets-195_69
+  - first:
+      213: 5263004956014296430
+    second: Science-sharedassets0.assets-195_70
+  - first:
+      213: -6044750141563196056
+    second: Science-sharedassets0.assets-195_71
+  - first:
+      213: -8241540195463242759
+    second: Science-sharedassets0.assets-195_72
+  - first:
+      213: 6971412197204411252
+    second: Science-sharedassets0.assets-195_73
+  - first:
+      213: -3284437816465352687
+    second: Science-sharedassets0.assets-195_74
+  - first:
+      213: -509550405119551496
+    second: Science-sharedassets0.assets-195_75
+  - first:
+      213: -8340646458178581188
+    second: Science-sharedassets0.assets-195_76
+  - first:
+      213: -5971109622473954232
+    second: Science-sharedassets0.assets-195_77
+  - first:
+      213: -6822164467797186022
+    second: Science-sharedassets0.assets-195_78
+  - first:
+      213: -2671388532047379393
+    second: Science-sharedassets0.assets-195_79
+  - first:
+      213: -1718064203805155133
+    second: Science-sharedassets0.assets-195_80
+  - first:
+      213: -7641491983139628446
+    second: Science-sharedassets0.assets-195_81
+  - first:
+      213: -6552418489658439019
+    second: Science-sharedassets0.assets-195_82
+  - first:
+      213: -4392644434130896701
+    second: Science-sharedassets0.assets-195_83
+  - first:
+      213: -9127374539393452966
+    second: Science-sharedassets0.assets-195_84
+  - first:
+      213: 8662987925682533927
+    second: Science-sharedassets0.assets-195_85
+  - first:
+      213: -93126006087610083
+    second: Science-sharedassets0.assets-195_86
+  - first:
+      213: -3984717088681624757
+    second: Science-sharedassets0.assets-195_87
+  - first:
+      213: 817060388718885365
+    second: Science-sharedassets0.assets-195_88
+  - first:
+      213: 8966156822856534952
+    second: Science-sharedassets0.assets-195_89
+  - first:
+      213: 7831467421021171647
+    second: Science-sharedassets0.assets-195_90
+  - first:
+      213: -5778199214867332881
+    second: Science-sharedassets0.assets-195_91
+  - first:
+      213: 303202308082454214
+    second: Science-sharedassets0.assets-195_92
+  - first:
+      213: -1278912033691325526
+    second: Science-sharedassets0.assets-195_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 166
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01339d41d93a06a40800000000000000
+      internalID: 5359463451625861904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 168
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a153db9e80ee04770800000000000000
+      internalID: 8593129811071546650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 169
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06ac9a93b6410660800000000000000
+      internalID: 7350233804052407821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 162
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ab1e4a456654af0800000000000000
+      internalID: -412811277104989690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_4
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 165
+        width: 93
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ce76817cea3d6b0800000000000000
+      internalID: -5272678568589529992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 162
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe85c35885017850800000000000000
+      internalID: 6372881030785109746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_6
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 168
+        width: 97
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586db71ea0a201040800000000000000
+      internalID: 4616235844275787397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_7
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 163
+        width: 94
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528fabda81e418720800000000000000
+      internalID: 2846642307375757349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_8
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 131
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c9331d2f26cfb80800000000000000
+      internalID: -8359698013275054969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_9
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 175
+        width: 83
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835b12e9f9978f690800000000000000
+      internalID: -7568165447336348360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_10
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 166
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b13338cb4c374a0800000000000000
+      internalID: -6596712715233584273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_11
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 167
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97debece175e07d0800000000000000
+      internalID: -2950324916051847266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_12
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 180
+        width: 81
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd4211e0c31ccf50800000000000000
+      internalID: 6902914047982849502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_13
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 169
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7fa74323d0f3780800000000000000
+      internalID: -8701221445776509003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_14
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 171
+        width: 87
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd7648563e860d40800000000000000
+      internalID: 5550279954841107923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_15
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 174
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6683e66e1df232600800000000000000
+      internalID: 442249766973093990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_16
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 170
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2b8396968c6e070800000000000000
+      internalID: 8135410131953824501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_17
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 183
+        width: 83
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e0d4e15ce913470800000000000000
+      internalID: 8372647751712575073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_18
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 177
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a120837d547276270800000000000000
+      internalID: 8243600823841980954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_19
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 176
+        width: 81
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e26e1e7aaee1fc0800000000000000
+      internalID: -3522119851786752468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_20
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 175
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c143c3158c1dcdb0800000000000000
+      internalID: -4770125072427695674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_21
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 169
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7571ed77ee39c1460800000000000000
+      internalID: 7213803355563235159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_22
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 127
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3c4e34f0a13a050800000000000000
+      internalID: 5810516597103969274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_23
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 179
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9bf504100c0c540800000000000000
+      internalID: 5026228295752989129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_24
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 175
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1728e969b20541940800000000000000
+      internalID: 5265922012443738737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 92
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd47a561811735070800000000000000
+      internalID: 8093937303583093983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 107
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3b7f8f715a10ad0800000000000000
+      internalID: -2737725576084737110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_27
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 103
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5eb8fb1bc645ad0800000000000000
+      internalID: -2714425164718938705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_28
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 127
+        width: 76
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44111584889bfc960800000000000000
+      internalID: 7624516689141502276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_29
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 105
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a68809408a439550800000000000000
+      internalID: 6166354229641905830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_30
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 109
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8deecaebd219990800000000000000
+      internalID: -7381068017315161908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_31
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 109
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6edc65c8d60d9d0800000000000000
+      internalID: -2751578922804189518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_32
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 95
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5b425198e0e67f0800000000000000
+      internalID: -617540116975143431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_33
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 103
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa587158b5afce6c0800000000000000
+      internalID: -4112637088714226257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_34
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 125
+        width: 82
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce1207407b191080800000000000000
+      internalID: -9216304993395401016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_35
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 110
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4edf496ef4b2fe0800000000000000
+      internalID: -1212787822885477202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_36
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 117
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7ee3d1ed23bf500800000000000000
+      internalID: 430994118898804730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_37
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 122
+        width: 66
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8511372e1ca89f0800000000000000
+      internalID: -465346433142138674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_38
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 118
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb36bbfd4024ce30800000000000000
+      internalID: 4522775445094415332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_39
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 112
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f6a4dfa5a342b40800000000000000
+      internalID: 5414516814477160280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_40
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 126
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c593a86a0723dc0800000000000000
+      internalID: -3660739686512894933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_41
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 146
+        width: 75
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80c9974e57492cb0800000000000000
+      internalID: -4888297450280206198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_42
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 118
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d3056ecc60e6f50800000000000000
+      internalID: 6876441158148439395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_43
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 108
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192ef27192a43b0d0800000000000000
+      internalID: -3408298952646204783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_44
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 123
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de6e3b8bb2492e70800000000000000
+      internalID: 9090870696086499032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_45
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 121
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed874415762e61ef0800000000000000
+      internalID: -137673805215270690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_46
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 49
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852df710c97a17320800000000000000
+      internalID: 2554006752177672792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_47
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 46
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b51434f540fb9920800000000000000
+      internalID: 2998254160185660853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_48
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 51
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b7e982b380dfb20800000000000000
+      internalID: 3169698762916264780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_49
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 65
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4731abb4c497800800000000000000
+      internalID: 610603112613508319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_50
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 41
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663407a51f96082e0800000000000000
+      internalID: -2125582538793532570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_51
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 60
+        width: 71
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8b12b2e2478ddd0800000000000000
+      internalID: -2461089454717028142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_52
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 49
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3befb310eb69d60800000000000000
+      internalID: 7896707909151536070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_53
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 66
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ade7ec75b4a290f0800000000000000
+      internalID: -1111645058615480919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_54
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 46
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5374f47abf68550800000000000000
+      internalID: 6162889836111279523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_55
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 65
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fb8477edf4893d0800000000000000
+      internalID: -3199719718344147171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_56
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 55
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93e89255249312d0800000000000000
+      internalID: -3309138413166730341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_57
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 68
+        width: 71
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775ff4215f30a69f0800000000000000
+      internalID: -474562459625065097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_58
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 82
+        width: 71
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab94d62bb2bafa30800000000000000
+      internalID: 4249905715257580461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_59
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 66
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a2498ef29a5e8b0800000000000000
+      internalID: -5123502977833489913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_60
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 60
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db5eeff6edabd120800000000000000
+      internalID: 2439734830799150032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_61
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 54
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a43fcadb31c4fa0800000000000000
+      internalID: -5815251313470780869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_62
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 67
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a8381501b232b90800000000000000
+      internalID: -7267918024558802428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_63
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 98
+        width: 77
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbd00d7c0c438e70800000000000000
+      internalID: 9116213687248542655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_64
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 89
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67050cad512297cf0800000000000000
+      internalID: -254134426710028170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_65
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 60
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea73127f98a28600800000000000000
+      internalID: 469122713967098607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_66
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 49
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f64b7a2fee68e1f0800000000000000
+      internalID: -1015439742483085575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_67
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 62
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411e07bb405c79bb0800000000000000
+      internalID: -4929254643018440428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_68
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 63
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525bad1db798cd250800000000000000
+      internalID: 5970798370881189157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_69
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 69
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1733fb274443ed770800000000000000
+      internalID: 8637398603930743665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 23
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d3a567f13f90940800000000000000
+      internalID: 5263004956014296430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_71
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d2220d5cbbc1ca0800000000000000
+      internalID: -6044750141563196056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_72
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 5
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb5f479bda20ad80800000000000000
+      internalID: -8241540195463242759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_73
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 5
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473c13d057e6fb060800000000000000
+      internalID: 6971412197204411252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_74
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 39
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11819b625355b62d0800000000000000
+      internalID: -3284437816465352687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_75
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 2
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f751b33b96bde8f0800000000000000
+      internalID: -509550405119551496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_76
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 8
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d4527ac32104c80800000000000000
+      internalID: -8340646458178581188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_77
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 10
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ce5854f6b522da0800000000000000
+      internalID: -5971109622473954232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_78
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 7
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a28a9df8dc251a0800000000000000
+      internalID: -6822164467797186022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_79
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 9
+        width: 68
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f348342a8425dead0800000000000000
+      internalID: -2671388532047379393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_80
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 9
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c021e695b53828e0800000000000000
+      internalID: -1718064203805155133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_81
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 11
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a97f61787f3f590800000000000000
+      internalID: -7641491983139628446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_82
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 13
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a053099122115a0800000000000000
+      internalID: -6552418489658439019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_83
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 10
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8f70f09213a03c0800000000000000
+      internalID: -4392644434130896701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_84
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 10
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54328f173d055180800000000000000
+      internalID: -9127374539393452966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_85
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 11
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7263ec3be9d193870800000000000000
+      internalID: 8662987925682533927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_86
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 5
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d111ccf046625bef0800000000000000
+      internalID: -93126006087610083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_87
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 40
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bf3b67be073b8c0800000000000000
+      internalID: -3984717088681624757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_88
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 34
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9b1a53818c65b00800000000000000
+      internalID: 817060388718885365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_89
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 8
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab0fca20203e6c70800000000000000
+      internalID: 8966156822856534952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_90
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 3
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfe2046026feac60800000000000000
+      internalID: 7831467421021171647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_91
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 7
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe04464ad66bfcfa0800000000000000
+      internalID: -5778199214867332881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_92
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 9
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce455c84e0353400800000000000000
+      internalID: 303202308082454214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Science-sharedassets0.assets-195_93
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 5
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab2bd40844604ee0800000000000000
+      internalID: -1278912033691325526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

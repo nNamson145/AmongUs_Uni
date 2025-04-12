@@ -1,0 +1,955 @@
+fileFormatVersion: 2
+guid: 9549b45598fcc5341a72c07110a9d93d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -85796009501775344
+    second: killstab-sharedassets2.assets-16_0
+  - first:
+      213: -4422218214856943273
+    second: killstab-sharedassets2.assets-16_1
+  - first:
+      213: 2295594925362706941
+    second: killstab-sharedassets2.assets-16_2
+  - first:
+      213: -8173295548508547816
+    second: killstab-sharedassets2.assets-16_3
+  - first:
+      213: 2388230785370741293
+    second: killstab-sharedassets2.assets-16_4
+  - first:
+      213: -5055633047370180347
+    second: killstab-sharedassets2.assets-16_5
+  - first:
+      213: 9016276191244862863
+    second: killstab-sharedassets2.assets-16_6
+  - first:
+      213: -8258565272949475095
+    second: killstab-sharedassets2.assets-16_7
+  - first:
+      213: -353710294644724555
+    second: killstab-sharedassets2.assets-16_8
+  - first:
+      213: 5266010752225610775
+    second: killstab-sharedassets2.assets-16_9
+  - first:
+      213: -4239673688064979650
+    second: killstab-sharedassets2.assets-16_10
+  - first:
+      213: -1652493430026013521
+    second: killstab-sharedassets2.assets-16_11
+  - first:
+      213: -7239490984398034327
+    second: killstab-sharedassets2.assets-16_12
+  - first:
+      213: 5326725102287253522
+    second: killstab-sharedassets2.assets-16_13
+  - first:
+      213: 6033627650590572058
+    second: killstab-sharedassets2.assets-16_14
+  - first:
+      213: -8139927141729563184
+    second: killstab-sharedassets2.assets-16_15
+  - first:
+      213: 5824941547132263515
+    second: killstab-sharedassets2.assets-16_16
+  - first:
+      213: -6529863985532611112
+    second: killstab-sharedassets2.assets-16_17
+  - first:
+      213: 2232172475975303897
+    second: killstab-sharedassets2.assets-16_18
+  - first:
+      213: -9037985000385586186
+    second: killstab-sharedassets2.assets-16_19
+  - first:
+      213: 7353189406970153866
+    second: killstab-sharedassets2.assets-16_20
+  - first:
+      213: 34385256258332647
+    second: killstab-sharedassets2.assets-16_21
+  - first:
+      213: -1309036362145902389
+    second: killstab-sharedassets2.assets-16_22
+  - first:
+      213: 5245754848534771461
+    second: killstab-sharedassets2.assets-16_23
+  - first:
+      213: 818234300146846365
+    second: killstab-sharedassets2.assets-16_24
+  - first:
+      213: -8334961443772635730
+    second: killstab-sharedassets2.assets-16_25
+  - first:
+      213: -6480469161883219581
+    second: killstab-sharedassets2.assets-16_26
+  - first:
+      213: 5583715928700129804
+    second: killstab-sharedassets2.assets-16_27
+  - first:
+      213: -6832259138767807031
+    second: killstab-sharedassets2.assets-16_28
+  - first:
+      213: -385875603745754832
+    second: killstab-sharedassets2.assets-16_29
+  - first:
+      213: 6065433804280077044
+    second: killstab-sharedassets2.assets-16_30
+  - first:
+      213: -7092297707359332829
+    second: killstab-sharedassets2.assets-16_31
+  - first:
+      213: 8140635868232436606
+    second: killstab-sharedassets2.assets-16_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 802
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a2082ebf03fcef0800000000000000
+      internalID: -85796009501775344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 730
+        width: 113
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7599038a6ff11a2c0800000000000000
+      internalID: -4422218214856943273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 762
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9fe6a0c679bdf10800000000000000
+      internalID: 2295594925362706941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 804
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815dddaa00f929e80800000000000000
+      internalID: -8173295548508547816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 695
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2adca3fe33b42120800000000000000
+      internalID: 2388230785370741293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 724
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50956c08788c6d9b0800000000000000
+      internalID: -5055633047370180347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 625
+        width: 121
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8546f7fc6f302d70800000000000000
+      internalID: 9016276191244862863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 671
+        width: 79
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e83877d3aea36d80800000000000000
+      internalID: -8258565272949475095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 594
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc6d4e6c5e571bf0800000000000000
+      internalID: -353710294644724555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_9
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 619
+        width: 68
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c8bcde0e0a41940800000000000000
+      internalID: 5266010752225610775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 489
+        width: 74
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d01535e37a925c0800000000000000
+      internalID: -4239673688064979650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_11
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 547
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4f1ad0bf92119e0800000000000000
+      internalID: -1652493430026013521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 501
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96aef406e49288b90800000000000000
+      internalID: -7239490984398034327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_13
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 502
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210fcf122445ce940800000000000000
+      internalID: 5326725102287253522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 380
+        width: 74
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1efc647160cbb350800000000000000
+      internalID: 6033627650590572058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_15
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 435
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd06ab446b290f80800000000000000
+      internalID: -8139927141729563184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 456
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c9b3aa97956d050800000000000000
+      internalID: 5824941547132263515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_17
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 427
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d556b64d434165a0800000000000000
+      internalID: -6529863985532611112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 269
+        width: 74
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d289e35a054afe10800000000000000
+      internalID: 2232172475975303897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_19
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 313
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb55b60780a29280800000000000000
+      internalID: -9037985000385586186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 355
+        width: 86
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b0f988ec6cb0660800000000000000
+      internalID: 7353189406970153866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 201
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7e9c855392a7000800000000000000
+      internalID: 34385256258332647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_22
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 259
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0593c3d5e55dde0800000000000000
+      internalID: -1309036362145902389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 179
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507b2b5dd3aacc840800000000000000
+      internalID: 5245754848534771461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_24
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 150
+        width: 76
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a0b43c2c3fa5b00800000000000000
+      internalID: 818234300146846365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_25
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 135
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5ea573ab4445c80800000000000000
+      internalID: -8334961443772635730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_26
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 198
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389c31cd1afb016a0800000000000000
+      internalID: -6480469161883219581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 96
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c029cd8ad085d7d40800000000000000
+      internalID: 5583715928700129804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_28
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 88
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd145c1380fe21a0800000000000000
+      internalID: -6832259138767807031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_29
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 81
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031be3fce2815aaf0800000000000000
+      internalID: -385875603745754832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 10
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa92c0b8efbc2450800000000000000
+      internalID: 6065433804280077044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 30
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326978fcfc8139d90800000000000000
+      internalID: -7092297707359332829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: killstab-sharedassets2.assets-16_32
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 21
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b4cc3f03959f070800000000000000
+      internalID: 8140635868232436606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

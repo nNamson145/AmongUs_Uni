@@ -1,4 +1,6 @@
+﻿using Unity.Netcode;
 using UnityEngine;
+using UnityEngine.InputSystem.XR;
 using UnityEngine.UI;
 
 public class UIManager : MonoBehaviour
@@ -12,6 +14,8 @@ public class UIManager : MonoBehaviour
         ButtonUse
     }
 
+    private PlayerController localPlayer;
+
     public static UIManager instance;
 
     private void Awake()
@@ -22,10 +26,15 @@ public class UIManager : MonoBehaviour
         }
     }
 
+    public void RegisterLocalPlayer(PlayerController controller)
+    {
+        localPlayer = controller;
+    }
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
@@ -38,7 +47,14 @@ public class UIManager : MonoBehaviour
     //IMPOSTOR
     public void OnClickKill()
     {
-
+        if (localPlayer != null)
+        {
+            localPlayer.role.Kill();
+        }
+        else
+        {
+            Debug.LogWarning("Local player not yet registered.");
+        }
     }
 
     public void OnClickSabotage()

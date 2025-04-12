@@ -1,0 +1,1630 @@
+fileFormatVersion: 2
+guid: 29b8025075e70d1459ee1a2adc61d809
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4517614367307105021
+    second: ProcessData-sharedassets0.assets-187_0
+  - first:
+      213: 6901284361722844348
+    second: ProcessData-sharedassets0.assets-187_1
+  - first:
+      213: -2311195546174203942
+    second: ProcessData-sharedassets0.assets-187_2
+  - first:
+      213: 7212021115832257581
+    second: ProcessData-sharedassets0.assets-187_3
+  - first:
+      213: -8477407486783054473
+    second: ProcessData-sharedassets0.assets-187_4
+  - first:
+      213: 270371439964817927
+    second: ProcessData-sharedassets0.assets-187_5
+  - first:
+      213: 4289029636311707168
+    second: ProcessData-sharedassets0.assets-187_6
+  - first:
+      213: 1875166031206452131
+    second: ProcessData-sharedassets0.assets-187_7
+  - first:
+      213: 5409840080030497904
+    second: ProcessData-sharedassets0.assets-187_8
+  - first:
+      213: 786468322386628907
+    second: ProcessData-sharedassets0.assets-187_9
+  - first:
+      213: -1904660777340324752
+    second: ProcessData-sharedassets0.assets-187_10
+  - first:
+      213: -1500224840510993856
+    second: ProcessData-sharedassets0.assets-187_11
+  - first:
+      213: 7364901245223945964
+    second: ProcessData-sharedassets0.assets-187_12
+  - first:
+      213: -593117611492313308
+    second: ProcessData-sharedassets0.assets-187_13
+  - first:
+      213: -2457837484832171614
+    second: ProcessData-sharedassets0.assets-187_14
+  - first:
+      213: -6566979336284897971
+    second: ProcessData-sharedassets0.assets-187_15
+  - first:
+      213: -6544322908089672021
+    second: ProcessData-sharedassets0.assets-187_16
+  - first:
+      213: 642267264808174165
+    second: ProcessData-sharedassets0.assets-187_17
+  - first:
+      213: 4297094965134036511
+    second: ProcessData-sharedassets0.assets-187_18
+  - first:
+      213: -1897799576625607902
+    second: ProcessData-sharedassets0.assets-187_19
+  - first:
+      213: 8601483739552220889
+    second: ProcessData-sharedassets0.assets-187_20
+  - first:
+      213: -1708667382247833833
+    second: ProcessData-sharedassets0.assets-187_21
+  - first:
+      213: -195917381783208652
+    second: ProcessData-sharedassets0.assets-187_22
+  - first:
+      213: 1439714293889028800
+    second: ProcessData-sharedassets0.assets-187_23
+  - first:
+      213: -9129441812588961999
+    second: ProcessData-sharedassets0.assets-187_24
+  - first:
+      213: 6267616699002215994
+    second: ProcessData-sharedassets0.assets-187_25
+  - first:
+      213: 5309293143969887352
+    second: ProcessData-sharedassets0.assets-187_26
+  - first:
+      213: 6421842286326254353
+    second: ProcessData-sharedassets0.assets-187_27
+  - first:
+      213: -80601655830895689
+    second: ProcessData-sharedassets0.assets-187_28
+  - first:
+      213: 3801476244481664247
+    second: ProcessData-sharedassets0.assets-187_29
+  - first:
+      213: -610486334140262809
+    second: ProcessData-sharedassets0.assets-187_30
+  - first:
+      213: -1917411301430787918
+    second: ProcessData-sharedassets0.assets-187_31
+  - first:
+      213: -3156910712679078157
+    second: ProcessData-sharedassets0.assets-187_32
+  - first:
+      213: -1426934808705362125
+    second: ProcessData-sharedassets0.assets-187_33
+  - first:
+      213: -5906133596935852175
+    second: ProcessData-sharedassets0.assets-187_34
+  - first:
+      213: 26013512941481279
+    second: ProcessData-sharedassets0.assets-187_35
+  - first:
+      213: 7460668144553008593
+    second: ProcessData-sharedassets0.assets-187_36
+  - first:
+      213: 2952494244613979772
+    second: ProcessData-sharedassets0.assets-187_37
+  - first:
+      213: -8709942406654215189
+    second: ProcessData-sharedassets0.assets-187_38
+  - first:
+      213: -8620017161937475418
+    second: ProcessData-sharedassets0.assets-187_39
+  - first:
+      213: 4997079031085506704
+    second: ProcessData-sharedassets0.assets-187_40
+  - first:
+      213: 4849680302091630026
+    second: ProcessData-sharedassets0.assets-187_41
+  - first:
+      213: -7931654893784866401
+    second: ProcessData-sharedassets0.assets-187_42
+  - first:
+      213: 324839145814475447
+    second: ProcessData-sharedassets0.assets-187_43
+  - first:
+      213: 5014000683345694336
+    second: ProcessData-sharedassets0.assets-187_44
+  - first:
+      213: 7417730298319861224
+    second: ProcessData-sharedassets0.assets-187_45
+  - first:
+      213: -8721700562523874452
+    second: ProcessData-sharedassets0.assets-187_46
+  - first:
+      213: 8631646305901489544
+    second: ProcessData-sharedassets0.assets-187_47
+  - first:
+      213: -2282235743304066932
+    second: ProcessData-sharedassets0.assets-187_48
+  - first:
+      213: -8422332308448597333
+    second: ProcessData-sharedassets0.assets-187_49
+  - first:
+      213: 8955385257245390215
+    second: ProcessData-sharedassets0.assets-187_50
+  - first:
+      213: 8219694070340668080
+    second: ProcessData-sharedassets0.assets-187_51
+  - first:
+      213: -1423954784238273430
+    second: ProcessData-sharedassets0.assets-187_52
+  - first:
+      213: 854933949582364362
+    second: ProcessData-sharedassets0.assets-187_53
+  - first:
+      213: -228395696464157748
+    second: ProcessData-sharedassets0.assets-187_54
+  - first:
+      213: 4327654441761355124
+    second: ProcessData-sharedassets0.assets-187_55
+  - first:
+      213: 2359084159079815889
+    second: ProcessData-sharedassets0.assets-187_56
+  - first:
+      213: -6186916501326110090
+    second: ProcessData-sharedassets0.assets-187_57
+  - first:
+      213: -3018308140305213427
+    second: ProcessData-sharedassets0.assets-187_58
+  - first:
+      213: -6225422344112448012
+    second: ProcessData-sharedassets0.assets-187_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 947
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d75741ba53e41c0800000000000000
+      internalID: -4517614367307105021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_1
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 494
+        width: 206
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4d27aff8946cf50800000000000000
+      internalID: 6901284361722844348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_2
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 358
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad752df55ebfcefd0800000000000000
+      internalID: -2311195546174203942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_3
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 356
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c4cc17efe361460800000000000000
+      internalID: 7212021115832257581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_4
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 237
+        width: 227
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d1f065ec23a5a80800000000000000
+      internalID: -8477407486783054473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 94
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a8384646d80c300800000000000000
+      internalID: 270371439964817927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 93
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e6b7fdab1b58b30800000000000000
+      internalID: 4289029636311707168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_7
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 9
+        width: 265
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab80f0029de50a10800000000000000
+      internalID: 1875166031206452131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_8
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1
+        width: 249
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c73e5e3ec931b40800000000000000
+      internalID: 5409840080030497904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_9
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 102
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21d3f6b5c81aea00800000000000000
+      internalID: 786468322386628907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_10
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 102
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074b2054d194195e0800000000000000
+      internalID: -1904660777340324752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_11
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 102
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a0022c4712e2be0800000000000000
+      internalID: -1500224840510993856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_12
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 102
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6c76f59a2653660800000000000000
+      internalID: 7364901245223945964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_13
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 102
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427f8f0cca2d4c7f0800000000000000
+      internalID: -593117611492313308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_14
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 102
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a950f864d104edd0800000000000000
+      internalID: -2457837484832171614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_15
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 102
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d786546176dd4a0800000000000000
+      internalID: -6566979336284897971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_16
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 102
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae1dd70df4ed25a0800000000000000
+      internalID: -6544322908089672021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_17
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 102
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552c0c9acaac9e800800000000000000
+      internalID: 642267264808174165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_18
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 79
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e0fe29a1952ab30800000000000000
+      internalID: 4297094965134036511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_19
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 87
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b085c0759a9a5e0800000000000000
+      internalID: -1897799576625607902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_20
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 90
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d60f4573eb9e5770800000000000000
+      internalID: 8601483739552220889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_21
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 72
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f32d991189948e0800000000000000
+      internalID: -1708667382247833833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 35
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dbc75ed26f74df0800000000000000
+      internalID: -195917381783208652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_23
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 62
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2de49b584eaf310800000000000000
+      internalID: 1439714293889028800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_24
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 56
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f59039a05bd4180800000000000000
+      internalID: -9129441812588961999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_25
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 26
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e55543e2c0bf650800000000000000
+      internalID: 6267616699002215994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_26
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 59
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874fdbe0cf56ea940800000000000000
+      internalID: 5309293143969887352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_27
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 59
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b0f08f887fe1950800000000000000
+      internalID: 6421842286326254353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_28
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 65
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b324e79835a1eef0800000000000000
+      internalID: -80601655830895689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_29
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 53
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f46a66d08e81c430800000000000000
+      internalID: 3801476244481664247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_30
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 28
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766d651e9ed1787f0800000000000000
+      internalID: -610486334140262809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_31
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 46
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b006e9849cf365e0800000000000000
+      internalID: -1917411301430787918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 40
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6632fce666034d0800000000000000
+      internalID: -3156910712679078157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_33
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 40
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3371a790a52823ce0800000000000000
+      internalID: -1426934808705362125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_34
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 28
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f63ae19c2390ea0800000000000000
+      internalID: -5906133596935852175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_35
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 31
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dac36f62b6c5000800000000000000
+      internalID: 26013512941481279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_36
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 33
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd972f262e998760800000000000000
+      internalID: 7460668144553008593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_37
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 33
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ef99b5fdd59f820800000000000000
+      internalID: 2952494244613979772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_38
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 33
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebb3454781102780800000000000000
+      internalID: -8709942406654215189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_39
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 33
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a822f0ef0c8f5880800000000000000
+      internalID: -8620017161937475418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_40
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 33
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090a76237e0395540800000000000000
+      internalID: 4997079031085506704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_41
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 33
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac571604a868d4340800000000000000
+      internalID: 4849680302091630026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_42
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 33
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91e6f6d5e91de190800000000000000
+      internalID: -7931654893784866401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_43
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 33
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2c9676b7f028400800000000000000
+      internalID: 324839145814475447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_44
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 33
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ec2626e0f459540800000000000000
+      internalID: 5014000683345694336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_45
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 33
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5f10fc76211f660800000000000000
+      internalID: 7417730298319861224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_46
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 33
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b90754c8b46f680800000000000000
+      internalID: -8721700562523874452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_47
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 33
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d22123594c9c770800000000000000
+      internalID: 8631646305901489544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_48
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 33
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8859aaeeaed350e0800000000000000
+      internalID: -2282235743304066932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_49
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 33
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa20ae836ddd1b80800000000000000
+      internalID: -8422332308448597333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_50
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 22
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785b1ec917be74c70800000000000000
+      internalID: 8955385257245390215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_51
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 30
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba4a090538321270800000000000000
+      internalID: 8219694070340668080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_52
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 26
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c724d0ba81d3ce0800000000000000
+      internalID: -1423954784238273430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_53
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 24
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace4743c5e55ddb00800000000000000
+      internalID: 854933949582364362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_54
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 23
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3a60cf25394dcf0800000000000000
+      internalID: -228395696464157748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475b3df29caee0c30800000000000000
+      internalID: 4327654441761355124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_56
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 17
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da14313b862db020800000000000000
+      internalID: 2359084159079815889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_57
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 19
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6726473c838a32aa0800000000000000
+      internalID: -6186916501326110090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_58
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 22
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d081072fcb0dc16d0800000000000000
+      internalID: -3018308140305213427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProcessData-sharedassets0.assets-187_59
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 21
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdd56a9c5bda99a0800000000000000
+      internalID: -6225422344112448012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
