@@ -391,6 +391,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2497,7 +2510,102 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Archae-sharedassets0.assets-140_0: -3647894506340328845
+      Archae-sharedassets0.assets-140_1: -6451140587504807144
+      Archae-sharedassets0.assets-140_10: -9213811814029971138
+      Archae-sharedassets0.assets-140_11: 987486569640043785
+      Archae-sharedassets0.assets-140_12: -3639302777461031178
+      Archae-sharedassets0.assets-140_13: 3762592750392955980
+      Archae-sharedassets0.assets-140_14: -5044054522857012714
+      Archae-sharedassets0.assets-140_15: -8755321888276777223
+      Archae-sharedassets0.assets-140_16: 2476580276072036523
+      Archae-sharedassets0.assets-140_17: -4678069490663375864
+      Archae-sharedassets0.assets-140_18: 1640546873963491888
+      Archae-sharedassets0.assets-140_19: 1582231117903434374
+      Archae-sharedassets0.assets-140_2: -8057592363436237760
+      Archae-sharedassets0.assets-140_20: -3311007412586128472
+      Archae-sharedassets0.assets-140_21: -6071876789456920652
+      Archae-sharedassets0.assets-140_22: -5598741370922585795
+      Archae-sharedassets0.assets-140_23: 8078091466493238795
+      Archae-sharedassets0.assets-140_24: 2970559171544374297
+      Archae-sharedassets0.assets-140_25: -8090489383842569106
+      Archae-sharedassets0.assets-140_26: 2528829398139217801
+      Archae-sharedassets0.assets-140_27: -2749631749967617620
+      Archae-sharedassets0.assets-140_28: -3094511607036954273
+      Archae-sharedassets0.assets-140_29: 86403892356595795
+      Archae-sharedassets0.assets-140_3: 2247684754571920349
+      Archae-sharedassets0.assets-140_30: 4394305966487837366
+      Archae-sharedassets0.assets-140_31: 3154791468616129868
+      Archae-sharedassets0.assets-140_32: 7503737364510518832
+      Archae-sharedassets0.assets-140_33: -7988878080261116995
+      Archae-sharedassets0.assets-140_34: 8463907865753691065
+      Archae-sharedassets0.assets-140_35: -7863578446312616220
+      Archae-sharedassets0.assets-140_36: -5900469445108811190
+      Archae-sharedassets0.assets-140_37: -4472468559815205952
+      Archae-sharedassets0.assets-140_38: 7468524421057646903
+      Archae-sharedassets0.assets-140_39: 1292503994603888472
+      Archae-sharedassets0.assets-140_4: -2263033437064035188
+      Archae-sharedassets0.assets-140_40: 1737842311305643345
+      Archae-sharedassets0.assets-140_41: -8920983593731210904
+      Archae-sharedassets0.assets-140_42: 5366016904436386240
+      Archae-sharedassets0.assets-140_43: 4834135294650139451
+      Archae-sharedassets0.assets-140_44: -3148216942623183492
+      Archae-sharedassets0.assets-140_45: 6206872330169622059
+      Archae-sharedassets0.assets-140_46: -2517454693556737534
+      Archae-sharedassets0.assets-140_47: 2093445842868569504
+      Archae-sharedassets0.assets-140_48: 2921762092455767444
+      Archae-sharedassets0.assets-140_49: 3070247585485565562
+      Archae-sharedassets0.assets-140_5: -544732472604033929
+      Archae-sharedassets0.assets-140_50: -7980665023498970764
+      Archae-sharedassets0.assets-140_51: 2438296560501662259
+      Archae-sharedassets0.assets-140_52: -5324754615280604207
+      Archae-sharedassets0.assets-140_53: 3619413274377431339
+      Archae-sharedassets0.assets-140_54: 8066503100809133100
+      Archae-sharedassets0.assets-140_55: -741197140205526983
+      Archae-sharedassets0.assets-140_56: -5803917661848489444
+      Archae-sharedassets0.assets-140_57: 4338050094995119691
+      Archae-sharedassets0.assets-140_58: 669123526216211403
+      Archae-sharedassets0.assets-140_59: -7309407406105670555
+      Archae-sharedassets0.assets-140_6: 7969048970421741224
+      Archae-sharedassets0.assets-140_60: 6983484013127677985
+      Archae-sharedassets0.assets-140_61: -8208479983500438164
+      Archae-sharedassets0.assets-140_62: -1299290727949365263
+      Archae-sharedassets0.assets-140_63: 4230733449094531212
+      Archae-sharedassets0.assets-140_64: -5418768110592309875
+      Archae-sharedassets0.assets-140_65: -5373718237035135159
+      Archae-sharedassets0.assets-140_66: -4936205620106021768
+      Archae-sharedassets0.assets-140_67: -7416040140458006986
+      Archae-sharedassets0.assets-140_68: 4066694016658838268
+      Archae-sharedassets0.assets-140_69: -3285922558807683645
+      Archae-sharedassets0.assets-140_7: -400870322938836842
+      Archae-sharedassets0.assets-140_70: 7656879117377193361
+      Archae-sharedassets0.assets-140_71: 1765179929437858044
+      Archae-sharedassets0.assets-140_72: -8939157022614867571
+      Archae-sharedassets0.assets-140_73: -4450220545559944433
+      Archae-sharedassets0.assets-140_74: -2834058778613355975
+      Archae-sharedassets0.assets-140_75: -6694919753838079730
+      Archae-sharedassets0.assets-140_76: 2430888773601624425
+      Archae-sharedassets0.assets-140_77: -4035914217578436703
+      Archae-sharedassets0.assets-140_78: -3483098945700499082
+      Archae-sharedassets0.assets-140_79: -9156880163563818444
+      Archae-sharedassets0.assets-140_8: -3569627455933480605
+      Archae-sharedassets0.assets-140_80: -3043446765598962800
+      Archae-sharedassets0.assets-140_81: -3964986540210674133
+      Archae-sharedassets0.assets-140_82: -4883368052666107833
+      Archae-sharedassets0.assets-140_83: 4546313523528822160
+      Archae-sharedassets0.assets-140_84: -202814025183952596
+      Archae-sharedassets0.assets-140_85: 2016436848538068928
+      Archae-sharedassets0.assets-140_86: -4201653963336948155
+      Archae-sharedassets0.assets-140_87: -4334376005136294358
+      Archae-sharedassets0.assets-140_88: 3985477631299724488
+      Archae-sharedassets0.assets-140_89: -8301750807171973971
+      Archae-sharedassets0.assets-140_9: 6547106702580948221
+      Archae-sharedassets0.assets-140_90: 2197780355450193304
+      Archae-sharedassets0.assets-140_91: 8858792268876424272
+      Archae-sharedassets0.assets-140_92: -1947396208846701865
+      Archae-sharedassets0.assets-140_93: 2737969705966196215
+      Archae-sharedassets0.assets-140_94: 7336559837127552534
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

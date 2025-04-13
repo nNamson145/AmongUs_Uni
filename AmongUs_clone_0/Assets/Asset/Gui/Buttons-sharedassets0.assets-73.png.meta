@@ -175,6 +175,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -697,7 +710,30 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Buttons-sharedassets0.assets-73_0: -1915050094769266726
+      Buttons-sharedassets0.assets-73_1: 2187969586162952822
+      Buttons-sharedassets0.assets-73_10: 6659394257928377123
+      Buttons-sharedassets0.assets-73_11: -2987088368560568897
+      Buttons-sharedassets0.assets-73_12: 5975221608245560110
+      Buttons-sharedassets0.assets-73_13: 3130216033262232955
+      Buttons-sharedassets0.assets-73_14: 5516178233109189502
+      Buttons-sharedassets0.assets-73_15: -5864452994967080575
+      Buttons-sharedassets0.assets-73_16: 3633057626650623188
+      Buttons-sharedassets0.assets-73_17: -2875905987528920592
+      Buttons-sharedassets0.assets-73_18: 1867261285070059564
+      Buttons-sharedassets0.assets-73_19: -8488615510110614224
+      Buttons-sharedassets0.assets-73_2: 2948860288604907925
+      Buttons-sharedassets0.assets-73_20: -4734779857493394749
+      Buttons-sharedassets0.assets-73_21: -4721609548311178619
+      Buttons-sharedassets0.assets-73_22: 4484782633558391679
+      Buttons-sharedassets0.assets-73_3: 1094204751798170192
+      Buttons-sharedassets0.assets-73_4: 4358792086413978513
+      Buttons-sharedassets0.assets-73_5: -7425618987978028081
+      Buttons-sharedassets0.assets-73_6: 4432688535766816005
+      Buttons-sharedassets0.assets-73_7: 3811406631639855016
+      Buttons-sharedassets0.assets-73_8: -6568145580708212350
+      Buttons-sharedassets0.assets-73_9: 2726131841177076799
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

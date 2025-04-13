@@ -262,6 +262,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1422,7 +1435,59 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Weapons-sharedassets0.assets-173_0: 2118382254543829673
+      Weapons-sharedassets0.assets-173_1: -1453905092164500859
+      Weapons-sharedassets0.assets-173_10: -6645067815476869908
+      Weapons-sharedassets0.assets-173_11: 5415971881963243220
+      Weapons-sharedassets0.assets-173_12: 2428371277440377541
+      Weapons-sharedassets0.assets-173_13: 8522535832414696186
+      Weapons-sharedassets0.assets-173_14: -2835009932513109490
+      Weapons-sharedassets0.assets-173_15: -5492111643567511481
+      Weapons-sharedassets0.assets-173_16: 6970647992931291903
+      Weapons-sharedassets0.assets-173_17: 7112028221577339365
+      Weapons-sharedassets0.assets-173_18: 2157350912051764498
+      Weapons-sharedassets0.assets-173_19: 7197873652825387692
+      Weapons-sharedassets0.assets-173_2: -377793001984454296
+      Weapons-sharedassets0.assets-173_20: 518568678116156605
+      Weapons-sharedassets0.assets-173_21: -4370548684034393205
+      Weapons-sharedassets0.assets-173_22: 5543303386705437627
+      Weapons-sharedassets0.assets-173_23: -471648164987383759
+      Weapons-sharedassets0.assets-173_24: -3869813133587228393
+      Weapons-sharedassets0.assets-173_25: -5334256941366762919
+      Weapons-sharedassets0.assets-173_26: -197613438833759545
+      Weapons-sharedassets0.assets-173_27: -4747825447835678090
+      Weapons-sharedassets0.assets-173_28: 4492720545149944400
+      Weapons-sharedassets0.assets-173_29: -471743113690775130
+      Weapons-sharedassets0.assets-173_3: -8065257150260089883
+      Weapons-sharedassets0.assets-173_30: -4411265723251011409
+      Weapons-sharedassets0.assets-173_31: 4646565281660416562
+      Weapons-sharedassets0.assets-173_32: 8388777274780870158
+      Weapons-sharedassets0.assets-173_33: -1656912724506044489
+      Weapons-sharedassets0.assets-173_34: -8625034153664212726
+      Weapons-sharedassets0.assets-173_35: 1520235592667678039
+      Weapons-sharedassets0.assets-173_36: 7197742980279452969
+      Weapons-sharedassets0.assets-173_37: -3015081925449482132
+      Weapons-sharedassets0.assets-173_38: -8938537423657400681
+      Weapons-sharedassets0.assets-173_39: 4801428362401096731
+      Weapons-sharedassets0.assets-173_4: -5878524762961163819
+      Weapons-sharedassets0.assets-173_40: -1807523142027432604
+      Weapons-sharedassets0.assets-173_41: 4649971851964917116
+      Weapons-sharedassets0.assets-173_42: -3628900264588913500
+      Weapons-sharedassets0.assets-173_43: 122328427166579021
+      Weapons-sharedassets0.assets-173_44: -2728319894300160702
+      Weapons-sharedassets0.assets-173_45: -8032431841728270894
+      Weapons-sharedassets0.assets-173_46: -8822849874603809713
+      Weapons-sharedassets0.assets-173_47: 132512696484018755
+      Weapons-sharedassets0.assets-173_48: -4173405998632920168
+      Weapons-sharedassets0.assets-173_49: 2442282037767615322
+      Weapons-sharedassets0.assets-173_5: -8494893832975291046
+      Weapons-sharedassets0.assets-173_50: 104365678658854009
+      Weapons-sharedassets0.assets-173_51: 1935878161442446718
+      Weapons-sharedassets0.assets-173_6: 5301482537600670498
+      Weapons-sharedassets0.assets-173_7: 6362543754177201394
+      Weapons-sharedassets0.assets-173_8: -8767706398856120968
+      Weapons-sharedassets0.assets-173_9: -5378146234417662621
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

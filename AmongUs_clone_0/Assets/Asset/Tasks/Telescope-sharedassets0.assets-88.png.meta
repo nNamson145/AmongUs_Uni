@@ -127,6 +127,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -297,7 +310,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Telescope-sharedassets0.assets-88_0: -1526526965678077194
+      Telescope-sharedassets0.assets-88_1: -1325424276745216588
+      Telescope-sharedassets0.assets-88_2: -5782923954079895873
+      Telescope-sharedassets0.assets-88_3: 7155633211816349507
+      Telescope-sharedassets0.assets-88_4: -2648619749926550020
+      Telescope-sharedassets0.assets-88_5: 6977542523646328969
+      Telescope-sharedassets0.assets-88_6: -4788301036217876281
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -385,6 +385,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2447,7 +2460,100 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SuitB-sharedassets0.assets-111_0: 4974449131757326238
+      SuitB-sharedassets0.assets-111_1: 3570049804591404803
+      SuitB-sharedassets0.assets-111_10: -455497458776652325
+      SuitB-sharedassets0.assets-111_11: 574090301842422481
+      SuitB-sharedassets0.assets-111_12: -4048857027830740191
+      SuitB-sharedassets0.assets-111_13: 7129879645664617304
+      SuitB-sharedassets0.assets-111_14: 4991149038027699622
+      SuitB-sharedassets0.assets-111_15: -1512440606662034545
+      SuitB-sharedassets0.assets-111_16: -2436330700726177681
+      SuitB-sharedassets0.assets-111_17: -1024292311579795939
+      SuitB-sharedassets0.assets-111_18: -6588578605175895637
+      SuitB-sharedassets0.assets-111_19: 195078237746508094
+      SuitB-sharedassets0.assets-111_2: -3004149038674350803
+      SuitB-sharedassets0.assets-111_20: 8910005641720086409
+      SuitB-sharedassets0.assets-111_21: 8407341738153195129
+      SuitB-sharedassets0.assets-111_22: 4944551084500049989
+      SuitB-sharedassets0.assets-111_23: -1415768458970186111
+      SuitB-sharedassets0.assets-111_24: 3393847257247658064
+      SuitB-sharedassets0.assets-111_25: -184873902179036602
+      SuitB-sharedassets0.assets-111_26: -8176714869436888971
+      SuitB-sharedassets0.assets-111_27: 5101156229097371061
+      SuitB-sharedassets0.assets-111_28: 736852269635010738
+      SuitB-sharedassets0.assets-111_29: 193773587863454203
+      SuitB-sharedassets0.assets-111_3: -3928866236716921439
+      SuitB-sharedassets0.assets-111_30: -2506398164732238124
+      SuitB-sharedassets0.assets-111_31: 6149700966900607417
+      SuitB-sharedassets0.assets-111_32: -5051554669110119719
+      SuitB-sharedassets0.assets-111_33: -4862776576477051558
+      SuitB-sharedassets0.assets-111_34: 8645683037399432244
+      SuitB-sharedassets0.assets-111_35: -9220304478151506794
+      SuitB-sharedassets0.assets-111_36: -4747100026383558416
+      SuitB-sharedassets0.assets-111_37: -2956627756129501035
+      SuitB-sharedassets0.assets-111_38: 7855443911945732975
+      SuitB-sharedassets0.assets-111_39: 8108897556797609942
+      SuitB-sharedassets0.assets-111_4: 7430835485353683306
+      SuitB-sharedassets0.assets-111_40: 5868961598945155199
+      SuitB-sharedassets0.assets-111_41: -4695631756016272988
+      SuitB-sharedassets0.assets-111_42: 6709481309873017254
+      SuitB-sharedassets0.assets-111_43: -2535998229290549489
+      SuitB-sharedassets0.assets-111_44: -9173346952073210137
+      SuitB-sharedassets0.assets-111_45: 8948900947884809970
+      SuitB-sharedassets0.assets-111_46: 5898618245343269427
+      SuitB-sharedassets0.assets-111_47: -2925592836030544636
+      SuitB-sharedassets0.assets-111_48: 2371012085403364609
+      SuitB-sharedassets0.assets-111_49: 5850377269197664970
+      SuitB-sharedassets0.assets-111_5: 7251330711364052850
+      SuitB-sharedassets0.assets-111_50: 6486037719538641396
+      SuitB-sharedassets0.assets-111_51: 4386058187586971897
+      SuitB-sharedassets0.assets-111_52: -7917753102269761721
+      SuitB-sharedassets0.assets-111_53: 6039320867828660303
+      SuitB-sharedassets0.assets-111_54: -7017177514394275934
+      SuitB-sharedassets0.assets-111_55: -7882243502533161276
+      SuitB-sharedassets0.assets-111_56: 8934103909440742502
+      SuitB-sharedassets0.assets-111_57: 737568635486103382
+      SuitB-sharedassets0.assets-111_58: 6678424515967434342
+      SuitB-sharedassets0.assets-111_59: 1268812342805978644
+      SuitB-sharedassets0.assets-111_6: -176358906774558915
+      SuitB-sharedassets0.assets-111_60: 4106940261081401746
+      SuitB-sharedassets0.assets-111_61: -5071901481362718830
+      SuitB-sharedassets0.assets-111_62: 955788589708666326
+      SuitB-sharedassets0.assets-111_63: 3997896035056331607
+      SuitB-sharedassets0.assets-111_64: 3103753430939997022
+      SuitB-sharedassets0.assets-111_65: 2524145286801924590
+      SuitB-sharedassets0.assets-111_66: 5331279104995869838
+      SuitB-sharedassets0.assets-111_67: 3054903390318247977
+      SuitB-sharedassets0.assets-111_68: -5917425834185330986
+      SuitB-sharedassets0.assets-111_69: -8880817712872175503
+      SuitB-sharedassets0.assets-111_7: 5577322333667758989
+      SuitB-sharedassets0.assets-111_70: -7233845213313307570
+      SuitB-sharedassets0.assets-111_71: 8304437421400656021
+      SuitB-sharedassets0.assets-111_72: -3044924574074619595
+      SuitB-sharedassets0.assets-111_73: -2760507157837007211
+      SuitB-sharedassets0.assets-111_74: -3365022472253206527
+      SuitB-sharedassets0.assets-111_75: -8891592231488011282
+      SuitB-sharedassets0.assets-111_76: -4263235360132038005
+      SuitB-sharedassets0.assets-111_77: 8605227327159827908
+      SuitB-sharedassets0.assets-111_78: 6906939807517248878
+      SuitB-sharedassets0.assets-111_79: -1200897577679183141
+      SuitB-sharedassets0.assets-111_8: -4366339787954278518
+      SuitB-sharedassets0.assets-111_80: -7978099773209987511
+      SuitB-sharedassets0.assets-111_81: 6726551882251356730
+      SuitB-sharedassets0.assets-111_82: 258498661937824294
+      SuitB-sharedassets0.assets-111_83: -5085952933792790446
+      SuitB-sharedassets0.assets-111_84: -718220479829971849
+      SuitB-sharedassets0.assets-111_85: -6664975769178227833
+      SuitB-sharedassets0.assets-111_86: -6985562221297657541
+      SuitB-sharedassets0.assets-111_87: 626369328197972891
+      SuitB-sharedassets0.assets-111_88: 1958581526135561250
+      SuitB-sharedassets0.assets-111_89: 8493727529715091872
+      SuitB-sharedassets0.assets-111_9: -7012718697534895234
+      SuitB-sharedassets0.assets-111_90: -7376501630149739175
+      SuitB-sharedassets0.assets-111_91: 8500181674089090531
+      SuitB-sharedassets0.assets-111_92: 3971237737267227683
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

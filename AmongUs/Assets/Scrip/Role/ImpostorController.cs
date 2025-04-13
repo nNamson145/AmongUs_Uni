@@ -11,26 +11,27 @@ public class ImpostorController : NetworkBehaviour, IImpostor
         controller = GetComponent<PlayerController>();
     }
 
+    public void TickRole()
+    {
+    }
+
+    
 #region Kill
     public void Kill()
     {
-        if (controller.hitCollisionObj == null)
+        if (controller.currentObjHit == null)
         {
             Debug.Log("[CLIENT] hitCollisionObj is null");
             return;
         }
 
-        if (controller.hitCollisionObj.CompareTag("Player"))
+        if (controller.currentObjHit.CompareTag("Player"))
         {
-            ulong victimId = controller.hitCollisionObj.GetComponent<NetworkObject>().OwnerClientId;
-            Debug.Log("[CLIENT] Trying to kill player with ID: " + victimId);
+            ulong victimId = controller.currentObjHit.GetComponent<NetworkObject>().OwnerClientId;
+            Debug.Log("[CLIENT] Trying to kill player with ID: " + controller.currentObjHit.name);
             
             TryKillServerRpc(victimId);
         }
-        else
-        {
-            ulong victimId = controller.hitCollisionObj.GetComponent<NetworkObject>().OwnerClientId;
-            Debug.LogWarning("[CLIENT] Trying to kill player with ID: " + victimId);        }
     }
 
     [ServerRpc(RequireOwnership = false)]
@@ -53,15 +54,66 @@ public class ImpostorController : NetworkBehaviour, IImpostor
     }
 #endregion
 
+#region Sabotage
     public void Sabotage()
     {
 
     }
+#endregion
 
+#region Vent
     public bool CanUseVent()
     {
-        return true;
+        if(controller.currentObjHit == null) return false;
+        
+        if(controller.currentObjHit.CompareTag("Vent"))
+        {
+            Debug.Log(" true " +controller.currentObjHit.name);
+            return true;
+        }
+        Debug.Log(" false " + controller.currentObjHit.name);
+        return false;
     }
 
+    public void UseVent()
+    {
+        if (CanUseVent())
+        {
+            UseVentServerRpc();
+        }
+        else
+        {
+            Debug.LogError("bool can use vent is false");
+        }
+    }
 
+    [ServerRpc(AllowTargetOverride = false)]
+    public void UseVentServerRpc()
+    {
+        var netObj = GetComponent<NetworkObject>();
+        if (netObj == null)
+        {
+            Debug.LogError("[SERVER RPC] Missing NetworkObject on ImpostorController!");
+            return;
+        }
+
+        if (controller.currentObjHit == null)
+        {
+            Debug.LogWarning("[SERVER RPC] No currentObjHit found.");
+            return;
+        }
+
+        var vent = controller.currentObjHit.GetComponent<Vent>();
+        if (vent == null)
+        {
+            Debug.LogWarning("[SERVER RPC] Hit object is not a Vent.");
+            return;
+        }
+
+        vent.TeleportToVent(controller);
+        Debug.LogWarning($"[SERVER RPC] Client {netObj.OwnerClientId} teleported to vent.");
+        
+    }
+
+#endregion
 }

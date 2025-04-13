@@ -33,7 +33,7 @@ public class GameManager : NetworkBehaviour
 
 
 
-    #region REGISTER PLAYER
+#region REGISTER PLAYER
     public void RegisterPlayer(PlayerController player)
     {
         if(!playerMap.ContainsKey(player.OwnerClientId))
@@ -50,15 +50,39 @@ public class GameManager : NetworkBehaviour
     {
         return playerMap.TryGetValue(playerId, out var player) ? player : null;
     }
-    #endregion
+    
 
+    
+#endregion
 
-    #region KILL PLAYER
+    public void AssignRole(PlayerController player)
+    {
+        
+        PlayerController.RoleType randomRole = Random.value < 0.5f ? PlayerController.RoleType.Impostor : PlayerController.RoleType.Crewmate;
+
+        player.roleType.Value = randomRole;
+
+        // Add role component
+        switch (randomRole)
+        {
+            case PlayerController.RoleType.Impostor:
+                player.role = player.gameObject.AddComponent<ImpostorController>();
+                break;
+            case PlayerController.RoleType.Crewmate:
+                player.role = player.gameObject.AddComponent<CrewmateController>();
+                break;
+            default:
+                Debug.LogWarning("Unknown role assigned!");
+                break;
+        }
+    }
+
+#region KILL PLAYER
     public void SpawnDeadBody(Vector2 spawnPos)
     {
         GameObject body = Instantiate(deadBodyPrefab, spawnPos, Quaternion.identity);
         body.GetComponent<NetworkObject>().Spawn();
     }
 
-    #endregion
+#endregion
 }

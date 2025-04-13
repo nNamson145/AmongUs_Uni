@@ -229,6 +229,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1147,7 +1160,48 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VCR_0-sharedassets0.assets-130_0: 8760201104818349631
+      VCR_0-sharedassets0.assets-130_1: 828280192194862969
+      VCR_0-sharedassets0.assets-130_10: 1247057225138898630
+      VCR_0-sharedassets0.assets-130_11: -6035852076384392319
+      VCR_0-sharedassets0.assets-130_12: 121935890624909201
+      VCR_0-sharedassets0.assets-130_13: 576248961259925803
+      VCR_0-sharedassets0.assets-130_14: 7429733429971390622
+      VCR_0-sharedassets0.assets-130_15: 759076565255943346
+      VCR_0-sharedassets0.assets-130_16: -144491125698050517
+      VCR_0-sharedassets0.assets-130_17: 6603059762083926990
+      VCR_0-sharedassets0.assets-130_18: 7490369808580140569
+      VCR_0-sharedassets0.assets-130_19: 4718933058522958668
+      VCR_0-sharedassets0.assets-130_2: 2907722580279389557
+      VCR_0-sharedassets0.assets-130_20: -2804320695271653067
+      VCR_0-sharedassets0.assets-130_21: -6331526893285025115
+      VCR_0-sharedassets0.assets-130_22: 6660578239063014642
+      VCR_0-sharedassets0.assets-130_23: -7066569564039297566
+      VCR_0-sharedassets0.assets-130_24: 6525430628773236076
+      VCR_0-sharedassets0.assets-130_25: 1511029875836396976
+      VCR_0-sharedassets0.assets-130_26: -8274828875359462335
+      VCR_0-sharedassets0.assets-130_27: -6031328142843524603
+      VCR_0-sharedassets0.assets-130_28: 3318446513861735618
+      VCR_0-sharedassets0.assets-130_29: 8926918674547211696
+      VCR_0-sharedassets0.assets-130_3: 7155272501180271878
+      VCR_0-sharedassets0.assets-130_30: 19767125352624660
+      VCR_0-sharedassets0.assets-130_31: -7440637601352339051
+      VCR_0-sharedassets0.assets-130_32: -8562370955326873358
+      VCR_0-sharedassets0.assets-130_33: 7604134719128302276
+      VCR_0-sharedassets0.assets-130_34: -256006892329481181
+      VCR_0-sharedassets0.assets-130_35: -6483490640763982269
+      VCR_0-sharedassets0.assets-130_36: -185137154258674081
+      VCR_0-sharedassets0.assets-130_37: -6517611412657469610
+      VCR_0-sharedassets0.assets-130_38: 4160233746961380738
+      VCR_0-sharedassets0.assets-130_39: -5774068609705824144
+      VCR_0-sharedassets0.assets-130_4: -3481861260667633986
+      VCR_0-sharedassets0.assets-130_40: -1947515858662184488
+      VCR_0-sharedassets0.assets-130_5: -259336038603200220
+      VCR_0-sharedassets0.assets-130_6: 4561347904826426653
+      VCR_0-sharedassets0.assets-130_7: 6177388675907634020
+      VCR_0-sharedassets0.assets-130_8: -6337277090006680
+      VCR_0-sharedassets0.assets-130_9: -8127812760035414328
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

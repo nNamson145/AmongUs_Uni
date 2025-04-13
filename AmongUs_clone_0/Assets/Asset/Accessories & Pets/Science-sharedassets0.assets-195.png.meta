@@ -388,6 +388,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2472,7 +2485,101 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Science-sharedassets0.assets-195_0: 5359463451625861904
+      Science-sharedassets0.assets-195_1: 8593129811071546650
+      Science-sharedassets0.assets-195_10: -6596712715233584273
+      Science-sharedassets0.assets-195_11: -2950324916051847266
+      Science-sharedassets0.assets-195_12: 6902914047982849502
+      Science-sharedassets0.assets-195_13: -8701221445776509003
+      Science-sharedassets0.assets-195_14: 5550279954841107923
+      Science-sharedassets0.assets-195_15: 442249766973093990
+      Science-sharedassets0.assets-195_16: 8135410131953824501
+      Science-sharedassets0.assets-195_17: 8372647751712575073
+      Science-sharedassets0.assets-195_18: 8243600823841980954
+      Science-sharedassets0.assets-195_19: -3522119851786752468
+      Science-sharedassets0.assets-195_2: 7350233804052407821
+      Science-sharedassets0.assets-195_20: -4770125072427695674
+      Science-sharedassets0.assets-195_21: 7213803355563235159
+      Science-sharedassets0.assets-195_22: 5810516597103969274
+      Science-sharedassets0.assets-195_23: 5026228295752989129
+      Science-sharedassets0.assets-195_24: 5265922012443738737
+      Science-sharedassets0.assets-195_25: 8093937303583093983
+      Science-sharedassets0.assets-195_26: -2737725576084737110
+      Science-sharedassets0.assets-195_27: -2714425164718938705
+      Science-sharedassets0.assets-195_28: 7624516689141502276
+      Science-sharedassets0.assets-195_29: 6166354229641905830
+      Science-sharedassets0.assets-195_3: -412811277104989690
+      Science-sharedassets0.assets-195_30: -7381068017315161908
+      Science-sharedassets0.assets-195_31: -2751578922804189518
+      Science-sharedassets0.assets-195_32: -617540116975143431
+      Science-sharedassets0.assets-195_33: -4112637088714226257
+      Science-sharedassets0.assets-195_34: -9216304993395401016
+      Science-sharedassets0.assets-195_35: -1212787822885477202
+      Science-sharedassets0.assets-195_36: 430994118898804730
+      Science-sharedassets0.assets-195_37: -465346433142138674
+      Science-sharedassets0.assets-195_38: 4522775445094415332
+      Science-sharedassets0.assets-195_39: 5414516814477160280
+      Science-sharedassets0.assets-195_4: -5272678568589529992
+      Science-sharedassets0.assets-195_40: -3660739686512894933
+      Science-sharedassets0.assets-195_41: -4888297450280206198
+      Science-sharedassets0.assets-195_42: 6876441158148439395
+      Science-sharedassets0.assets-195_43: -3408298952646204783
+      Science-sharedassets0.assets-195_44: 9090870696086499032
+      Science-sharedassets0.assets-195_45: -137673805215270690
+      Science-sharedassets0.assets-195_46: 2554006752177672792
+      Science-sharedassets0.assets-195_47: 2998254160185660853
+      Science-sharedassets0.assets-195_48: 3169698762916264780
+      Science-sharedassets0.assets-195_49: 610603112613508319
+      Science-sharedassets0.assets-195_5: 6372881030785109746
+      Science-sharedassets0.assets-195_50: -2125582538793532570
+      Science-sharedassets0.assets-195_51: -2461089454717028142
+      Science-sharedassets0.assets-195_52: 7896707909151536070
+      Science-sharedassets0.assets-195_53: -1111645058615480919
+      Science-sharedassets0.assets-195_54: 6162889836111279523
+      Science-sharedassets0.assets-195_55: -3199719718344147171
+      Science-sharedassets0.assets-195_56: -3309138413166730341
+      Science-sharedassets0.assets-195_57: -474562459625065097
+      Science-sharedassets0.assets-195_58: 4249905715257580461
+      Science-sharedassets0.assets-195_59: -5123502977833489913
+      Science-sharedassets0.assets-195_6: 4616235844275787397
+      Science-sharedassets0.assets-195_60: 2439734830799150032
+      Science-sharedassets0.assets-195_61: -5815251313470780869
+      Science-sharedassets0.assets-195_62: -7267918024558802428
+      Science-sharedassets0.assets-195_63: 9116213687248542655
+      Science-sharedassets0.assets-195_64: -254134426710028170
+      Science-sharedassets0.assets-195_65: 469122713967098607
+      Science-sharedassets0.assets-195_66: -1015439742483085575
+      Science-sharedassets0.assets-195_67: -4929254643018440428
+      Science-sharedassets0.assets-195_68: 5970798370881189157
+      Science-sharedassets0.assets-195_69: 8637398603930743665
+      Science-sharedassets0.assets-195_7: 2846642307375757349
+      Science-sharedassets0.assets-195_70: 5263004956014296430
+      Science-sharedassets0.assets-195_71: -6044750141563196056
+      Science-sharedassets0.assets-195_72: -8241540195463242759
+      Science-sharedassets0.assets-195_73: 6971412197204411252
+      Science-sharedassets0.assets-195_74: -3284437816465352687
+      Science-sharedassets0.assets-195_75: -509550405119551496
+      Science-sharedassets0.assets-195_76: -8340646458178581188
+      Science-sharedassets0.assets-195_77: -5971109622473954232
+      Science-sharedassets0.assets-195_78: -6822164467797186022
+      Science-sharedassets0.assets-195_79: -2671388532047379393
+      Science-sharedassets0.assets-195_8: -8359698013275054969
+      Science-sharedassets0.assets-195_80: -1718064203805155133
+      Science-sharedassets0.assets-195_81: -7641491983139628446
+      Science-sharedassets0.assets-195_82: -6552418489658439019
+      Science-sharedassets0.assets-195_83: -4392644434130896701
+      Science-sharedassets0.assets-195_84: -9127374539393452966
+      Science-sharedassets0.assets-195_85: 8662987925682533927
+      Science-sharedassets0.assets-195_86: -93126006087610083
+      Science-sharedassets0.assets-195_87: -3984717088681624757
+      Science-sharedassets0.assets-195_88: 817060388718885365
+      Science-sharedassets0.assets-195_89: 8966156822856534952
+      Science-sharedassets0.assets-195_9: -7568165447336348360
+      Science-sharedassets0.assets-195_90: 7831467421021171647
+      Science-sharedassets0.assets-195_91: -5778199214867332881
+      Science-sharedassets0.assets-195_92: 303202308082454214
+      Science-sharedassets0.assets-195_93: -1278912033691325526
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

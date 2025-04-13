@@ -121,6 +121,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -247,7 +260,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Weather-sharedassets0.assets-142_0: 281206222390258976
+      Weather-sharedassets0.assets-142_1: -8303658057163455091
+      Weather-sharedassets0.assets-142_2: -483854037709985802
+      Weather-sharedassets0.assets-142_3: 608688530879883472
+      Weather-sharedassets0.assets-142_4: 369238330972048772
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

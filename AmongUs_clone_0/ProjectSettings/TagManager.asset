@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Wall
   - DeadBody
+  - Vent
   layers:
   - Default
   - TransparentFX

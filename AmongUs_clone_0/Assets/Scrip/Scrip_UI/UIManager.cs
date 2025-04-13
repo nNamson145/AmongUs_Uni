@@ -29,6 +29,7 @@ public class UIManager : MonoBehaviour
     public void RegisterLocalPlayer(PlayerController controller)
     {
         localPlayer = controller;
+        Debug.Log("[CLIENT] Trying to register");
     }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -47,9 +48,9 @@ public class UIManager : MonoBehaviour
     //IMPOSTOR
     public void OnClickKill()
     {
-        if (localPlayer != null)
+        if (localPlayer != null )
         {
-            localPlayer.role.Kill();
+            localPlayer.GetComponent<ImpostorController>().Kill();
         }
         else
         {
@@ -64,7 +65,12 @@ public class UIManager : MonoBehaviour
 
     public void OnClickVent()
     {
-
+        if (localPlayer != null )
+        {
+            localPlayer.GetComponent<ImpostorController>().UseVent();
+            return;
+        }
+        Debug.LogError("Impostor can not use vent");
     }
 
     public void OnClickReport()

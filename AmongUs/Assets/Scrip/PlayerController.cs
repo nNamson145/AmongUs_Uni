@@ -4,10 +4,17 @@ using System.Data;
 using System.Globalization;
 using Unity.Netcode;
 using UnityEngine;
+using UnityEngine.Serialization;
 using static UIManager;
 
 public class PlayerController : NetworkBehaviour
 {
+    public enum RoleType
+    {
+        Crewmate,
+        Impostor
+    }
+    
     [SerializeField]
     private float movementSpeed = 2f;
 
@@ -15,20 +22,27 @@ public class PlayerController : NetworkBehaviour
 
     private Vector2 movementDirection;
 
-    public Collider2D hitCollisionObj;
+    public Collider2D currentObjHit;
 
     // Sync animation state
     private NetworkVariable<bool> isMoving = new NetworkVariable<bool>(false, NetworkVariableReadPermission.Everyone, NetworkVariableWritePermission.Owner);
 
     public NetworkVariable<bool> isDead = new NetworkVariable<bool>(false, NetworkVariableReadPermission.Everyone, NetworkVariableWritePermission.Server);
+    
+    // Sync role of player
+    public NetworkVariable<RoleType> roleType = new NetworkVariable<RoleType>(RoleType.Crewmate, NetworkVariableReadPermission.Everyone, NetworkVariableWritePermission.Server);
 
-    public IImpostor role;
+    public IRole role;
 
     public override void OnNetworkSpawn()
     {
         if (IsServer)
         {
             GameManager.instance.RegisterPlayer(this);
+            //random Role
+            GameManager.instance.AssignRole(this);
+            //role = gameObject.AddComponent<ImpostorController>();    
+
         }
 
         if (IsOwner)
@@ -44,8 +58,6 @@ public class PlayerController : NetworkBehaviour
 
         //get location to span
         transform.position = SpawnManager.instance.spawnPosition();
-
-        role = GetComponent<IImpostor>();
 
     }
 
@@ -80,6 +92,12 @@ public class PlayerController : NetworkBehaviour
         //flip sprite anim
         GetComponent<AnimationPlayer>().SetFlipByScale(horizontal);
         isMoving.Value = movementDirection != Vector2.zero;
+
+        /*if (currentObjHit != null)
+        {
+            Debug.Log(currentObjHit.name);
+        }*/
+        
     }
 
     void FixedUpdate()
@@ -87,6 +105,8 @@ public class PlayerController : NetworkBehaviour
         if (!IsOwner) return;
 
         rb.linearVelocity = movementDirection * movementSpeed;
+        
+        
     }
 
     void LateUpdate()
@@ -104,28 +124,43 @@ public class PlayerController : NetworkBehaviour
     {
         if(!IsOwner) return;
         
+        /*if (collision != currentObjHit)
+        {
+            currentObjHit = collision;
+        }*/
+
         if (collision.CompareTag("Player"))
         {
-            hitCollisionObj = collision;
+            currentObjHit = collision;
         }
         
-        /*if (collision.CompareTag("DeadBody"))
+        //Ui report
+        if (collision.CompareTag("DeadBody"))
         {
             UIManager.instance.SetButtonInteractable(namebutton.ButtonReport, true);
-        }*/
+        }
+
     }
 
     void OnTriggerExit2D(Collider2D collision)
     {
+        if (!IsOwner) return;
+
+        if (collision == currentObjHit)
+        {
+            currentObjHit = null;
+        }
+
         if (collision.CompareTag("Player"))
         {
-            hitCollisionObj = null;
         }
-        
-        /*if (collision.CompareTag("DeadBody"))
+
+        //Ui report
+        if (collision.CompareTag("DeadBody"))
         {
             UIManager.instance.SetButtonInteractable(namebutton.ButtonReport, false);
-        }*/
+        }
+
     }
 
     /*// IMPOSTOR

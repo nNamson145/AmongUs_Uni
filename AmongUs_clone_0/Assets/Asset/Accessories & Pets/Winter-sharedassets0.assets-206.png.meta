@@ -388,6 +388,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2472,7 +2485,101 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Winter-sharedassets0.assets-206_0: -6775390898069056894
+      Winter-sharedassets0.assets-206_1: 8351227026628673895
+      Winter-sharedassets0.assets-206_10: -6214292723155453074
+      Winter-sharedassets0.assets-206_11: -6280505251385340842
+      Winter-sharedassets0.assets-206_12: -8732393262138929988
+      Winter-sharedassets0.assets-206_13: 1032762176971952537
+      Winter-sharedassets0.assets-206_14: -1075335877817580197
+      Winter-sharedassets0.assets-206_15: -3944763073456875675
+      Winter-sharedassets0.assets-206_16: -1714810626011183678
+      Winter-sharedassets0.assets-206_17: 7156612210602468378
+      Winter-sharedassets0.assets-206_18: -5580292423837842387
+      Winter-sharedassets0.assets-206_19: 477998905710573316
+      Winter-sharedassets0.assets-206_2: 692863617323895202
+      Winter-sharedassets0.assets-206_20: -2852817904106327250
+      Winter-sharedassets0.assets-206_21: -3164769240961571783
+      Winter-sharedassets0.assets-206_22: -30694030124484595
+      Winter-sharedassets0.assets-206_23: 4787025948762361164
+      Winter-sharedassets0.assets-206_24: -7855588652543531846
+      Winter-sharedassets0.assets-206_25: 600729348497343004
+      Winter-sharedassets0.assets-206_26: 812597910324342751
+      Winter-sharedassets0.assets-206_27: -2708329996101862234
+      Winter-sharedassets0.assets-206_28: 3474722462420528757
+      Winter-sharedassets0.assets-206_29: 2322188133809035760
+      Winter-sharedassets0.assets-206_3: -2033029691911375045
+      Winter-sharedassets0.assets-206_30: -8177333216819318750
+      Winter-sharedassets0.assets-206_31: 7075425294630376415
+      Winter-sharedassets0.assets-206_32: -9074652839377352179
+      Winter-sharedassets0.assets-206_33: 6470540301151236869
+      Winter-sharedassets0.assets-206_34: -4049421934535170067
+      Winter-sharedassets0.assets-206_35: -5546857807657372580
+      Winter-sharedassets0.assets-206_36: 124564756280304932
+      Winter-sharedassets0.assets-206_37: 5895062394536027185
+      Winter-sharedassets0.assets-206_38: 8658480051865966141
+      Winter-sharedassets0.assets-206_39: -6198602939035137177
+      Winter-sharedassets0.assets-206_4: -1561746265326640605
+      Winter-sharedassets0.assets-206_40: -2885832528270984530
+      Winter-sharedassets0.assets-206_41: -5229452537828905078
+      Winter-sharedassets0.assets-206_42: -2723115245581296612
+      Winter-sharedassets0.assets-206_43: -2878628430949919542
+      Winter-sharedassets0.assets-206_44: -4349269445290902162
+      Winter-sharedassets0.assets-206_45: -9109797920649567151
+      Winter-sharedassets0.assets-206_46: -8144125380439679339
+      Winter-sharedassets0.assets-206_47: 8738607744194031330
+      Winter-sharedassets0.assets-206_48: -7878897594447266140
+      Winter-sharedassets0.assets-206_49: 3722139712480736390
+      Winter-sharedassets0.assets-206_5: -1264745088753903709
+      Winter-sharedassets0.assets-206_50: 5770737864460739543
+      Winter-sharedassets0.assets-206_51: 8717746266309882172
+      Winter-sharedassets0.assets-206_52: -814141227335830363
+      Winter-sharedassets0.assets-206_53: 7778243231791382198
+      Winter-sharedassets0.assets-206_54: 573669503285311804
+      Winter-sharedassets0.assets-206_55: -2627503412900439477
+      Winter-sharedassets0.assets-206_56: -8817165414503005948
+      Winter-sharedassets0.assets-206_57: 1428679765283319434
+      Winter-sharedassets0.assets-206_58: 5141281577546370870
+      Winter-sharedassets0.assets-206_59: -7012962874875926614
+      Winter-sharedassets0.assets-206_6: 8202518873822815423
+      Winter-sharedassets0.assets-206_60: 2848526672576809135
+      Winter-sharedassets0.assets-206_61: 6388344872762625949
+      Winter-sharedassets0.assets-206_62: -7643788640998296369
+      Winter-sharedassets0.assets-206_63: -3188579217462715265
+      Winter-sharedassets0.assets-206_64: 5726565697498631528
+      Winter-sharedassets0.assets-206_65: -2642899434350316498
+      Winter-sharedassets0.assets-206_66: -4796580853392077857
+      Winter-sharedassets0.assets-206_67: 2106757546595083266
+      Winter-sharedassets0.assets-206_68: 2884537126335813158
+      Winter-sharedassets0.assets-206_69: -5717757427319504411
+      Winter-sharedassets0.assets-206_7: -836102697737420853
+      Winter-sharedassets0.assets-206_70: -8206513347000447988
+      Winter-sharedassets0.assets-206_71: 7351395464773906164
+      Winter-sharedassets0.assets-206_72: -2298469706706331633
+      Winter-sharedassets0.assets-206_73: -3243654375344830519
+      Winter-sharedassets0.assets-206_74: 7264968343034825042
+      Winter-sharedassets0.assets-206_75: -6956553702132552569
+      Winter-sharedassets0.assets-206_76: 2865447912113308640
+      Winter-sharedassets0.assets-206_77: -1594008374558299566
+      Winter-sharedassets0.assets-206_78: 4727422528740908184
+      Winter-sharedassets0.assets-206_79: -2023176074788786614
+      Winter-sharedassets0.assets-206_8: -7067586791797873057
+      Winter-sharedassets0.assets-206_80: 5536293496096528802
+      Winter-sharedassets0.assets-206_81: 3254031777818496614
+      Winter-sharedassets0.assets-206_82: -2108942275274253905
+      Winter-sharedassets0.assets-206_83: -2479229636563804194
+      Winter-sharedassets0.assets-206_84: 6730932510989208547
+      Winter-sharedassets0.assets-206_85: -5402016654442662097
+      Winter-sharedassets0.assets-206_86: -8513119000247164026
+      Winter-sharedassets0.assets-206_87: -7187452307266735783
+      Winter-sharedassets0.assets-206_88: -3592464492029436368
+      Winter-sharedassets0.assets-206_89: 4555095684351724355
+      Winter-sharedassets0.assets-206_9: -7883896732755171030
+      Winter-sharedassets0.assets-206_90: 6515546540875092535
+      Winter-sharedassets0.assets-206_91: 2942887831650988029
+      Winter-sharedassets0.assets-206_92: 1792191731837466200
+      Winter-sharedassets0.assets-206_93: -3173878699481242764
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

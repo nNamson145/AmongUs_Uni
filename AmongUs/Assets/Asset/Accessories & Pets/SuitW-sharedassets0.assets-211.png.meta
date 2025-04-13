@@ -385,6 +385,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2447,7 +2460,100 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SuitW-sharedassets0.assets-211_0: 23931941692679802
+      SuitW-sharedassets0.assets-211_1: 1753365732114101094
+      SuitW-sharedassets0.assets-211_10: -4826763885605733474
+      SuitW-sharedassets0.assets-211_11: 2750847880059014863
+      SuitW-sharedassets0.assets-211_12: 8001065632698553877
+      SuitW-sharedassets0.assets-211_13: 252492623837335748
+      SuitW-sharedassets0.assets-211_14: 8621123725898350858
+      SuitW-sharedassets0.assets-211_15: -3390708133082995607
+      SuitW-sharedassets0.assets-211_16: -9155180774465510607
+      SuitW-sharedassets0.assets-211_17: -4397724164887404889
+      SuitW-sharedassets0.assets-211_18: 1261934939122528505
+      SuitW-sharedassets0.assets-211_19: 2371206026699739653
+      SuitW-sharedassets0.assets-211_2: -2363359519039698840
+      SuitW-sharedassets0.assets-211_20: -8137947282405840826
+      SuitW-sharedassets0.assets-211_21: 3428607026199472058
+      SuitW-sharedassets0.assets-211_22: -6808740428684174053
+      SuitW-sharedassets0.assets-211_23: -6726763392122438769
+      SuitW-sharedassets0.assets-211_24: 2180366471325898488
+      SuitW-sharedassets0.assets-211_25: -2616631156294637894
+      SuitW-sharedassets0.assets-211_26: 9186077986717532283
+      SuitW-sharedassets0.assets-211_27: 9030732175148094988
+      SuitW-sharedassets0.assets-211_28: 5527616798234172327
+      SuitW-sharedassets0.assets-211_29: -1189810698163212782
+      SuitW-sharedassets0.assets-211_3: -4562958291061629647
+      SuitW-sharedassets0.assets-211_30: -6372989515037220402
+      SuitW-sharedassets0.assets-211_31: -3520617575381718996
+      SuitW-sharedassets0.assets-211_32: -5343538633777631028
+      SuitW-sharedassets0.assets-211_33: 8140622178977587196
+      SuitW-sharedassets0.assets-211_34: 220150596793565791
+      SuitW-sharedassets0.assets-211_35: -4034741849401201029
+      SuitW-sharedassets0.assets-211_36: -579643775772299536
+      SuitW-sharedassets0.assets-211_37: 352265813294021170
+      SuitW-sharedassets0.assets-211_38: -3559002723538620670
+      SuitW-sharedassets0.assets-211_39: -4127173822139402319
+      SuitW-sharedassets0.assets-211_4: 7587466898547623937
+      SuitW-sharedassets0.assets-211_40: 2197024010095511438
+      SuitW-sharedassets0.assets-211_41: -5410644982485799292
+      SuitW-sharedassets0.assets-211_42: -2441974216535805109
+      SuitW-sharedassets0.assets-211_43: 2615526422548046326
+      SuitW-sharedassets0.assets-211_44: 6055324842702353624
+      SuitW-sharedassets0.assets-211_45: -6255329861878036177
+      SuitW-sharedassets0.assets-211_46: -8602855210791134129
+      SuitW-sharedassets0.assets-211_47: 8567737371600849496
+      SuitW-sharedassets0.assets-211_48: -1309602062810980671
+      SuitW-sharedassets0.assets-211_49: -6126907855028446692
+      SuitW-sharedassets0.assets-211_5: -4621486525209616894
+      SuitW-sharedassets0.assets-211_50: -3290107420186292462
+      SuitW-sharedassets0.assets-211_51: 4665679202798730456
+      SuitW-sharedassets0.assets-211_52: 5948621475264166069
+      SuitW-sharedassets0.assets-211_53: -5739784214276416249
+      SuitW-sharedassets0.assets-211_54: -2365857034392978425
+      SuitW-sharedassets0.assets-211_55: 6304890553155690504
+      SuitW-sharedassets0.assets-211_56: -4585197539089465900
+      SuitW-sharedassets0.assets-211_57: -558746903763666491
+      SuitW-sharedassets0.assets-211_58: 7985926898282683265
+      SuitW-sharedassets0.assets-211_59: 3771387306200963251
+      SuitW-sharedassets0.assets-211_6: 3297904074511729861
+      SuitW-sharedassets0.assets-211_60: 5981904994216881727
+      SuitW-sharedassets0.assets-211_61: 6892595547080295897
+      SuitW-sharedassets0.assets-211_62: 4480019966184376491
+      SuitW-sharedassets0.assets-211_63: 3976675188736980390
+      SuitW-sharedassets0.assets-211_64: 4597510068423630849
+      SuitW-sharedassets0.assets-211_65: 7804393208296505661
+      SuitW-sharedassets0.assets-211_66: -2963325756789161263
+      SuitW-sharedassets0.assets-211_67: -1706181027760835116
+      SuitW-sharedassets0.assets-211_68: -4100590028777482193
+      SuitW-sharedassets0.assets-211_69: -2019383267698115669
+      SuitW-sharedassets0.assets-211_7: 8822089863887519736
+      SuitW-sharedassets0.assets-211_70: -1565697883463270313
+      SuitW-sharedassets0.assets-211_71: 6979675486864558874
+      SuitW-sharedassets0.assets-211_72: -6636572743971382053
+      SuitW-sharedassets0.assets-211_73: -8034046703363463260
+      SuitW-sharedassets0.assets-211_74: 3713520286201349583
+      SuitW-sharedassets0.assets-211_75: 8907148065854620288
+      SuitW-sharedassets0.assets-211_76: 5061008103631431015
+      SuitW-sharedassets0.assets-211_77: 376006138815928677
+      SuitW-sharedassets0.assets-211_78: 4957721242316075799
+      SuitW-sharedassets0.assets-211_79: 3573549252342547874
+      SuitW-sharedassets0.assets-211_8: -7153337530942735970
+      SuitW-sharedassets0.assets-211_80: -5919336878508338299
+      SuitW-sharedassets0.assets-211_81: -6582282046549101677
+      SuitW-sharedassets0.assets-211_82: -8298816756705094255
+      SuitW-sharedassets0.assets-211_83: -1368687926644777352
+      SuitW-sharedassets0.assets-211_84: 2821200328827903807
+      SuitW-sharedassets0.assets-211_85: 2817089247016090698
+      SuitW-sharedassets0.assets-211_86: 7636105962965709122
+      SuitW-sharedassets0.assets-211_87: -837348426221661696
+      SuitW-sharedassets0.assets-211_88: -9212474441951468244
+      SuitW-sharedassets0.assets-211_89: 4376663840010610800
+      SuitW-sharedassets0.assets-211_9: 7101834514352092832
+      SuitW-sharedassets0.assets-211_90: -4865632757954615073
+      SuitW-sharedassets0.assets-211_91: 5205989071329486059
+      SuitW-sharedassets0.assets-211_92: 1855322444071573389
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

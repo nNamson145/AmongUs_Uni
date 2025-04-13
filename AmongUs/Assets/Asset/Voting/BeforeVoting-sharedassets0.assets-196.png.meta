@@ -175,6 +175,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -697,7 +710,30 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BeforeVoting-sharedassets0.assets-196_0: -7578984258759992998
+      BeforeVoting-sharedassets0.assets-196_1: 4808389042845954785
+      BeforeVoting-sharedassets0.assets-196_10: -377734678856472497
+      BeforeVoting-sharedassets0.assets-196_11: -3436936426209969250
+      BeforeVoting-sharedassets0.assets-196_12: -4501395811419234948
+      BeforeVoting-sharedassets0.assets-196_13: 3938088952818309272
+      BeforeVoting-sharedassets0.assets-196_14: 502544403109625255
+      BeforeVoting-sharedassets0.assets-196_15: -6344799210862731209
+      BeforeVoting-sharedassets0.assets-196_16: 1132449747182134554
+      BeforeVoting-sharedassets0.assets-196_17: 4938755724377763790
+      BeforeVoting-sharedassets0.assets-196_18: 2905237979096851969
+      BeforeVoting-sharedassets0.assets-196_19: 7084854816199153400
+      BeforeVoting-sharedassets0.assets-196_2: -1009459973547029953
+      BeforeVoting-sharedassets0.assets-196_20: 3709909405602590371
+      BeforeVoting-sharedassets0.assets-196_21: 2293701078587773598
+      BeforeVoting-sharedassets0.assets-196_22: -7762684970125522418
+      BeforeVoting-sharedassets0.assets-196_3: -7843827898176585945
+      BeforeVoting-sharedassets0.assets-196_4: -4119384962479971523
+      BeforeVoting-sharedassets0.assets-196_5: -6337438945428001608
+      BeforeVoting-sharedassets0.assets-196_6: -7984227553969574951
+      BeforeVoting-sharedassets0.assets-196_7: 3874248218147906589
+      BeforeVoting-sharedassets0.assets-196_8: -5892254301118338582
+      BeforeVoting-sharedassets0.assets-196_9: 4395741296028655984
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

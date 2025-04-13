@@ -385,6 +385,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2447,7 +2460,100 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tarmac-sharedassets0.assets-155_0: -6477971399870642243
+      Tarmac-sharedassets0.assets-155_1: -7730650632825898090
+      Tarmac-sharedassets0.assets-155_10: 8842463534777850189
+      Tarmac-sharedassets0.assets-155_11: -172260326302209417
+      Tarmac-sharedassets0.assets-155_12: -329484054093904295
+      Tarmac-sharedassets0.assets-155_13: -2282333676312639298
+      Tarmac-sharedassets0.assets-155_14: 5178902275416144349
+      Tarmac-sharedassets0.assets-155_15: 7787415879159674188
+      Tarmac-sharedassets0.assets-155_16: -8929682722125620351
+      Tarmac-sharedassets0.assets-155_17: -5856137666106855550
+      Tarmac-sharedassets0.assets-155_18: -4712547053692817415
+      Tarmac-sharedassets0.assets-155_19: -8655953775779055574
+      Tarmac-sharedassets0.assets-155_2: 240244091074654339
+      Tarmac-sharedassets0.assets-155_20: -7641150559420833267
+      Tarmac-sharedassets0.assets-155_21: 7466251600382212701
+      Tarmac-sharedassets0.assets-155_22: 4529719029006814945
+      Tarmac-sharedassets0.assets-155_23: -7793012025598442413
+      Tarmac-sharedassets0.assets-155_24: -229205936328696581
+      Tarmac-sharedassets0.assets-155_25: 3446213730518613559
+      Tarmac-sharedassets0.assets-155_26: -7559278692391798416
+      Tarmac-sharedassets0.assets-155_27: -3383304155502121839
+      Tarmac-sharedassets0.assets-155_28: 8855151674106068787
+      Tarmac-sharedassets0.assets-155_29: -1342367337718991656
+      Tarmac-sharedassets0.assets-155_3: 402327187506463627
+      Tarmac-sharedassets0.assets-155_30: -5064870780537056291
+      Tarmac-sharedassets0.assets-155_31: 8823388665903163176
+      Tarmac-sharedassets0.assets-155_32: -3301691653909834791
+      Tarmac-sharedassets0.assets-155_33: -615388239724446832
+      Tarmac-sharedassets0.assets-155_34: -4805145621105905696
+      Tarmac-sharedassets0.assets-155_35: -985830524711170934
+      Tarmac-sharedassets0.assets-155_36: 6655241555424657156
+      Tarmac-sharedassets0.assets-155_37: -3433530085131656169
+      Tarmac-sharedassets0.assets-155_38: 952468093915489569
+      Tarmac-sharedassets0.assets-155_39: 1018514497798398593
+      Tarmac-sharedassets0.assets-155_4: 4849041173438562311
+      Tarmac-sharedassets0.assets-155_40: 3697593866293400194
+      Tarmac-sharedassets0.assets-155_41: 3249798049100450720
+      Tarmac-sharedassets0.assets-155_42: 1492484073999628257
+      Tarmac-sharedassets0.assets-155_43: -6946217740539000559
+      Tarmac-sharedassets0.assets-155_44: 451351116186291630
+      Tarmac-sharedassets0.assets-155_45: 6207850548674888000
+      Tarmac-sharedassets0.assets-155_46: 6920292781528223896
+      Tarmac-sharedassets0.assets-155_47: -4144200523912787416
+      Tarmac-sharedassets0.assets-155_48: -572684236810511698
+      Tarmac-sharedassets0.assets-155_49: -3826690225354076842
+      Tarmac-sharedassets0.assets-155_5: 3932254204547502660
+      Tarmac-sharedassets0.assets-155_50: 3442578290759789157
+      Tarmac-sharedassets0.assets-155_51: -6157701292457152131
+      Tarmac-sharedassets0.assets-155_52: 2110144665879790425
+      Tarmac-sharedassets0.assets-155_53: 5112815266448241770
+      Tarmac-sharedassets0.assets-155_54: 156511880579976596
+      Tarmac-sharedassets0.assets-155_55: 2782452132506366801
+      Tarmac-sharedassets0.assets-155_56: 5649725502857125436
+      Tarmac-sharedassets0.assets-155_57: 8288510422185865601
+      Tarmac-sharedassets0.assets-155_58: 1202678911188509220
+      Tarmac-sharedassets0.assets-155_59: -1664148752110592597
+      Tarmac-sharedassets0.assets-155_6: -8891388584770119156
+      Tarmac-sharedassets0.assets-155_60: -9053716011464609252
+      Tarmac-sharedassets0.assets-155_61: 610440949804774191
+      Tarmac-sharedassets0.assets-155_62: -3673809455323889593
+      Tarmac-sharedassets0.assets-155_63: 4538573850053807800
+      Tarmac-sharedassets0.assets-155_64: -3140304999725294156
+      Tarmac-sharedassets0.assets-155_65: 5052763533629771564
+      Tarmac-sharedassets0.assets-155_66: 7707516332455779072
+      Tarmac-sharedassets0.assets-155_67: -3574972059834603731
+      Tarmac-sharedassets0.assets-155_68: -4126205479291864918
+      Tarmac-sharedassets0.assets-155_69: -1602767476461003621
+      Tarmac-sharedassets0.assets-155_7: -6392899109319509544
+      Tarmac-sharedassets0.assets-155_70: 3370587118953921870
+      Tarmac-sharedassets0.assets-155_71: 1276212978345757276
+      Tarmac-sharedassets0.assets-155_72: 1717873015661803079
+      Tarmac-sharedassets0.assets-155_73: 3129020308879183041
+      Tarmac-sharedassets0.assets-155_74: -6607250968167829565
+      Tarmac-sharedassets0.assets-155_75: -2932338120781811440
+      Tarmac-sharedassets0.assets-155_76: -4230035808835133612
+      Tarmac-sharedassets0.assets-155_77: -4150354929740193722
+      Tarmac-sharedassets0.assets-155_78: -583237980581984575
+      Tarmac-sharedassets0.assets-155_79: -8542177467087113355
+      Tarmac-sharedassets0.assets-155_8: 1362784797123198827
+      Tarmac-sharedassets0.assets-155_80: -5246352629022908330
+      Tarmac-sharedassets0.assets-155_81: -890263807328816236
+      Tarmac-sharedassets0.assets-155_82: 4774243691122097935
+      Tarmac-sharedassets0.assets-155_83: -2226436659084756530
+      Tarmac-sharedassets0.assets-155_84: -2474328284363220912
+      Tarmac-sharedassets0.assets-155_85: 4763110152499181917
+      Tarmac-sharedassets0.assets-155_86: 7508761369049155712
+      Tarmac-sharedassets0.assets-155_87: -5668075466997418565
+      Tarmac-sharedassets0.assets-155_88: 2005708603451659185
+      Tarmac-sharedassets0.assets-155_89: 4446396014013775577
+      Tarmac-sharedassets0.assets-155_9: 7666701789944513847
+      Tarmac-sharedassets0.assets-155_90: 4391373116061617267
+      Tarmac-sharedassets0.assets-155_91: 8207871177905965133
+      Tarmac-sharedassets0.assets-155_92: -7439125100734407913
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -406,6 +406,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2622,7 +2635,107 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Police-sharedassets0.assets-194_0: 3154119321256145980
+      Police-sharedassets0.assets-194_1: -6305293645366551912
+      Police-sharedassets0.assets-194_10: -3203073112339777175
+      Police-sharedassets0.assets-194_11: 2293705608315211150
+      Police-sharedassets0.assets-194_12: 3501503944994109743
+      Police-sharedassets0.assets-194_13: 808322734824290807
+      Police-sharedassets0.assets-194_14: 3257482134234431919
+      Police-sharedassets0.assets-194_15: -1644436778516375419
+      Police-sharedassets0.assets-194_16: 8267748755619108558
+      Police-sharedassets0.assets-194_17: 4495502014532482260
+      Police-sharedassets0.assets-194_18: -184947069608432800
+      Police-sharedassets0.assets-194_19: -5753015621341398806
+      Police-sharedassets0.assets-194_2: -3208636142797095054
+      Police-sharedassets0.assets-194_20: -6464924396023166445
+      Police-sharedassets0.assets-194_21: 8609901387923211923
+      Police-sharedassets0.assets-194_22: 4601866873253807567
+      Police-sharedassets0.assets-194_23: -2984685197903679133
+      Police-sharedassets0.assets-194_24: -6107065716669094222
+      Police-sharedassets0.assets-194_25: 1434151650319553544
+      Police-sharedassets0.assets-194_26: 1485857197112201979
+      Police-sharedassets0.assets-194_27: -476804289629602502
+      Police-sharedassets0.assets-194_28: 2262259836571192151
+      Police-sharedassets0.assets-194_29: 2515737275580804529
+      Police-sharedassets0.assets-194_3: -429480629941093684
+      Police-sharedassets0.assets-194_30: 8644464042304630746
+      Police-sharedassets0.assets-194_31: -1477454784106708997
+      Police-sharedassets0.assets-194_32: 5418471923066514647
+      Police-sharedassets0.assets-194_33: 8360814333154966286
+      Police-sharedassets0.assets-194_34: -4771647209781729015
+      Police-sharedassets0.assets-194_35: 22298878076115004
+      Police-sharedassets0.assets-194_36: 790030335251999364
+      Police-sharedassets0.assets-194_37: 8020721386221704482
+      Police-sharedassets0.assets-194_38: 8857147716327193461
+      Police-sharedassets0.assets-194_39: 4649029210326516123
+      Police-sharedassets0.assets-194_4: -2485271678212538458
+      Police-sharedassets0.assets-194_40: 770731311184306602
+      Police-sharedassets0.assets-194_41: -324201782855665450
+      Police-sharedassets0.assets-194_42: 9121813040499898362
+      Police-sharedassets0.assets-194_43: 8565355868472952504
+      Police-sharedassets0.assets-194_44: -3682255785271371714
+      Police-sharedassets0.assets-194_45: -4745150437487043363
+      Police-sharedassets0.assets-194_46: -1244888699062900818
+      Police-sharedassets0.assets-194_47: -4806113718668760176
+      Police-sharedassets0.assets-194_48: -7041204151640140013
+      Police-sharedassets0.assets-194_49: -3052333690842081860
+      Police-sharedassets0.assets-194_5: -4692585118496698215
+      Police-sharedassets0.assets-194_50: -4981763356819875177
+      Police-sharedassets0.assets-194_51: 818838862764088559
+      Police-sharedassets0.assets-194_52: 201494397100062030
+      Police-sharedassets0.assets-194_53: -6555570475324632612
+      Police-sharedassets0.assets-194_54: 8800411089757142397
+      Police-sharedassets0.assets-194_55: -2219249463877096778
+      Police-sharedassets0.assets-194_56: -6523148763477720512
+      Police-sharedassets0.assets-194_57: -3452961488702261713
+      Police-sharedassets0.assets-194_58: 8136415781825894207
+      Police-sharedassets0.assets-194_59: -6704515459927674263
+      Police-sharedassets0.assets-194_6: -2075605213257853072
+      Police-sharedassets0.assets-194_60: -947002568558071595
+      Police-sharedassets0.assets-194_61: 2501870919880500179
+      Police-sharedassets0.assets-194_62: -3620880663229180944
+      Police-sharedassets0.assets-194_63: -3204738415948239143
+      Police-sharedassets0.assets-194_64: 7106707924658318387
+      Police-sharedassets0.assets-194_65: 4567523792761560092
+      Police-sharedassets0.assets-194_66: 1375661487010348261
+      Police-sharedassets0.assets-194_67: 464332430678944769
+      Police-sharedassets0.assets-194_68: -8283282929352172516
+      Police-sharedassets0.assets-194_69: 7815539611025780044
+      Police-sharedassets0.assets-194_7: 155195806198172979
+      Police-sharedassets0.assets-194_70: -761877808506750750
+      Police-sharedassets0.assets-194_71: -3457116339038148469
+      Police-sharedassets0.assets-194_72: -7195614949537945029
+      Police-sharedassets0.assets-194_73: -9186423605975463211
+      Police-sharedassets0.assets-194_74: 1325280132653846836
+      Police-sharedassets0.assets-194_75: 7422604553833066485
+      Police-sharedassets0.assets-194_76: 7024274435106208558
+      Police-sharedassets0.assets-194_77: -4814404340231135494
+      Police-sharedassets0.assets-194_78: -6928052422997892279
+      Police-sharedassets0.assets-194_79: 768436252163468087
+      Police-sharedassets0.assets-194_8: 6307669168178509137
+      Police-sharedassets0.assets-194_80: 6214449575550550482
+      Police-sharedassets0.assets-194_81: 2299344065507248532
+      Police-sharedassets0.assets-194_82: 3981439576886102188
+      Police-sharedassets0.assets-194_83: 1845513119725056184
+      Police-sharedassets0.assets-194_84: -1109679605745887520
+      Police-sharedassets0.assets-194_85: 7094788811943366653
+      Police-sharedassets0.assets-194_86: -8599661221500243978
+      Police-sharedassets0.assets-194_87: 528273308482125396
+      Police-sharedassets0.assets-194_88: -6434276044465524028
+      Police-sharedassets0.assets-194_89: -8872149453681751573
+      Police-sharedassets0.assets-194_9: -6261483276925709904
+      Police-sharedassets0.assets-194_90: -2261631909910018363
+      Police-sharedassets0.assets-194_91: -1103368440804738212
+      Police-sharedassets0.assets-194_92: 6748864524557752259
+      Police-sharedassets0.assets-194_93: -4182328056169692251
+      Police-sharedassets0.assets-194_94: -1763403401037394590
+      Police-sharedassets0.assets-194_95: -5837327301163746511
+      Police-sharedassets0.assets-194_96: -3144300646270578200
+      Police-sharedassets0.assets-194_97: -7707794035922932700
+      Police-sharedassets0.assets-194_98: -4648642954110535125
+      Police-sharedassets0.assets-194_99: 6077842475899831424
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

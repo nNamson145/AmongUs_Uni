@@ -385,6 +385,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2447,7 +2460,100 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mech-sharedassets0.assets-175_0: 7047412595066154084
+      Mech-sharedassets0.assets-175_1: 4236519394200253481
+      Mech-sharedassets0.assets-175_10: -7306091268979971152
+      Mech-sharedassets0.assets-175_11: 740069110992896647
+      Mech-sharedassets0.assets-175_12: -2397454283201839126
+      Mech-sharedassets0.assets-175_13: -2481181496171506186
+      Mech-sharedassets0.assets-175_14: 4071604580345650510
+      Mech-sharedassets0.assets-175_15: -9144004895951155129
+      Mech-sharedassets0.assets-175_16: -4306540690976064315
+      Mech-sharedassets0.assets-175_17: -7174930130159484082
+      Mech-sharedassets0.assets-175_18: 6900273913386134576
+      Mech-sharedassets0.assets-175_19: -3096936287751403806
+      Mech-sharedassets0.assets-175_2: -5246215122776561988
+      Mech-sharedassets0.assets-175_20: 301374729368874706
+      Mech-sharedassets0.assets-175_21: 7080325357556868759
+      Mech-sharedassets0.assets-175_22: -1883230858325292728
+      Mech-sharedassets0.assets-175_23: -6269899450768356878
+      Mech-sharedassets0.assets-175_24: 3747142433374137112
+      Mech-sharedassets0.assets-175_25: 6141272431186443118
+      Mech-sharedassets0.assets-175_26: 5493134833555826641
+      Mech-sharedassets0.assets-175_27: 7022802258930596478
+      Mech-sharedassets0.assets-175_28: -4168508247016921451
+      Mech-sharedassets0.assets-175_29: -4364713792228554854
+      Mech-sharedassets0.assets-175_3: 2098813285191654512
+      Mech-sharedassets0.assets-175_30: -605157699839317480
+      Mech-sharedassets0.assets-175_31: 7934996306887407903
+      Mech-sharedassets0.assets-175_32: 2271189180135642894
+      Mech-sharedassets0.assets-175_33: -3798419372545679391
+      Mech-sharedassets0.assets-175_34: 4572618196705129193
+      Mech-sharedassets0.assets-175_35: -1639712893940710856
+      Mech-sharedassets0.assets-175_36: -6275864165208213328
+      Mech-sharedassets0.assets-175_37: -1031910758278867306
+      Mech-sharedassets0.assets-175_38: 786548866842650453
+      Mech-sharedassets0.assets-175_39: 6762873730005089182
+      Mech-sharedassets0.assets-175_4: 4490744901192645055
+      Mech-sharedassets0.assets-175_40: -406861211275287673
+      Mech-sharedassets0.assets-175_41: -8536989701291193949
+      Mech-sharedassets0.assets-175_42: 4541929577006575726
+      Mech-sharedassets0.assets-175_43: 8219991165245174655
+      Mech-sharedassets0.assets-175_44: 6064510154392702290
+      Mech-sharedassets0.assets-175_45: -5479864648003431150
+      Mech-sharedassets0.assets-175_46: -663787812683933254
+      Mech-sharedassets0.assets-175_47: 7147651528974918931
+      Mech-sharedassets0.assets-175_48: -1352429266129776370
+      Mech-sharedassets0.assets-175_49: -290179057384615799
+      Mech-sharedassets0.assets-175_5: 6789134916350289328
+      Mech-sharedassets0.assets-175_50: 715563589689459664
+      Mech-sharedassets0.assets-175_51: 5981325408727645403
+      Mech-sharedassets0.assets-175_52: 1238115915778467724
+      Mech-sharedassets0.assets-175_53: 774725887969029358
+      Mech-sharedassets0.assets-175_54: -685302124425934577
+      Mech-sharedassets0.assets-175_55: 7533098193484801871
+      Mech-sharedassets0.assets-175_56: -2096971534094742583
+      Mech-sharedassets0.assets-175_57: 9102877873175932970
+      Mech-sharedassets0.assets-175_58: 7245111969788461414
+      Mech-sharedassets0.assets-175_59: 6028860745519619509
+      Mech-sharedassets0.assets-175_6: 2316916594801651332
+      Mech-sharedassets0.assets-175_60: -6138981831193745870
+      Mech-sharedassets0.assets-175_61: 5677466903086764256
+      Mech-sharedassets0.assets-175_62: -7120051772945477513
+      Mech-sharedassets0.assets-175_63: -3956632153153457887
+      Mech-sharedassets0.assets-175_64: -458811850528388011
+      Mech-sharedassets0.assets-175_65: 5680035340826460569
+      Mech-sharedassets0.assets-175_66: 7923091880340873436
+      Mech-sharedassets0.assets-175_67: -8056206208997092537
+      Mech-sharedassets0.assets-175_68: 2304521691844321095
+      Mech-sharedassets0.assets-175_69: -7198708009609739206
+      Mech-sharedassets0.assets-175_7: -311256263633890015
+      Mech-sharedassets0.assets-175_70: 3924476429923970239
+      Mech-sharedassets0.assets-175_71: -2559017292628271139
+      Mech-sharedassets0.assets-175_72: -5919293381310825363
+      Mech-sharedassets0.assets-175_73: -6128902983398060440
+      Mech-sharedassets0.assets-175_74: -7533823561386662424
+      Mech-sharedassets0.assets-175_75: -80920574049101814
+      Mech-sharedassets0.assets-175_76: 2537055847259130695
+      Mech-sharedassets0.assets-175_77: -8430108334405078766
+      Mech-sharedassets0.assets-175_78: 8851784242632746632
+      Mech-sharedassets0.assets-175_79: 312843676706342211
+      Mech-sharedassets0.assets-175_8: -1960838934338271536
+      Mech-sharedassets0.assets-175_80: -6818469813173635256
+      Mech-sharedassets0.assets-175_81: -7782370760833883295
+      Mech-sharedassets0.assets-175_82: -5063582185083296102
+      Mech-sharedassets0.assets-175_83: 7016187762807852534
+      Mech-sharedassets0.assets-175_84: 7638648718763714425
+      Mech-sharedassets0.assets-175_85: -5004551015406287126
+      Mech-sharedassets0.assets-175_86: 7127925784033383320
+      Mech-sharedassets0.assets-175_87: 8786027476240022903
+      Mech-sharedassets0.assets-175_88: -9037651811898652001
+      Mech-sharedassets0.assets-175_89: -285565744166200249
+      Mech-sharedassets0.assets-175_9: -4677096688814696614
+      Mech-sharedassets0.assets-175_90: 4828199037806683690
+      Mech-sharedassets0.assets-175_91: -5776576030297361509
+      Mech-sharedassets0.assets-175_92: 4227229747919178196
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

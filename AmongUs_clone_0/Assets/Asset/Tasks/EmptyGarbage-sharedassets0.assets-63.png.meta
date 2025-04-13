@@ -220,6 +220,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1072,7 +1085,45 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      EmptyGarbage-sharedassets0.assets-63_0: -5685939294906800424
+      EmptyGarbage-sharedassets0.assets-63_1: 3449748778053986508
+      EmptyGarbage-sharedassets0.assets-63_10: 1502196528118639861
+      EmptyGarbage-sharedassets0.assets-63_11: 7416500388424535013
+      EmptyGarbage-sharedassets0.assets-63_12: -8177444372469304605
+      EmptyGarbage-sharedassets0.assets-63_13: -2784575348758218481
+      EmptyGarbage-sharedassets0.assets-63_14: 5787764872904048163
+      EmptyGarbage-sharedassets0.assets-63_15: -6232898116833123072
+      EmptyGarbage-sharedassets0.assets-63_16: 6788318371569448592
+      EmptyGarbage-sharedassets0.assets-63_17: -9125717709285397736
+      EmptyGarbage-sharedassets0.assets-63_18: 4923111937925955143
+      EmptyGarbage-sharedassets0.assets-63_19: -3680023011910288808
+      EmptyGarbage-sharedassets0.assets-63_2: -6987925302846861040
+      EmptyGarbage-sharedassets0.assets-63_20: -1425534779341856209
+      EmptyGarbage-sharedassets0.assets-63_21: -2610370408553172725
+      EmptyGarbage-sharedassets0.assets-63_22: -6963974943922137673
+      EmptyGarbage-sharedassets0.assets-63_23: -7088028699262651187
+      EmptyGarbage-sharedassets0.assets-63_24: 7039692096874572745
+      EmptyGarbage-sharedassets0.assets-63_25: 910386117186942687
+      EmptyGarbage-sharedassets0.assets-63_26: 7761972009194614922
+      EmptyGarbage-sharedassets0.assets-63_27: 2528133013370831964
+      EmptyGarbage-sharedassets0.assets-63_28: -2489578520973359982
+      EmptyGarbage-sharedassets0.assets-63_29: 7359263242169165006
+      EmptyGarbage-sharedassets0.assets-63_3: -6864037035081075405
+      EmptyGarbage-sharedassets0.assets-63_30: 8088401859195139639
+      EmptyGarbage-sharedassets0.assets-63_31: -1230024766357306559
+      EmptyGarbage-sharedassets0.assets-63_32: 4620435971798990866
+      EmptyGarbage-sharedassets0.assets-63_33: -2975723802097323430
+      EmptyGarbage-sharedassets0.assets-63_34: 6602959173899343472
+      EmptyGarbage-sharedassets0.assets-63_35: -1502450966235020385
+      EmptyGarbage-sharedassets0.assets-63_36: 6752475223231352075
+      EmptyGarbage-sharedassets0.assets-63_37: -8077353094503986260
+      EmptyGarbage-sharedassets0.assets-63_4: 3934834354014855177
+      EmptyGarbage-sharedassets0.assets-63_5: 4581909325111405409
+      EmptyGarbage-sharedassets0.assets-63_6: 8145300408731747965
+      EmptyGarbage-sharedassets0.assets-63_7: -7210936383383687262
+      EmptyGarbage-sharedassets0.assets-63_8: 218543789343011733
+      EmptyGarbage-sharedassets0.assets-63_9: -8876905847632044416
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -277,6 +277,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1547,7 +1560,64 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      engineAlign_engine-sharedassets0.assets-188_0: 5657742015069832263
+      engineAlign_engine-sharedassets0.assets-188_1: 6423295676119651985
+      engineAlign_engine-sharedassets0.assets-188_10: -7927009841538658299
+      engineAlign_engine-sharedassets0.assets-188_11: 7997403988239403505
+      engineAlign_engine-sharedassets0.assets-188_12: -3660258959625153985
+      engineAlign_engine-sharedassets0.assets-188_13: 5326373008328600016
+      engineAlign_engine-sharedassets0.assets-188_14: -4899138398868458076
+      engineAlign_engine-sharedassets0.assets-188_15: 6633834535816515305
+      engineAlign_engine-sharedassets0.assets-188_16: -8010079653983419339
+      engineAlign_engine-sharedassets0.assets-188_17: -6917431343255835182
+      engineAlign_engine-sharedassets0.assets-188_18: -8404443296921633119
+      engineAlign_engine-sharedassets0.assets-188_19: -8384734271879590597
+      engineAlign_engine-sharedassets0.assets-188_2: 4728610371821981244
+      engineAlign_engine-sharedassets0.assets-188_20: 7474757034286625270
+      engineAlign_engine-sharedassets0.assets-188_21: 2507381970353976401
+      engineAlign_engine-sharedassets0.assets-188_22: 6308005038439419833
+      engineAlign_engine-sharedassets0.assets-188_23: 5308085618635247431
+      engineAlign_engine-sharedassets0.assets-188_24: 8079551140738995696
+      engineAlign_engine-sharedassets0.assets-188_25: -9181355179312565121
+      engineAlign_engine-sharedassets0.assets-188_26: 7782632391182424221
+      engineAlign_engine-sharedassets0.assets-188_27: 718375434528353939
+      engineAlign_engine-sharedassets0.assets-188_28: -4755081125942996797
+      engineAlign_engine-sharedassets0.assets-188_29: 2178945221558004579
+      engineAlign_engine-sharedassets0.assets-188_3: 5017479619546272637
+      engineAlign_engine-sharedassets0.assets-188_30: -3111608574131557795
+      engineAlign_engine-sharedassets0.assets-188_31: -8140969494539243964
+      engineAlign_engine-sharedassets0.assets-188_32: -6258484702024278135
+      engineAlign_engine-sharedassets0.assets-188_33: -1819108013618257406
+      engineAlign_engine-sharedassets0.assets-188_34: -4004936388383674309
+      engineAlign_engine-sharedassets0.assets-188_35: 7878703012885800357
+      engineAlign_engine-sharedassets0.assets-188_36: 3039557526023917407
+      engineAlign_engine-sharedassets0.assets-188_37: -8852872717842284853
+      engineAlign_engine-sharedassets0.assets-188_38: -1947387222494756009
+      engineAlign_engine-sharedassets0.assets-188_39: -5424451945947640654
+      engineAlign_engine-sharedassets0.assets-188_4: -61983562791098304
+      engineAlign_engine-sharedassets0.assets-188_40: 7935518494220785854
+      engineAlign_engine-sharedassets0.assets-188_41: -3674705555238371610
+      engineAlign_engine-sharedassets0.assets-188_42: -7026519561792490788
+      engineAlign_engine-sharedassets0.assets-188_43: -464217175593583192
+      engineAlign_engine-sharedassets0.assets-188_44: -8548529404627646849
+      engineAlign_engine-sharedassets0.assets-188_45: -7139507912181188198
+      engineAlign_engine-sharedassets0.assets-188_46: -8619636198893299108
+      engineAlign_engine-sharedassets0.assets-188_47: 3590384420784523594
+      engineAlign_engine-sharedassets0.assets-188_48: 6323877542992757741
+      engineAlign_engine-sharedassets0.assets-188_49: 890504409697824868
+      engineAlign_engine-sharedassets0.assets-188_5: 5278805873583895935
+      engineAlign_engine-sharedassets0.assets-188_50: -4593534603444518546
+      engineAlign_engine-sharedassets0.assets-188_51: -2596740669758949574
+      engineAlign_engine-sharedassets0.assets-188_52: -8959644522022262250
+      engineAlign_engine-sharedassets0.assets-188_53: -8706520741610787371
+      engineAlign_engine-sharedassets0.assets-188_54: 2978581430281627244
+      engineAlign_engine-sharedassets0.assets-188_55: 5291541725152916444
+      engineAlign_engine-sharedassets0.assets-188_56: -2522332352743198142
+      engineAlign_engine-sharedassets0.assets-188_6: -29106692555197284
+      engineAlign_engine-sharedassets0.assets-188_7: -6716833096503262259
+      engineAlign_engine-sharedassets0.assets-188_8: -7924277246026852404
+      engineAlign_engine-sharedassets0.assets-188_9: -6411844314347904231
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

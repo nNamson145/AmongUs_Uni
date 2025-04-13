@@ -139,6 +139,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -397,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      logoImage-globalgamemanagers.assets-3_0: -7034056209237995083
+      logoImage-globalgamemanagers.assets-3_1: 6873741992376473781
+      logoImage-globalgamemanagers.assets-3_10: 8873919768059677024
+      logoImage-globalgamemanagers.assets-3_2: -7135557873157860329
+      logoImage-globalgamemanagers.assets-3_3: 7342340640711028260
+      logoImage-globalgamemanagers.assets-3_4: -8251420661854537029
+      logoImage-globalgamemanagers.assets-3_5: -6940959609790004207
+      logoImage-globalgamemanagers.assets-3_6: -7095252706724844959
+      logoImage-globalgamemanagers.assets-3_7: -9085748222092350537
+      logoImage-globalgamemanagers.assets-3_8: -6819936879539225004
+      logoImage-globalgamemanagers.assets-3_9: -3206299245010269130
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

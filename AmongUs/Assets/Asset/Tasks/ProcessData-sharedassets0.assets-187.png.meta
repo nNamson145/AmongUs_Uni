@@ -286,6 +286,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1622,7 +1635,67 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ProcessData-sharedassets0.assets-187_0: -4517614367307105021
+      ProcessData-sharedassets0.assets-187_1: 6901284361722844348
+      ProcessData-sharedassets0.assets-187_10: -1904660777340324752
+      ProcessData-sharedassets0.assets-187_11: -1500224840510993856
+      ProcessData-sharedassets0.assets-187_12: 7364901245223945964
+      ProcessData-sharedassets0.assets-187_13: -593117611492313308
+      ProcessData-sharedassets0.assets-187_14: -2457837484832171614
+      ProcessData-sharedassets0.assets-187_15: -6566979336284897971
+      ProcessData-sharedassets0.assets-187_16: -6544322908089672021
+      ProcessData-sharedassets0.assets-187_17: 642267264808174165
+      ProcessData-sharedassets0.assets-187_18: 4297094965134036511
+      ProcessData-sharedassets0.assets-187_19: -1897799576625607902
+      ProcessData-sharedassets0.assets-187_2: -2311195546174203942
+      ProcessData-sharedassets0.assets-187_20: 8601483739552220889
+      ProcessData-sharedassets0.assets-187_21: -1708667382247833833
+      ProcessData-sharedassets0.assets-187_22: -195917381783208652
+      ProcessData-sharedassets0.assets-187_23: 1439714293889028800
+      ProcessData-sharedassets0.assets-187_24: -9129441812588961999
+      ProcessData-sharedassets0.assets-187_25: 6267616699002215994
+      ProcessData-sharedassets0.assets-187_26: 5309293143969887352
+      ProcessData-sharedassets0.assets-187_27: 6421842286326254353
+      ProcessData-sharedassets0.assets-187_28: -80601655830895689
+      ProcessData-sharedassets0.assets-187_29: 3801476244481664247
+      ProcessData-sharedassets0.assets-187_3: 7212021115832257581
+      ProcessData-sharedassets0.assets-187_30: -610486334140262809
+      ProcessData-sharedassets0.assets-187_31: -1917411301430787918
+      ProcessData-sharedassets0.assets-187_32: -3156910712679078157
+      ProcessData-sharedassets0.assets-187_33: -1426934808705362125
+      ProcessData-sharedassets0.assets-187_34: -5906133596935852175
+      ProcessData-sharedassets0.assets-187_35: 26013512941481279
+      ProcessData-sharedassets0.assets-187_36: 7460668144553008593
+      ProcessData-sharedassets0.assets-187_37: 2952494244613979772
+      ProcessData-sharedassets0.assets-187_38: -8709942406654215189
+      ProcessData-sharedassets0.assets-187_39: -8620017161937475418
+      ProcessData-sharedassets0.assets-187_4: -8477407486783054473
+      ProcessData-sharedassets0.assets-187_40: 4997079031085506704
+      ProcessData-sharedassets0.assets-187_41: 4849680302091630026
+      ProcessData-sharedassets0.assets-187_42: -7931654893784866401
+      ProcessData-sharedassets0.assets-187_43: 324839145814475447
+      ProcessData-sharedassets0.assets-187_44: 5014000683345694336
+      ProcessData-sharedassets0.assets-187_45: 7417730298319861224
+      ProcessData-sharedassets0.assets-187_46: -8721700562523874452
+      ProcessData-sharedassets0.assets-187_47: 8631646305901489544
+      ProcessData-sharedassets0.assets-187_48: -2282235743304066932
+      ProcessData-sharedassets0.assets-187_49: -8422332308448597333
+      ProcessData-sharedassets0.assets-187_5: 270371439964817927
+      ProcessData-sharedassets0.assets-187_50: 8955385257245390215
+      ProcessData-sharedassets0.assets-187_51: 8219694070340668080
+      ProcessData-sharedassets0.assets-187_52: -1423954784238273430
+      ProcessData-sharedassets0.assets-187_53: 854933949582364362
+      ProcessData-sharedassets0.assets-187_54: -228395696464157748
+      ProcessData-sharedassets0.assets-187_55: 4327654441761355124
+      ProcessData-sharedassets0.assets-187_56: 2359084159079815889
+      ProcessData-sharedassets0.assets-187_57: -6186916501326110090
+      ProcessData-sharedassets0.assets-187_58: -3018308140305213427
+      ProcessData-sharedassets0.assets-187_59: -6225422344112448012
+      ProcessData-sharedassets0.assets-187_6: 4289029636311707168
+      ProcessData-sharedassets0.assets-187_7: 1875166031206452131
+      ProcessData-sharedassets0.assets-187_8: 5409840080030497904
+      ProcessData-sharedassets0.assets-187_9: 786468322386628907
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -124,6 +124,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -272,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BoardingPass-sharedassets0.assets-58_0: -1737915710180197425
+      BoardingPass-sharedassets0.assets-58_1: 2310259045375601075
+      BoardingPass-sharedassets0.assets-58_2: 4293649888015438947
+      BoardingPass-sharedassets0.assets-58_3: 3551222207574522395
+      BoardingPass-sharedassets0.assets-58_4: -1141389177096903969
+      BoardingPass-sharedassets0.assets-58_5: 2147629004101856961
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

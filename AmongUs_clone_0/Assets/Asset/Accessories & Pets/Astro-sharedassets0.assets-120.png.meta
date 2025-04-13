@@ -388,6 +388,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2472,7 +2485,101 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Astro-sharedassets0.assets-120_0: 5564228304184226458
+      Astro-sharedassets0.assets-120_1: -5719037954783597906
+      Astro-sharedassets0.assets-120_10: 871585260225582054
+      Astro-sharedassets0.assets-120_11: -2461145143761721124
+      Astro-sharedassets0.assets-120_12: -1621754162724370916
+      Astro-sharedassets0.assets-120_13: -9196358347052720427
+      Astro-sharedassets0.assets-120_14: -3151771871411244394
+      Astro-sharedassets0.assets-120_15: -6233500360769004044
+      Astro-sharedassets0.assets-120_16: 1405100848666832504
+      Astro-sharedassets0.assets-120_17: -6172642802359638752
+      Astro-sharedassets0.assets-120_18: 4908583220006528157
+      Astro-sharedassets0.assets-120_19: -130373179769224234
+      Astro-sharedassets0.assets-120_2: 1990545104026188412
+      Astro-sharedassets0.assets-120_20: 4620893450695719392
+      Astro-sharedassets0.assets-120_21: 8853490900299071057
+      Astro-sharedassets0.assets-120_22: 1217738726760138885
+      Astro-sharedassets0.assets-120_23: -643812852914069707
+      Astro-sharedassets0.assets-120_24: -1449724625743347789
+      Astro-sharedassets0.assets-120_25: 448900395048949682
+      Astro-sharedassets0.assets-120_26: -4084920164184934339
+      Astro-sharedassets0.assets-120_27: 348019699948072252
+      Astro-sharedassets0.assets-120_28: -1006745556210816617
+      Astro-sharedassets0.assets-120_29: 2434007211496418121
+      Astro-sharedassets0.assets-120_3: 7256020426806543595
+      Astro-sharedassets0.assets-120_30: -3754828390240004141
+      Astro-sharedassets0.assets-120_31: 6261402715589939660
+      Astro-sharedassets0.assets-120_32: -3930568232312838512
+      Astro-sharedassets0.assets-120_33: 7437819526374855805
+      Astro-sharedassets0.assets-120_34: 7845834393745972182
+      Astro-sharedassets0.assets-120_35: -6290567939384917856
+      Astro-sharedassets0.assets-120_36: 5024063068569433828
+      Astro-sharedassets0.assets-120_37: -2611677447971624133
+      Astro-sharedassets0.assets-120_38: 5507958344479846328
+      Astro-sharedassets0.assets-120_39: 5783583165987552517
+      Astro-sharedassets0.assets-120_4: 3131560050465019588
+      Astro-sharedassets0.assets-120_40: -2434471435669792062
+      Astro-sharedassets0.assets-120_41: -4328519658137573877
+      Astro-sharedassets0.assets-120_42: -4498121123886073985
+      Astro-sharedassets0.assets-120_43: 256795729955258724
+      Astro-sharedassets0.assets-120_44: -8475510930953990763
+      Astro-sharedassets0.assets-120_45: -7913385377845003131
+      Astro-sharedassets0.assets-120_46: 958093234621432296
+      Astro-sharedassets0.assets-120_47: -7151629625782648925
+      Astro-sharedassets0.assets-120_48: -7765442437098820153
+      Astro-sharedassets0.assets-120_49: 8098970206080102572
+      Astro-sharedassets0.assets-120_5: 1372758507320231965
+      Astro-sharedassets0.assets-120_50: 2725117508906314985
+      Astro-sharedassets0.assets-120_51: 2241818885156698194
+      Astro-sharedassets0.assets-120_52: -1972833665822974092
+      Astro-sharedassets0.assets-120_53: 6030703776361387065
+      Astro-sharedassets0.assets-120_54: -2250817660883905617
+      Astro-sharedassets0.assets-120_55: -1268377012320485663
+      Astro-sharedassets0.assets-120_56: 5023254243296236039
+      Astro-sharedassets0.assets-120_57: 2713311307097506417
+      Astro-sharedassets0.assets-120_58: 8719188322070753215
+      Astro-sharedassets0.assets-120_59: -8635372300265310973
+      Astro-sharedassets0.assets-120_6: 7092192011256382645
+      Astro-sharedassets0.assets-120_60: -624694038170345934
+      Astro-sharedassets0.assets-120_61: -6451463777912910980
+      Astro-sharedassets0.assets-120_62: 294873702940325171
+      Astro-sharedassets0.assets-120_63: -5821441144337603077
+      Astro-sharedassets0.assets-120_64: 790669358227618121
+      Astro-sharedassets0.assets-120_65: 8053958811254036252
+      Astro-sharedassets0.assets-120_66: -5361396089609212842
+      Astro-sharedassets0.assets-120_67: 1478320760795996294
+      Astro-sharedassets0.assets-120_68: -5117280413656885196
+      Astro-sharedassets0.assets-120_69: -8836452538627769520
+      Astro-sharedassets0.assets-120_7: -5685682254251045063
+      Astro-sharedassets0.assets-120_70: 2679391140381016262
+      Astro-sharedassets0.assets-120_71: 7038218456333792711
+      Astro-sharedassets0.assets-120_72: 5244174476918133168
+      Astro-sharedassets0.assets-120_73: 518998740314640159
+      Astro-sharedassets0.assets-120_74: 1834776141934899252
+      Astro-sharedassets0.assets-120_75: -7135956285964383913
+      Astro-sharedassets0.assets-120_76: -3634991578545766827
+      Astro-sharedassets0.assets-120_77: 6413549804106921524
+      Astro-sharedassets0.assets-120_78: -2425797654171588951
+      Astro-sharedassets0.assets-120_79: 8739107680909308246
+      Astro-sharedassets0.assets-120_8: 3411893431623616360
+      Astro-sharedassets0.assets-120_80: -8280185463101424271
+      Astro-sharedassets0.assets-120_81: 5400410286649350671
+      Astro-sharedassets0.assets-120_82: 7183427776726076818
+      Astro-sharedassets0.assets-120_83: 2022814895731258413
+      Astro-sharedassets0.assets-120_84: 2421408133558426449
+      Astro-sharedassets0.assets-120_85: -7224190197177907247
+      Astro-sharedassets0.assets-120_86: -3770091327603230772
+      Astro-sharedassets0.assets-120_87: 8236877911391056543
+      Astro-sharedassets0.assets-120_88: 2569234655053091804
+      Astro-sharedassets0.assets-120_89: -5278345411665743043
+      Astro-sharedassets0.assets-120_9: 7624771431991973793
+      Astro-sharedassets0.assets-120_90: -3403207398727990751
+      Astro-sharedassets0.assets-120_91: 4397815516566494797
+      Astro-sharedassets0.assets-120_92: -3439351314327731333
+      Astro-sharedassets0.assets-120_93: 6591369925443335921
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

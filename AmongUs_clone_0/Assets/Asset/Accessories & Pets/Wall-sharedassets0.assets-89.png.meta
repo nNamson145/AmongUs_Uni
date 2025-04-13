@@ -403,6 +403,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2597,7 +2610,106 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wall-sharedassets0.assets-89_0: 8843326291220135725
+      Wall-sharedassets0.assets-89_1: -7375079026841089974
+      Wall-sharedassets0.assets-89_10: 6029215678911564427
+      Wall-sharedassets0.assets-89_11: 7032276341586453410
+      Wall-sharedassets0.assets-89_12: -5570766980291385726
+      Wall-sharedassets0.assets-89_13: -4436034606043400927
+      Wall-sharedassets0.assets-89_14: -1769311810460619276
+      Wall-sharedassets0.assets-89_15: 6767909750843185411
+      Wall-sharedassets0.assets-89_16: -4635806658207354880
+      Wall-sharedassets0.assets-89_17: -4309760824183045447
+      Wall-sharedassets0.assets-89_18: 5246049475665986005
+      Wall-sharedassets0.assets-89_19: -2362124408885941202
+      Wall-sharedassets0.assets-89_2: -4855903192963438913
+      Wall-sharedassets0.assets-89_20: -5878854440965757612
+      Wall-sharedassets0.assets-89_21: -225414049994146074
+      Wall-sharedassets0.assets-89_22: 4442085779326412407
+      Wall-sharedassets0.assets-89_23: 2988432573381106170
+      Wall-sharedassets0.assets-89_24: 8368471686170065379
+      Wall-sharedassets0.assets-89_25: -5853849165955078550
+      Wall-sharedassets0.assets-89_26: 5197789526519200266
+      Wall-sharedassets0.assets-89_27: -5264791796016914703
+      Wall-sharedassets0.assets-89_28: 6396629539793922035
+      Wall-sharedassets0.assets-89_29: -4807536800381758239
+      Wall-sharedassets0.assets-89_3: 342512013836340318
+      Wall-sharedassets0.assets-89_30: -3852014315376205858
+      Wall-sharedassets0.assets-89_31: 6660215859560771876
+      Wall-sharedassets0.assets-89_32: 2930237238846670147
+      Wall-sharedassets0.assets-89_33: -8128659044543661274
+      Wall-sharedassets0.assets-89_34: -3758515296223367998
+      Wall-sharedassets0.assets-89_35: 2391448210763349370
+      Wall-sharedassets0.assets-89_36: -4573552360860808342
+      Wall-sharedassets0.assets-89_37: 4636415174928948609
+      Wall-sharedassets0.assets-89_38: -7956195783489615077
+      Wall-sharedassets0.assets-89_39: -6489559155440328938
+      Wall-sharedassets0.assets-89_4: -6183628341463312550
+      Wall-sharedassets0.assets-89_40: -3093625398770917684
+      Wall-sharedassets0.assets-89_41: -8082304392921430418
+      Wall-sharedassets0.assets-89_42: 2878776934211245845
+      Wall-sharedassets0.assets-89_43: -3804512229190824835
+      Wall-sharedassets0.assets-89_44: -4692649305024942360
+      Wall-sharedassets0.assets-89_45: -7838844084055740392
+      Wall-sharedassets0.assets-89_46: 5968844712999210864
+      Wall-sharedassets0.assets-89_47: 3701746133261126649
+      Wall-sharedassets0.assets-89_48: 1414570966374020602
+      Wall-sharedassets0.assets-89_49: -7163425804044670697
+      Wall-sharedassets0.assets-89_5: -336196826343475107
+      Wall-sharedassets0.assets-89_50: -8736950574252671407
+      Wall-sharedassets0.assets-89_51: 7243406403728197209
+      Wall-sharedassets0.assets-89_52: -3688446210255818140
+      Wall-sharedassets0.assets-89_53: 2054469039505968574
+      Wall-sharedassets0.assets-89_54: -2682158922435934552
+      Wall-sharedassets0.assets-89_55: -7825299639438980649
+      Wall-sharedassets0.assets-89_56: -2465250598477425481
+      Wall-sharedassets0.assets-89_57: -1327157231626368958
+      Wall-sharedassets0.assets-89_58: -8269731398558084213
+      Wall-sharedassets0.assets-89_59: 7851335391175237179
+      Wall-sharedassets0.assets-89_6: 5998964606157625792
+      Wall-sharedassets0.assets-89_60: -6869425370932136390
+      Wall-sharedassets0.assets-89_61: -4656984566640646742
+      Wall-sharedassets0.assets-89_62: 3516104266043759369
+      Wall-sharedassets0.assets-89_63: 8067232262170946789
+      Wall-sharedassets0.assets-89_64: -9031092245639233540
+      Wall-sharedassets0.assets-89_65: 6176942613354905764
+      Wall-sharedassets0.assets-89_66: 5421403440620310648
+      Wall-sharedassets0.assets-89_67: -3542073633731989195
+      Wall-sharedassets0.assets-89_68: 5114538007141778576
+      Wall-sharedassets0.assets-89_69: -4623526848291565760
+      Wall-sharedassets0.assets-89_7: 747996808271172269
+      Wall-sharedassets0.assets-89_70: 4084907299852238700
+      Wall-sharedassets0.assets-89_71: -5764750244233834569
+      Wall-sharedassets0.assets-89_72: 4167922426161846557
+      Wall-sharedassets0.assets-89_73: -4483162418836510775
+      Wall-sharedassets0.assets-89_74: -6778356801940632425
+      Wall-sharedassets0.assets-89_75: -1488075712532426036
+      Wall-sharedassets0.assets-89_76: -1724402378070831638
+      Wall-sharedassets0.assets-89_77: -6342564773419570718
+      Wall-sharedassets0.assets-89_78: 8256529859120453207
+      Wall-sharedassets0.assets-89_79: 6042205563627426573
+      Wall-sharedassets0.assets-89_8: -5671830044415611522
+      Wall-sharedassets0.assets-89_80: -1510949635245049139
+      Wall-sharedassets0.assets-89_81: 2398535792075941337
+      Wall-sharedassets0.assets-89_82: 435542535815566793
+      Wall-sharedassets0.assets-89_83: -2143618229148552854
+      Wall-sharedassets0.assets-89_84: 1026941221971951585
+      Wall-sharedassets0.assets-89_85: -8561102944577837694
+      Wall-sharedassets0.assets-89_86: -434756513921633773
+      Wall-sharedassets0.assets-89_87: -7030235946328768316
+      Wall-sharedassets0.assets-89_88: 4366604192827479485
+      Wall-sharedassets0.assets-89_89: -3491048990889115825
+      Wall-sharedassets0.assets-89_9: 7600703202454071009
+      Wall-sharedassets0.assets-89_90: -3122887904524671008
+      Wall-sharedassets0.assets-89_91: 713947780464915717
+      Wall-sharedassets0.assets-89_92: -9146721643536200283
+      Wall-sharedassets0.assets-89_93: 760292124691544758
+      Wall-sharedassets0.assets-89_94: 3416418354801940781
+      Wall-sharedassets0.assets-89_95: 5166329750481714811
+      Wall-sharedassets0.assets-89_96: -4762155927656311550
+      Wall-sharedassets0.assets-89_97: -6242916689291720361
+      Wall-sharedassets0.assets-89_98: -75873004298532510
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

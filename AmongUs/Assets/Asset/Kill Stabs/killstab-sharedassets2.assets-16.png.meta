@@ -205,6 +205,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -947,7 +960,40 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      killstab-sharedassets2.assets-16_0: -85796009501775344
+      killstab-sharedassets2.assets-16_1: -4422218214856943273
+      killstab-sharedassets2.assets-16_10: -4239673688064979650
+      killstab-sharedassets2.assets-16_11: -1652493430026013521
+      killstab-sharedassets2.assets-16_12: -7239490984398034327
+      killstab-sharedassets2.assets-16_13: 5326725102287253522
+      killstab-sharedassets2.assets-16_14: 6033627650590572058
+      killstab-sharedassets2.assets-16_15: -8139927141729563184
+      killstab-sharedassets2.assets-16_16: 5824941547132263515
+      killstab-sharedassets2.assets-16_17: -6529863985532611112
+      killstab-sharedassets2.assets-16_18: 2232172475975303897
+      killstab-sharedassets2.assets-16_19: -9037985000385586186
+      killstab-sharedassets2.assets-16_2: 2295594925362706941
+      killstab-sharedassets2.assets-16_20: 7353189406970153866
+      killstab-sharedassets2.assets-16_21: 34385256258332647
+      killstab-sharedassets2.assets-16_22: -1309036362145902389
+      killstab-sharedassets2.assets-16_23: 5245754848534771461
+      killstab-sharedassets2.assets-16_24: 818234300146846365
+      killstab-sharedassets2.assets-16_25: -8334961443772635730
+      killstab-sharedassets2.assets-16_26: -6480469161883219581
+      killstab-sharedassets2.assets-16_27: 5583715928700129804
+      killstab-sharedassets2.assets-16_28: -6832259138767807031
+      killstab-sharedassets2.assets-16_29: -385875603745754832
+      killstab-sharedassets2.assets-16_3: -8173295548508547816
+      killstab-sharedassets2.assets-16_30: 6065433804280077044
+      killstab-sharedassets2.assets-16_31: -7092297707359332829
+      killstab-sharedassets2.assets-16_32: 8140635868232436606
+      killstab-sharedassets2.assets-16_4: 2388230785370741293
+      killstab-sharedassets2.assets-16_5: -5055633047370180347
+      killstab-sharedassets2.assets-16_6: 9016276191244862863
+      killstab-sharedassets2.assets-16_7: -8258565272949475095
+      killstab-sharedassets2.assets-16_8: -353710294644724555
+      killstab-sharedassets2.assets-16_9: 5266010752225610775
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -394,6 +394,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2522,7 +2535,103 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Capt-sharedassets0.assets-77_0: -4524919133361404458
+      Capt-sharedassets0.assets-77_1: 3095382690977632282
+      Capt-sharedassets0.assets-77_10: -1913564077379494490
+      Capt-sharedassets0.assets-77_11: 7531991532946634195
+      Capt-sharedassets0.assets-77_12: -3935638143202834682
+      Capt-sharedassets0.assets-77_13: -3876154503480147954
+      Capt-sharedassets0.assets-77_14: 7718463043358102041
+      Capt-sharedassets0.assets-77_15: -6899933127155152955
+      Capt-sharedassets0.assets-77_16: -136786207449253037
+      Capt-sharedassets0.assets-77_17: 1164833763674757589
+      Capt-sharedassets0.assets-77_18: -7325260299108413121
+      Capt-sharedassets0.assets-77_19: -2692595399449532023
+      Capt-sharedassets0.assets-77_2: 8020637946130928269
+      Capt-sharedassets0.assets-77_20: -5006685056927359343
+      Capt-sharedassets0.assets-77_21: -5544188599462334589
+      Capt-sharedassets0.assets-77_22: -1828840006920735072
+      Capt-sharedassets0.assets-77_23: 7817859398150035890
+      Capt-sharedassets0.assets-77_24: -1855087982836172557
+      Capt-sharedassets0.assets-77_25: -1336371942244357046
+      Capt-sharedassets0.assets-77_26: -215449078806080502
+      Capt-sharedassets0.assets-77_27: 3694770011646047586
+      Capt-sharedassets0.assets-77_28: -2546390098644631396
+      Capt-sharedassets0.assets-77_29: -3160285794292231282
+      Capt-sharedassets0.assets-77_3: 4383705362765988573
+      Capt-sharedassets0.assets-77_30: -8307856374927196571
+      Capt-sharedassets0.assets-77_31: 9171471788884891172
+      Capt-sharedassets0.assets-77_32: 8333721771405624754
+      Capt-sharedassets0.assets-77_33: 448727805880694916
+      Capt-sharedassets0.assets-77_34: 8818360462445688349
+      Capt-sharedassets0.assets-77_35: -7995266354087200601
+      Capt-sharedassets0.assets-77_36: -3418878043196926885
+      Capt-sharedassets0.assets-77_37: 3095979377935168266
+      Capt-sharedassets0.assets-77_38: -7806048682366064448
+      Capt-sharedassets0.assets-77_39: -8129081088445949730
+      Capt-sharedassets0.assets-77_4: -6648916221492610822
+      Capt-sharedassets0.assets-77_40: 5114099243918649869
+      Capt-sharedassets0.assets-77_41: 5450510201631615640
+      Capt-sharedassets0.assets-77_42: -4794444677303547740
+      Capt-sharedassets0.assets-77_43: -4262352881975056878
+      Capt-sharedassets0.assets-77_44: 5901671267818072825
+      Capt-sharedassets0.assets-77_45: 6649240253030062413
+      Capt-sharedassets0.assets-77_46: -2600500475879170754
+      Capt-sharedassets0.assets-77_47: -3317338926322177635
+      Capt-sharedassets0.assets-77_48: -6434456684827386103
+      Capt-sharedassets0.assets-77_49: 6969799293261124903
+      Capt-sharedassets0.assets-77_5: -1442544360658516663
+      Capt-sharedassets0.assets-77_50: -7774566656299657527
+      Capt-sharedassets0.assets-77_51: 5421944407820419663
+      Capt-sharedassets0.assets-77_52: -139742415655316987
+      Capt-sharedassets0.assets-77_53: 986114576446681507
+      Capt-sharedassets0.assets-77_54: 339204009053599454
+      Capt-sharedassets0.assets-77_55: -5029657570001682096
+      Capt-sharedassets0.assets-77_56: -7747451152228130012
+      Capt-sharedassets0.assets-77_57: -921776020495186346
+      Capt-sharedassets0.assets-77_58: -3220230875686164943
+      Capt-sharedassets0.assets-77_59: -7228927352649174116
+      Capt-sharedassets0.assets-77_6: -735881215454408412
+      Capt-sharedassets0.assets-77_60: 3720077863448304039
+      Capt-sharedassets0.assets-77_61: 3103421750189491444
+      Capt-sharedassets0.assets-77_62: 1357493702861887625
+      Capt-sharedassets0.assets-77_63: -5384024114383958583
+      Capt-sharedassets0.assets-77_64: 4759201739222647857
+      Capt-sharedassets0.assets-77_65: -2803482293659994312
+      Capt-sharedassets0.assets-77_66: -6857293349053523324
+      Capt-sharedassets0.assets-77_67: -3783186447748830448
+      Capt-sharedassets0.assets-77_68: -2489190286051692370
+      Capt-sharedassets0.assets-77_69: 6933527398474202094
+      Capt-sharedassets0.assets-77_7: -7872412232406202794
+      Capt-sharedassets0.assets-77_70: 8983958146840606717
+      Capt-sharedassets0.assets-77_71: -1894908021802477828
+      Capt-sharedassets0.assets-77_72: 7606515889891440209
+      Capt-sharedassets0.assets-77_73: -5404520632022121553
+      Capt-sharedassets0.assets-77_74: 5021766646145788856
+      Capt-sharedassets0.assets-77_75: 5803147163476197464
+      Capt-sharedassets0.assets-77_76: 3941630409228109719
+      Capt-sharedassets0.assets-77_77: 6301445766876068079
+      Capt-sharedassets0.assets-77_78: -2641627985775675241
+      Capt-sharedassets0.assets-77_79: -2655455713227042870
+      Capt-sharedassets0.assets-77_8: 7537540931704627133
+      Capt-sharedassets0.assets-77_80: 5193531481250114505
+      Capt-sharedassets0.assets-77_81: -2351751850714450990
+      Capt-sharedassets0.assets-77_82: 5087450866065044452
+      Capt-sharedassets0.assets-77_83: -7488223858437657353
+      Capt-sharedassets0.assets-77_84: -6037471183107130941
+      Capt-sharedassets0.assets-77_85: 8942709177840677368
+      Capt-sharedassets0.assets-77_86: 7170385998928697855
+      Capt-sharedassets0.assets-77_87: -1656197086862190862
+      Capt-sharedassets0.assets-77_88: -5438206950493109949
+      Capt-sharedassets0.assets-77_89: 2218313377029401312
+      Capt-sharedassets0.assets-77_9: -4097205118661253959
+      Capt-sharedassets0.assets-77_90: 5520409979299954789
+      Capt-sharedassets0.assets-77_91: -2789002178647714090
+      Capt-sharedassets0.assets-77_92: -8824602871147855610
+      Capt-sharedassets0.assets-77_93: 6248076031447886235
+      Capt-sharedassets0.assets-77_94: -5656964827274828884
+      Capt-sharedassets0.assets-77_95: 3177071062045363308
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

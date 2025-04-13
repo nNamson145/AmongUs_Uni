@@ -388,6 +388,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2472,7 +2485,101 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hazmat-sharedassets0.assets-133_0: 9003193637884589612
+      Hazmat-sharedassets0.assets-133_1: -801285477495843597
+      Hazmat-sharedassets0.assets-133_10: 5852248738301579750
+      Hazmat-sharedassets0.assets-133_11: -7393764697165281705
+      Hazmat-sharedassets0.assets-133_12: 767315793489668454
+      Hazmat-sharedassets0.assets-133_13: 5815739207882222885
+      Hazmat-sharedassets0.assets-133_14: 7097494090658012668
+      Hazmat-sharedassets0.assets-133_15: -8381807140517285097
+      Hazmat-sharedassets0.assets-133_16: -6319071223085176842
+      Hazmat-sharedassets0.assets-133_17: -10169836448750521
+      Hazmat-sharedassets0.assets-133_18: 130382261660495918
+      Hazmat-sharedassets0.assets-133_19: -9078197116920509439
+      Hazmat-sharedassets0.assets-133_2: 7318273678376956707
+      Hazmat-sharedassets0.assets-133_20: -6095839809246963400
+      Hazmat-sharedassets0.assets-133_21: -6076385685687443984
+      Hazmat-sharedassets0.assets-133_22: 5852459862171750078
+      Hazmat-sharedassets0.assets-133_23: -1177409173492450016
+      Hazmat-sharedassets0.assets-133_24: 6047490428976077438
+      Hazmat-sharedassets0.assets-133_25: -6404285388734598742
+      Hazmat-sharedassets0.assets-133_26: -8892965330766309462
+      Hazmat-sharedassets0.assets-133_27: -5128532005029940729
+      Hazmat-sharedassets0.assets-133_28: 2116169290519916335
+      Hazmat-sharedassets0.assets-133_29: 2967163382751063226
+      Hazmat-sharedassets0.assets-133_3: 7472012780255547601
+      Hazmat-sharedassets0.assets-133_30: 8954425273153899683
+      Hazmat-sharedassets0.assets-133_31: -8492180284837532540
+      Hazmat-sharedassets0.assets-133_32: -4266645789222715474
+      Hazmat-sharedassets0.assets-133_33: 2024437696178472170
+      Hazmat-sharedassets0.assets-133_34: 4575724545738430196
+      Hazmat-sharedassets0.assets-133_35: 7871340419686547155
+      Hazmat-sharedassets0.assets-133_36: -1728707007587497545
+      Hazmat-sharedassets0.assets-133_37: -5431288073515590665
+      Hazmat-sharedassets0.assets-133_38: -2202057601563027775
+      Hazmat-sharedassets0.assets-133_39: -3870558364940997616
+      Hazmat-sharedassets0.assets-133_4: 5266141634568329376
+      Hazmat-sharedassets0.assets-133_40: -7662668937260661495
+      Hazmat-sharedassets0.assets-133_41: -2275524223833919195
+      Hazmat-sharedassets0.assets-133_42: -4272856607912489702
+      Hazmat-sharedassets0.assets-133_43: -1446795948143161848
+      Hazmat-sharedassets0.assets-133_44: -1637551313501152636
+      Hazmat-sharedassets0.assets-133_45: 7464044092683334568
+      Hazmat-sharedassets0.assets-133_46: 398480786987211840
+      Hazmat-sharedassets0.assets-133_47: -3889041403226629732
+      Hazmat-sharedassets0.assets-133_48: -1553918047853198512
+      Hazmat-sharedassets0.assets-133_49: 2832992797255238890
+      Hazmat-sharedassets0.assets-133_5: -77197429375699310
+      Hazmat-sharedassets0.assets-133_50: 2983042278073743095
+      Hazmat-sharedassets0.assets-133_51: -6016584960998318098
+      Hazmat-sharedassets0.assets-133_52: 6491616821028477730
+      Hazmat-sharedassets0.assets-133_53: 4973619828189839943
+      Hazmat-sharedassets0.assets-133_54: 699942114402597909
+      Hazmat-sharedassets0.assets-133_55: -1372542628925767135
+      Hazmat-sharedassets0.assets-133_56: -4556149496981596366
+      Hazmat-sharedassets0.assets-133_57: -678146330590060045
+      Hazmat-sharedassets0.assets-133_58: -8080017069151008676
+      Hazmat-sharedassets0.assets-133_59: -7414781928273277792
+      Hazmat-sharedassets0.assets-133_6: 3749100900906124636
+      Hazmat-sharedassets0.assets-133_60: -8006922681856500098
+      Hazmat-sharedassets0.assets-133_61: -7404326224115562805
+      Hazmat-sharedassets0.assets-133_62: -3325712425088918909
+      Hazmat-sharedassets0.assets-133_63: 1474887613420551935
+      Hazmat-sharedassets0.assets-133_64: -4221345834106111702
+      Hazmat-sharedassets0.assets-133_65: 2840629002709143491
+      Hazmat-sharedassets0.assets-133_66: -8646927122439069152
+      Hazmat-sharedassets0.assets-133_67: -1646486459673213833
+      Hazmat-sharedassets0.assets-133_68: 6667242088770322517
+      Hazmat-sharedassets0.assets-133_69: 6355993336162404776
+      Hazmat-sharedassets0.assets-133_7: 2370248034482527449
+      Hazmat-sharedassets0.assets-133_70: 960243196162571530
+      Hazmat-sharedassets0.assets-133_71: -2688260708076773468
+      Hazmat-sharedassets0.assets-133_72: -8366596879914673656
+      Hazmat-sharedassets0.assets-133_73: -1163319724449210695
+      Hazmat-sharedassets0.assets-133_74: 1716211562740618164
+      Hazmat-sharedassets0.assets-133_75: -3423794443272229261
+      Hazmat-sharedassets0.assets-133_76: 4686199075509939295
+      Hazmat-sharedassets0.assets-133_77: -3818321879674037797
+      Hazmat-sharedassets0.assets-133_78: -4303711582816824333
+      Hazmat-sharedassets0.assets-133_79: -5536861052187996030
+      Hazmat-sharedassets0.assets-133_8: 4055225591515340441
+      Hazmat-sharedassets0.assets-133_80: 3453296528942343490
+      Hazmat-sharedassets0.assets-133_81: -5497970845744347696
+      Hazmat-sharedassets0.assets-133_82: 6027250648147934339
+      Hazmat-sharedassets0.assets-133_83: -1115854924223940095
+      Hazmat-sharedassets0.assets-133_84: 6044457995087295220
+      Hazmat-sharedassets0.assets-133_85: -4798278970491212839
+      Hazmat-sharedassets0.assets-133_86: -5066231057652303478
+      Hazmat-sharedassets0.assets-133_87: 6262922852498623239
+      Hazmat-sharedassets0.assets-133_88: 4904868622863165948
+      Hazmat-sharedassets0.assets-133_89: -2599569927617470144
+      Hazmat-sharedassets0.assets-133_9: -4032131111187497993
+      Hazmat-sharedassets0.assets-133_90: -4677669451911260117
+      Hazmat-sharedassets0.assets-133_91: 3899815702230982303
+      Hazmat-sharedassets0.assets-133_92: -878652000150300156
+      Hazmat-sharedassets0.assets-133_93: -1803668264557329828
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

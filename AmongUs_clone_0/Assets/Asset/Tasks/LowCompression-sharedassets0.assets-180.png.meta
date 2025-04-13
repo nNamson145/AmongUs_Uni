@@ -157,6 +157,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -547,7 +560,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LowCompression-sharedassets0.assets-180_0: 4833723175585033906
+      LowCompression-sharedassets0.assets-180_1: 4031680856562121788
+      LowCompression-sharedassets0.assets-180_10: -3816710397944825493
+      LowCompression-sharedassets0.assets-180_11: 2836708977399405913
+      LowCompression-sharedassets0.assets-180_12: -754260455653803466
+      LowCompression-sharedassets0.assets-180_13: -4186722366707924189
+      LowCompression-sharedassets0.assets-180_14: -4823411801497554175
+      LowCompression-sharedassets0.assets-180_15: 3886521872633986681
+      LowCompression-sharedassets0.assets-180_16: -3789039555082516907
+      LowCompression-sharedassets0.assets-180_2: -6334299071966960354
+      LowCompression-sharedassets0.assets-180_3: -3280740051467200674
+      LowCompression-sharedassets0.assets-180_4: -6477895637628052850
+      LowCompression-sharedassets0.assets-180_5: -193970207268078960
+      LowCompression-sharedassets0.assets-180_6: 7097671913075029313
+      LowCompression-sharedassets0.assets-180_7: -4571503599439469201
+      LowCompression-sharedassets0.assets-180_8: 3395470330304200192
+      LowCompression-sharedassets0.assets-180_9: -7969624731830463501
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

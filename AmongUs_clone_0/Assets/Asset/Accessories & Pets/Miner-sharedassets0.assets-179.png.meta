@@ -388,6 +388,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2472,7 +2485,101 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Miner-sharedassets0.assets-179_0: 3022611385040963321
+      Miner-sharedassets0.assets-179_1: -7735376557159468402
+      Miner-sharedassets0.assets-179_10: 136331430779331116
+      Miner-sharedassets0.assets-179_11: 3620619795001547670
+      Miner-sharedassets0.assets-179_12: 1211565123248182585
+      Miner-sharedassets0.assets-179_13: -7655547185707661181
+      Miner-sharedassets0.assets-179_14: -293590914561362172
+      Miner-sharedassets0.assets-179_15: -1388152082112131640
+      Miner-sharedassets0.assets-179_16: 2758243725760363049
+      Miner-sharedassets0.assets-179_17: 7147709360623767433
+      Miner-sharedassets0.assets-179_18: 5958659040010975893
+      Miner-sharedassets0.assets-179_19: 4648432953362293991
+      Miner-sharedassets0.assets-179_2: 8781067391178247791
+      Miner-sharedassets0.assets-179_20: 5913903217337503380
+      Miner-sharedassets0.assets-179_21: 782095116311937791
+      Miner-sharedassets0.assets-179_22: -6011368413476634137
+      Miner-sharedassets0.assets-179_23: 8974999666093675199
+      Miner-sharedassets0.assets-179_24: 3851004670591715422
+      Miner-sharedassets0.assets-179_25: -7536243395238812495
+      Miner-sharedassets0.assets-179_26: -3163662247073283087
+      Miner-sharedassets0.assets-179_27: -6494114507500713447
+      Miner-sharedassets0.assets-179_28: -5328698064767653747
+      Miner-sharedassets0.assets-179_29: -8365525097677190554
+      Miner-sharedassets0.assets-179_3: 1113049756299816964
+      Miner-sharedassets0.assets-179_30: 8241265100980197461
+      Miner-sharedassets0.assets-179_31: -3001953982785124413
+      Miner-sharedassets0.assets-179_32: 4641103586522299633
+      Miner-sharedassets0.assets-179_33: 4010346011558824478
+      Miner-sharedassets0.assets-179_34: -4806690935280626819
+      Miner-sharedassets0.assets-179_35: -6495669041896898266
+      Miner-sharedassets0.assets-179_36: -2109822276766543
+      Miner-sharedassets0.assets-179_37: 318674500971065408
+      Miner-sharedassets0.assets-179_38: -3397749248818153474
+      Miner-sharedassets0.assets-179_39: 7614237305835530430
+      Miner-sharedassets0.assets-179_4: -4864624821037598020
+      Miner-sharedassets0.assets-179_40: -5341708103140469831
+      Miner-sharedassets0.assets-179_41: 7357027608311087706
+      Miner-sharedassets0.assets-179_42: -1074500391673430606
+      Miner-sharedassets0.assets-179_43: -5361903698385957092
+      Miner-sharedassets0.assets-179_44: 1269125323095175142
+      Miner-sharedassets0.assets-179_45: -9024994153199681721
+      Miner-sharedassets0.assets-179_46: -3372870982291104903
+      Miner-sharedassets0.assets-179_47: 7659632160666392387
+      Miner-sharedassets0.assets-179_48: 4511892044017163046
+      Miner-sharedassets0.assets-179_49: -9123165876780833296
+      Miner-sharedassets0.assets-179_5: 5521833853788010525
+      Miner-sharedassets0.assets-179_50: -691525697004542679
+      Miner-sharedassets0.assets-179_51: -1383293654116928930
+      Miner-sharedassets0.assets-179_52: 978048634786846106
+      Miner-sharedassets0.assets-179_53: 2497460621333211293
+      Miner-sharedassets0.assets-179_54: -7413892743315502254
+      Miner-sharedassets0.assets-179_55: 5452622571090622815
+      Miner-sharedassets0.assets-179_56: -3175440638816589615
+      Miner-sharedassets0.assets-179_57: 4979108884182879048
+      Miner-sharedassets0.assets-179_58: -6282847850003717670
+      Miner-sharedassets0.assets-179_59: -7892503285163984003
+      Miner-sharedassets0.assets-179_6: -8087704834785680628
+      Miner-sharedassets0.assets-179_60: 2155285869487486686
+      Miner-sharedassets0.assets-179_61: -6370721480327896377
+      Miner-sharedassets0.assets-179_62: 127715383576525148
+      Miner-sharedassets0.assets-179_63: -8360769676948373790
+      Miner-sharedassets0.assets-179_64: 6701035239465495341
+      Miner-sharedassets0.assets-179_65: 8691510451242110017
+      Miner-sharedassets0.assets-179_66: 7850079012479517663
+      Miner-sharedassets0.assets-179_67: 7025947476265392040
+      Miner-sharedassets0.assets-179_68: 7640337071292608502
+      Miner-sharedassets0.assets-179_69: -6664813663955471139
+      Miner-sharedassets0.assets-179_7: 838308214195464197
+      Miner-sharedassets0.assets-179_70: -2689610300025177791
+      Miner-sharedassets0.assets-179_71: 9148690463295549800
+      Miner-sharedassets0.assets-179_72: 7252575109769151554
+      Miner-sharedassets0.assets-179_73: -5142547865449258333
+      Miner-sharedassets0.assets-179_74: 9199989402084494109
+      Miner-sharedassets0.assets-179_75: -215246645578629591
+      Miner-sharedassets0.assets-179_76: 5588925342406785581
+      Miner-sharedassets0.assets-179_77: -1503402981411147643
+      Miner-sharedassets0.assets-179_78: 5488637148253303414
+      Miner-sharedassets0.assets-179_79: 7826757378226489531
+      Miner-sharedassets0.assets-179_8: -2779814991052234986
+      Miner-sharedassets0.assets-179_80: -6300949777009129493
+      Miner-sharedassets0.assets-179_81: 6245764334442131962
+      Miner-sharedassets0.assets-179_82: 1632097859565479491
+      Miner-sharedassets0.assets-179_83: -530270950160913489
+      Miner-sharedassets0.assets-179_84: -6874485991879340202
+      Miner-sharedassets0.assets-179_85: 5898967006014594373
+      Miner-sharedassets0.assets-179_86: -5631485881105697222
+      Miner-sharedassets0.assets-179_87: -6022654911643666246
+      Miner-sharedassets0.assets-179_88: 8849119530733645125
+      Miner-sharedassets0.assets-179_89: 6373908695500489256
+      Miner-sharedassets0.assets-179_9: -9108372511027136681
+      Miner-sharedassets0.assets-179_90: 5208865844682839122
+      Miner-sharedassets0.assets-179_91: -5960497770737753553
+      Miner-sharedassets0.assets-179_92: 8389910532472275071
+      Miner-sharedassets0.assets-179_93: -6134261789688868176
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

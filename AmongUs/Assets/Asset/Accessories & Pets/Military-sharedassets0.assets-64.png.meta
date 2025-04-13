@@ -403,6 +403,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2597,7 +2610,106 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Military-sharedassets0.assets-64_0: 6224672817624930757
+      Military-sharedassets0.assets-64_1: -5568433731373945035
+      Military-sharedassets0.assets-64_10: 7110863361803200659
+      Military-sharedassets0.assets-64_11: -2291638674077089028
+      Military-sharedassets0.assets-64_12: -95044310243241748
+      Military-sharedassets0.assets-64_13: 8888614707632142163
+      Military-sharedassets0.assets-64_14: 1773751022194828451
+      Military-sharedassets0.assets-64_15: -1705257818309809168
+      Military-sharedassets0.assets-64_16: -651441454438218089
+      Military-sharedassets0.assets-64_17: -5508748684878766199
+      Military-sharedassets0.assets-64_18: -255715763221113532
+      Military-sharedassets0.assets-64_19: -5636715675527559071
+      Military-sharedassets0.assets-64_2: -3929776183666036511
+      Military-sharedassets0.assets-64_20: 3694440089297267152
+      Military-sharedassets0.assets-64_21: 4762655068542833122
+      Military-sharedassets0.assets-64_22: 777135067115627415
+      Military-sharedassets0.assets-64_23: 3021750535292342087
+      Military-sharedassets0.assets-64_24: 3270654592075021171
+      Military-sharedassets0.assets-64_25: -8216773272281660756
+      Military-sharedassets0.assets-64_26: -3437048385419484701
+      Military-sharedassets0.assets-64_27: -8641688406146683259
+      Military-sharedassets0.assets-64_28: 5165475263235122069
+      Military-sharedassets0.assets-64_29: -4520334988170936954
+      Military-sharedassets0.assets-64_3: 9132651213684912368
+      Military-sharedassets0.assets-64_30: -583166637066756527
+      Military-sharedassets0.assets-64_31: 6258200238669248759
+      Military-sharedassets0.assets-64_32: -6772604424590906702
+      Military-sharedassets0.assets-64_33: 4004106178847749410
+      Military-sharedassets0.assets-64_34: -1041632344215731670
+      Military-sharedassets0.assets-64_35: 6317747526738506057
+      Military-sharedassets0.assets-64_36: -153804688308273128
+      Military-sharedassets0.assets-64_37: -5037103918083618864
+      Military-sharedassets0.assets-64_38: -3628017417339432262
+      Military-sharedassets0.assets-64_39: -6200831595210657521
+      Military-sharedassets0.assets-64_4: 5853253449544030223
+      Military-sharedassets0.assets-64_40: 1534073982362171434
+      Military-sharedassets0.assets-64_41: -728777711656063259
+      Military-sharedassets0.assets-64_42: -5464942629213577682
+      Military-sharedassets0.assets-64_43: -601305768725870180
+      Military-sharedassets0.assets-64_44: -2159797252055267139
+      Military-sharedassets0.assets-64_45: -4184921327293442283
+      Military-sharedassets0.assets-64_46: -8531818605521778833
+      Military-sharedassets0.assets-64_47: -588382817909488370
+      Military-sharedassets0.assets-64_48: -3605191075145022362
+      Military-sharedassets0.assets-64_49: 8947928577668519212
+      Military-sharedassets0.assets-64_5: -476004341535758537
+      Military-sharedassets0.assets-64_50: 5731952471609315427
+      Military-sharedassets0.assets-64_51: -7657876019879096065
+      Military-sharedassets0.assets-64_52: -5170079239079313289
+      Military-sharedassets0.assets-64_53: -5387587045495658460
+      Military-sharedassets0.assets-64_54: 7749179735779353738
+      Military-sharedassets0.assets-64_55: 5051568159064906881
+      Military-sharedassets0.assets-64_56: 7771118473578680481
+      Military-sharedassets0.assets-64_57: -7533848300856520650
+      Military-sharedassets0.assets-64_58: -2769763078101368456
+      Military-sharedassets0.assets-64_59: 94592508408250679
+      Military-sharedassets0.assets-64_6: 2802478028711550095
+      Military-sharedassets0.assets-64_60: 5819349780863363659
+      Military-sharedassets0.assets-64_61: 3818931445174496157
+      Military-sharedassets0.assets-64_62: 6753987364648066842
+      Military-sharedassets0.assets-64_63: 3501442548114472037
+      Military-sharedassets0.assets-64_64: -5227962302365236584
+      Military-sharedassets0.assets-64_65: -7143762671194659709
+      Military-sharedassets0.assets-64_66: -800429092897602383
+      Military-sharedassets0.assets-64_67: 2251770263665745902
+      Military-sharedassets0.assets-64_68: 882680848267932617
+      Military-sharedassets0.assets-64_69: -5664852697940900342
+      Military-sharedassets0.assets-64_7: -1478803624698375643
+      Military-sharedassets0.assets-64_70: 2448609053743992339
+      Military-sharedassets0.assets-64_71: -1482449680709047525
+      Military-sharedassets0.assets-64_72: -6544477528595092120
+      Military-sharedassets0.assets-64_73: 2990943581521460320
+      Military-sharedassets0.assets-64_74: 7642769176001896266
+      Military-sharedassets0.assets-64_75: 3883239684880605497
+      Military-sharedassets0.assets-64_76: 2710534479123821723
+      Military-sharedassets0.assets-64_77: 8095854723321460421
+      Military-sharedassets0.assets-64_78: 5276707083692757438
+      Military-sharedassets0.assets-64_79: -4296484848885237988
+      Military-sharedassets0.assets-64_8: 3542343523841386760
+      Military-sharedassets0.assets-64_80: 5938459582450860686
+      Military-sharedassets0.assets-64_81: -3798101711124267676
+      Military-sharedassets0.assets-64_82: 1956036770792232593
+      Military-sharedassets0.assets-64_83: -6642688176450179676
+      Military-sharedassets0.assets-64_84: -5660329773224304936
+      Military-sharedassets0.assets-64_85: 4977195912462539787
+      Military-sharedassets0.assets-64_86: -950937179510584237
+      Military-sharedassets0.assets-64_87: -1013292182782284668
+      Military-sharedassets0.assets-64_88: -4181089163238957569
+      Military-sharedassets0.assets-64_89: -3590001724321908036
+      Military-sharedassets0.assets-64_9: 8892704036874917278
+      Military-sharedassets0.assets-64_90: -1576660343588403207
+      Military-sharedassets0.assets-64_91: 1857940588798734191
+      Military-sharedassets0.assets-64_92: -5628363845813891155
+      Military-sharedassets0.assets-64_93: 5741003547880225001
+      Military-sharedassets0.assets-64_94: 6275300928928345063
+      Military-sharedassets0.assets-64_95: 886635488300002640
+      Military-sharedassets0.assets-64_96: 5965523779185001533
+      Military-sharedassets0.assets-64_97: 941386962692492199
+      Military-sharedassets0.assets-64_98: 2264630205606407601
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

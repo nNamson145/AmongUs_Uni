@@ -124,6 +124,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -272,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Halloween2019-sharedassets0.assets-99_0: 7249592745048608817
+      Halloween2019-sharedassets0.assets-99_1: 8742858417432605329
+      Halloween2019-sharedassets0.assets-99_2: -6666193722205080550
+      Halloween2019-sharedassets0.assets-99_3: 1332089813664785375
+      Halloween2019-sharedassets0.assets-99_4: -8492079792754688806
+      Halloween2019-sharedassets0.assets-99_5: 7645260112522237459
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
