@@ -36,15 +36,18 @@ public class GameManager : NetworkBehaviour
 #region REGISTER PLAYER
     public void RegisterPlayer(PlayerController player)
     {
-        if(!playerMap.ContainsKey(player.OwnerClientId))
+        if (playerMap.ContainsKey(player.OwnerClientId))
         {
-            playerMap.Add(player.OwnerClientId, player);
-        }    
-
-        foreach (var name in playerMap)
-        {
-            Debug.Log(name);
+            //Debug.LogWarning($"Player {player.OwnerClientId} already registered.");
+            return;
         }
+        Debug.LogWarning($"Registering player {player.OwnerClientId}");
+        playerMap[player.OwnerClientId] = player; 
+
+        /*foreach (var name in playerMap)
+        {
+            Debug.LogWarning(player.OwnerClientId.ToString());
+        }*/
     }
     public PlayerController GetPlayer(ulong playerId)
     {
@@ -57,24 +60,16 @@ public class GameManager : NetworkBehaviour
 
     public void AssignRole(PlayerController player)
     {
-        
-        PlayerController.RoleType randomRole = Random.value < 0.5f ? PlayerController.RoleType.Impostor : PlayerController.RoleType.Crewmate;
-
+        var randomRole = Random.value < 0.5f ? PlayerController.RoleType.Impostor : PlayerController.RoleType.Crewmate;
         player.roleType.Value = randomRole;
+        
+        var impostor = player.GetComponent<ImpostorController>();
+        var crewmate = player.GetComponent<CrewmateController>();
 
-        // Add role component
-        switch (randomRole)
-        {
-            case PlayerController.RoleType.Impostor:
-                player.role = player.gameObject.AddComponent<ImpostorController>();
-                break;
-            case PlayerController.RoleType.Crewmate:
-                player.role = player.gameObject.AddComponent<CrewmateController>();
-                break;
-            default:
-                Debug.LogWarning("Unknown role assigned!");
-                break;
-        }
+        if (impostor != null) impostor.enabled = (randomRole == PlayerController.RoleType.Impostor);
+        if (crewmate != null) crewmate.enabled = (randomRole == PlayerController.RoleType.Crewmate);
+
+        player.role = (IRole)(randomRole == PlayerController.RoleType.Impostor ? impostor : crewmate);
     }
 
 #region KILL PLAYER

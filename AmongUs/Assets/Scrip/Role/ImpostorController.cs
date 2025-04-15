@@ -4,11 +4,11 @@ using UnityEngine;
 //[RequireComponent(typeof(NetworkObject))]
 public class ImpostorController : NetworkBehaviour, IImpostor
 {
-    private PlayerController controller;
+    private PlayerController localController;
 
     void Awake()
     {
-        controller = GetComponent<PlayerController>();
+        localController = GetComponent<PlayerController>();
     }
 
     public void TickRole()
@@ -19,17 +19,15 @@ public class ImpostorController : NetworkBehaviour, IImpostor
 #region Kill
     public void Kill()
     {
-        if (controller.currentObjHit == null)
+        if (localController.currentObjHit == null)
         {
-            Debug.Log("[CLIENT] hitCollisionObj is null");
             return;
         }
 
-        if (controller.currentObjHit.CompareTag("Player"))
+        if (localController.currentObjHit.CompareTag("Player"))
         {
-            ulong victimId = controller.currentObjHit.GetComponent<NetworkObject>().OwnerClientId;
-            Debug.Log("[CLIENT] Trying to kill player with ID: " + controller.currentObjHit.name);
-            
+            ulong victimId = localController.currentObjHit.GetComponent<NetworkObject>().OwnerClientId;
+            //Debug.Log("[CLIENT] Trying to kill player with ID: " + victimId);
             TryKillServerRpc(victimId);
         }
     }
@@ -37,20 +35,17 @@ public class ImpostorController : NetworkBehaviour, IImpostor
     [ServerRpc(RequireOwnership = false)]
     private void TryKillServerRpc(ulong targetId)
     {
-        Debug.Log("[SERVER] RPC Called - Target ID: " + targetId);
-
         var victim = GameManager.instance.GetPlayer(targetId);
 
         if (victim == null || victim.isDead.Value)
         {
-            Debug.LogWarning("[SERVER] Victim is null or already dead");
+            //Debug.LogWarning("[SERVER] Victim is null or already dead");
             return;
         }
 
         victim.isDead.Value = true;
-        victim.GetComponent<CapsuleCollider2D>().isTrigger = true;
-
         GameManager.instance.SpawnDeadBody(victim.transform.position);
+        //Debug.LogWarning("[SERVER]"+ victim +"  is null or already dead");
     }
 #endregion
 
@@ -64,14 +59,14 @@ public class ImpostorController : NetworkBehaviour, IImpostor
 #region Vent
     public bool CanUseVent()
     {
-        if(controller.currentObjHit == null) return false;
+        if(localController.currentObjHit == null) return false;
         
-        if(controller.currentObjHit.CompareTag("Vent"))
+        if(localController.currentObjHit.CompareTag("Vent"))
         {
-            Debug.Log(" true " +controller.currentObjHit.name);
+            Debug.LogError(" true " +localController.currentObjHit.name);
             return true;
         }
-        Debug.Log(" false " + controller.currentObjHit.name);
+        Debug.Log(" false " + localController.currentObjHit.name);
         return false;
     }
 
@@ -79,7 +74,11 @@ public class ImpostorController : NetworkBehaviour, IImpostor
     {
         if (CanUseVent())
         {
-            UseVentServerRpc();
+            var ventNetObj = localController.currentObjHit.GetComponent<NetworkObject>();
+            if (ventNetObj != null)
+            {
+                UseVentServerRpc(new NetworkObjectReference(ventNetObj));
+            }
         }
         else
         {
@@ -88,31 +87,20 @@ public class ImpostorController : NetworkBehaviour, IImpostor
     }
 
     [ServerRpc(AllowTargetOverride = false)]
-    public void UseVentServerRpc()
+    public void UseVentServerRpc(NetworkObjectReference  netObjref)
     {
-        var netObj = GetComponent<NetworkObject>();
-        if (netObj == null)
+        if (!netObjref.TryGet(out NetworkObject ventNetObj))
         {
             Debug.LogError("[SERVER RPC] Missing NetworkObject on ImpostorController!");
             return;
         }
-
-        if (controller.currentObjHit == null)
-        {
-            Debug.LogWarning("[SERVER RPC] No currentObjHit found.");
-            return;
-        }
-
-        var vent = controller.currentObjHit.GetComponent<Vent>();
-        if (vent == null)
-        {
-            Debug.LogWarning("[SERVER RPC] Hit object is not a Vent.");
-            return;
-        }
-
-        vent.TeleportToVent(controller);
-        Debug.LogWarning($"[SERVER RPC] Client {netObj.OwnerClientId} teleported to vent.");
         
+        var vent = ventNetObj.GetComponent<Vent>();
+        if (vent != null)
+        {
+            vent.TeleportToVent(localController);
+            Debug.LogWarning($"[SERVER RPC] Client {ventNetObj.OwnerClientId} teleported to vent.");
+        }
     }
 
 #endregion

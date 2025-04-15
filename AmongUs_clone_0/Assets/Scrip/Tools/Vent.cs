@@ -20,11 +20,9 @@ public class Vent : NetworkBehaviour
     
     public void TeleportToVent(PlayerController player)
     {
-        if (player.role is ImpostorController)
-        {
-            //play anim
-            player.transform.position = ventLink.transform.position;
-            //play anim
-        }
+        if (!player.GetComponent<ImpostorController>().enabled) return;
+        //play anim
+        player.transform.position = ventLink.transform.position;
+        //play anim
     }
 }

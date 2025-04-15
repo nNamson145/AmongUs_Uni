@@ -33,16 +33,34 @@ public class PlayerController : NetworkBehaviour
     public NetworkVariable<RoleType> roleType = new NetworkVariable<RoleType>(RoleType.Crewmate, NetworkVariableReadPermission.Everyone, NetworkVariableWritePermission.Server);
 
     public IRole role;
+    
+    private void OnRoleChanged(RoleType prev, RoleType curr)
+    {
+        Debug.Log($"[CLIENT] Role changed from {prev} to {curr}");
+
+        var impostor = GetComponent<ImpostorController>();
+        var crewmate = GetComponent<CrewmateController>();
+
+        if (impostor != null) impostor.enabled = (curr == RoleType.Impostor);
+        if (crewmate != null) crewmate.enabled = (curr == RoleType.Crewmate);
+
+        role = (IRole)(curr == RoleType.Impostor ? impostor : crewmate);
+    }
 
     public override void OnNetworkSpawn()
     {
         if (IsServer)
         {
-            GameManager.instance.RegisterPlayer(this);
+            GameManager.instance?.RegisterPlayer(this);
             //random Role
             GameManager.instance.AssignRole(this);
             //role = gameObject.AddComponent<ImpostorController>();    
+            //Debug.Log(roleType.Value);
+        }
 
+        if (IsClient)
+        {
+            OnRoleChanged(roleType.Value, roleType.Value);
         }
 
         if (IsOwner)
@@ -59,6 +77,7 @@ public class PlayerController : NetworkBehaviour
         //get location to span
         transform.position = SpawnManager.instance.spawnPosition();
 
+        //role = GetComponent<ImpostorController>();
     }
 
     private PlayerController GetLocalPLayerController()
@@ -92,11 +111,6 @@ public class PlayerController : NetworkBehaviour
         //flip sprite anim
         GetComponent<AnimationPlayer>().SetFlipByScale(horizontal);
         isMoving.Value = movementDirection != Vector2.zero;
-
-        /*if (currentObjHit != null)
-        {
-            Debug.Log(currentObjHit.name);
-        }*/
         
     }
 
@@ -114,6 +128,8 @@ public class PlayerController : NetworkBehaviour
         if (isDead.Value)
         {
             GetComponent<AnimationPlayer>().SetPlayerDead(isDead.Value);
+            GetComponent<CapsuleCollider2D>().isTrigger = true;
+            
             return;
         }
                 
@@ -124,14 +140,14 @@ public class PlayerController : NetworkBehaviour
     {
         if(!IsOwner) return;
         
-        /*if (collision != currentObjHit)
+        if (collision != currentObjHit)
         {
             currentObjHit = collision;
-        }*/
+        }
 
         if (collision.CompareTag("Player"))
         {
-            currentObjHit = collision;
+            //currentObjHit = collision;
         }
         
         //Ui report

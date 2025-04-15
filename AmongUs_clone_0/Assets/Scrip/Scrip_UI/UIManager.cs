@@ -29,7 +29,6 @@ public class UIManager : MonoBehaviour
     public void RegisterLocalPlayer(PlayerController controller)
     {
         localPlayer = controller;
-        Debug.Log("[CLIENT] Trying to register");
     }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -48,13 +47,16 @@ public class UIManager : MonoBehaviour
     //IMPOSTOR
     public void OnClickKill()
     {
-        if (localPlayer != null )
+        if (localPlayer == null) return;
+
+        if (localPlayer.gameObject.GetComponent<ImpostorController>() && localPlayer.gameObject.GetComponent<ImpostorController>().enabled)
         {
-            localPlayer.GetComponent<ImpostorController>().Kill();
+            localPlayer.gameObject.GetComponent<ImpostorController>().Kill();
+            Debug.Log(localPlayer.gameObject.GetComponent<ImpostorController>().name);
         }
         else
         {
-            Debug.LogWarning("Local player not yet registered.");
+            Debug.LogWarning("Player isnt impostor");
         }
     }
 
