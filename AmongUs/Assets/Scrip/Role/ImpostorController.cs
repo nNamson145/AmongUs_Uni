@@ -1,4 +1,5 @@
 using Unity.Netcode;
+using Unity.VisualScripting;
 using UnityEngine;
 
 //[RequireComponent(typeof(NetworkObject))]
@@ -9,12 +10,16 @@ public class ImpostorController : NetworkBehaviour, IImpostor
     void Awake()
     {
         localController = GetComponent<PlayerController>();
+        Debug.Log(localController);
+        //Debug.Log($"UseVent(): IsOwner={IsOwner}, IsSpawned={IsSpawned}, HasAuthority={NetworkObject.IsOwner}, NetworkObjectId={NetworkObject.NetworkObjectId}");
     }
 
+   
+    
     public void TickRole()
     {
     }
-
+    
     
 #region Kill
     public void Kill()
@@ -63,43 +68,58 @@ public class ImpostorController : NetworkBehaviour, IImpostor
         
         if(localController.currentObjHit.CompareTag("Vent"))
         {
-            Debug.LogError(" true " +localController.currentObjHit.name);
+            //Debug.Log(" true " +localController.currentObjHit.name);
             return true;
         }
-        Debug.Log(" false " + localController.currentObjHit.name);
+        //Debug.LogError(" false " + localController.currentObjHit.name);
         return false;
     }
 
     public void UseVent()
     {
+        Debug.LogWarning($"[UseVent] Called on {gameObject.name}, IsOwner: {IsOwner}, IsClient: {IsClient}, IsServer: {IsServer}, IsSpawned: {NetworkObject.IsSpawned}");
+        if (localController.currentObjHit == null)
+        {
+            return;
+        }
         if (CanUseVent())
         {
             var ventNetObj = localController.currentObjHit.GetComponent<NetworkObject>();
             if (ventNetObj != null)
             {
-                UseVentServerRpc(new NetworkObjectReference(ventNetObj));
+                ulong ventId = ventNetObj.NetworkObjectId;
+                Debug.LogWarning($"[CLIENT] Found ventNetObj: {ventNetObj.name}, ID: {ventId}");
+                UseVentServerRpc(ventId);
+                Debug.LogWarning("[CLIENT] Called UseVentServerRpc");
             }
         }
         else
         {
-            Debug.LogError("bool can use vent is false");
+            Debug.LogWarning("bool can use vent is false");
         }
     }
 
-    [ServerRpc(AllowTargetOverride = false)]
-    public void UseVentServerRpc(NetworkObjectReference  netObjref)
+    [ServerRpc(RequireOwnership = false)]
+    public void UseVentServerRpc(ulong ventId)
     {
-        if (!netObjref.TryGet(out NetworkObject ventNetObj))
+        if (NetworkManager.Singleton.SpawnManager.SpawnedObjects.TryGetValue(ventId, out var ventNetObj))
         {
-            Debug.LogError("[SERVER RPC] Missing NetworkObject on ImpostorController!");
-            return;
+            var vent = ventNetObj.GetComponent<Vent>();
+            if (vent != null)
+            {
+                Vector3 targetPosition = vent.ventLink.transform.position;
+                TeleportClientRpc(localController.OwnerClientId, targetPosition);
+                localController.transform.position = targetPosition;
+            }
         }
-        
-        var vent = ventNetObj.GetComponent<Vent>();
-        if (vent != null)
+    }
+
+    [ClientRpc]
+    private void TeleportClientRpc(ulong targetClientId, Vector3 position)
+    {
+        if (NetworkManager.Singleton.LocalClientId == targetClientId)
         {
-            vent.TeleportToVent(localController);
-            Debug.LogWarning($"[SERVER RPC] Client {ventNetObj.OwnerClientId} teleported to vent.");
+            transform.position = position;
         }
     }
 

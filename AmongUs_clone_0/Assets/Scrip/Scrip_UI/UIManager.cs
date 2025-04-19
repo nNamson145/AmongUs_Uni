@@ -52,11 +52,11 @@ public class UIManager : MonoBehaviour
         if (localPlayer.gameObject.GetComponent<ImpostorController>() && localPlayer.gameObject.GetComponent<ImpostorController>().enabled)
         {
             localPlayer.gameObject.GetComponent<ImpostorController>().Kill();
-            Debug.Log(localPlayer.gameObject.GetComponent<ImpostorController>().name);
+            //Debug.Log(localPlayer.gameObject.GetComponent<ImpostorController>().name);
         }
         else
         {
-            Debug.LogWarning("Player isnt impostor");
+            Debug.LogWarning("Player isnt impostor, cant kill");
         }
     }
 
@@ -67,12 +67,16 @@ public class UIManager : MonoBehaviour
 
     public void OnClickVent()
     {
-        if (localPlayer != null )
+        if (localPlayer == null ) return;
+        
+        if (localPlayer.gameObject.GetComponent<ImpostorController>() && localPlayer.gameObject.GetComponent<ImpostorController>().enabled)
         {
-            localPlayer.GetComponent<ImpostorController>().UseVent();
-            return;
+            localPlayer.gameObject.GetComponent<ImpostorController>().UseVent();
         }
-        Debug.LogError("Impostor can not use vent");
+        else
+        {
+            Debug.LogWarning("Player isnt impostor, cant vent");
+        }
     }
 
     public void OnClickReport()

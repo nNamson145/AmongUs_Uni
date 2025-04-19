@@ -143,6 +143,7 @@ public class PlayerController : NetworkBehaviour
         if (collision != currentObjHit)
         {
             currentObjHit = collision;
+            Debug.Log($"[CLIENT] {OwnerClientId} hit {collision.name} with tag {collision.tag}");
         }
 
         if (collision.CompareTag("Player"))

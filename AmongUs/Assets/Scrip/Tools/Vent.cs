@@ -4,7 +4,7 @@ using UnityEngine;
 public class Vent : NetworkBehaviour
 {
     [SerializeField]
-    private Vent ventLink;
+    public Vent ventLink;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -20,9 +20,6 @@ public class Vent : NetworkBehaviour
     
     public void TeleportToVent(PlayerController player)
     {
-        if (!player.GetComponent<ImpostorController>().enabled) return;
-        //play anim
-        player.transform.position = ventLink.transform.position;
-        //play anim
+        GameManager.instance.ImpostorJumpToVentLink(player, ventLink);
     }
 }

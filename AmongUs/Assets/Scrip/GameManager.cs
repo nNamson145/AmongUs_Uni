@@ -80,4 +80,25 @@ public class GameManager : NetworkBehaviour
     }
 
 #endregion
+
+
+#region VENT IMPOSTOR
+
+public void ImpostorJumpToVentLink(PlayerController player,Vent ventLink)
+{
+    //play anim
+    var rb = player.GetComponent<Rigidbody2D>(); // hoặc Rigidbody nếu 3D
+    if (rb != null)
+    {
+        rb.position = ventLink.transform.position;
+        rb.linearVelocity = Vector2.zero; // optional: dừng lại
+    }
+    else
+    {
+        Debug.LogError("Missing Rigidbody on Player!");
+    }        //play anim
+}
+
+
+#endregion
 }
